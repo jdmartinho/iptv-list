@@ -1,0 +1,150 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="rtp1.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/RTP1_2016.png/200px-RTP1_2016.png" group-title="PORTUGAL",[COLOR yellow][I][B]RTP 1[/B][/I][/COLOR]
+http://rtp-pull-live-h1bnxvdk2-proprtp-app-wrtp.hls.adaptive.level3.net:80/liverepeater/rtp1_5ch5h264.stream/playlist.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36
+#EXTINF:-1 tvg-id="rtp2.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4d/Rtp2_2016_logo.png/250px-Rtp2_2016_logo.png" group-title="PORTUGAL",[COLOR yellow][I][B]RTP 2[/B][/I][/COLOR]
+https://streaming-live.rtp.pt/liverepeater/smil:rtp2.smil/chunklist_b640000_slpt.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play
+#EXTINF:-1 tvg-id="sic.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Logo_sic.jpg/230px-Logo_sic.jpg" group-title="PORTUGAL",[COLOR yellow][I][B]SIC (geobloqueado)[/B][/I][/COLOR]
+http://live.impresa.pt/live/sic/sic540p.m3u8
+#https://live.impresa.pt/live/sic/sic.m3u8
+#EXTINF:-1 tvg-id="TVI.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/6/63/TVI_logo_2017.png" group-title="PORTUGAL",[COLOR yellow][I][B]TVI[/B][/I][/COLOR]
+https://video-auth1.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNy8yMDE4IDU6NTM6MCBQTSZoYXNoX3ZhbHVlPW05VEs1ODhaS01xQlgzazFrRXRoOHc9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD05NTBkNzFiZi1kNjNjLTQ4YjktYjU5Zi1iODhlMmYwNzdkYTE=
+#EXTINF:-1 tvg-id="rtpn.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Rtp3.png/200px-Rtp3.png" group-title="PORTUGAL",[COLOR yellow][I][B]RTP 3 [/B][/I][/COLOR]
+https://streaming-live.rtp.pt/liverepeater/smil:rtpn.smil/chunklist_b640000_slpt.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/f/fa/SICNWhite.png/170px-SICNWhite.png" group-title="PORTUGAL",[COLOR yellow][I][B]SIC NOTICIAS (geobloqueado)[/B][/I][/COLOR]
+http://live.impresa.pt/live/sicnot/sicnot540p.m3u8?mag
+#http://live.impresa.pt/live/sicnot/sicnot.m3u8
+#EXTINF:-1 tvg-id="TVI24.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/5/50/Tvi_24.png/200px-Tvi_24.png" group-title="PORTUGAL",[COLOR yellow][I][B]TVI 24[/B][/I][/COLOR]
+http://noscdne.entrprise.tv:1935/cvo/tvi24.stream/live.m3u8?mag
+#EXTINF:-1 tvg-id="rtpmemoria.pt"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/RtpMemoria_positivo_horiz_RGB.png/250px-RtpMemoria_positivo_horiz_RGB.png" group-title="PORTUGAL",[COLOR yellow][I][B]RTP MEMÓRIA[/B][/I][/COLOR]
+https://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/chunklist_b640000_slpt.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play
+#EXTINF:-1 tvg-id="RTPi.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/RTP_Internacional_2016_%28Reduced_Version%29.svg/219px-RTP_Internacional_2016_%28Reduced_Version%29.svg.png" group-title="PORTUGAL",[COLOR yellow][I][B]RTP INTERNACIONAL[/B][/I][/COLOR]
+https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/chunklist_b640000_slpt.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play
+#EXTINF:-1 tvg-id="RTPAfrica.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/c/cf/RTP%C3%81frica.png/250px-RTP%C3%81frica.png" group-title="PORTUGAL",[COLOR yellow][I][B]RTP ÁFRICA[/B][/I][/COLOR]
+https://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/chunklist_b640000_slpt.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play
+#EXTINF:-1 tvg-id="RTPMadeira.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Futuro_log%C3%B3tipo_da_RTP_Madeira.jpg/220px-Futuro_log%C3%B3tipo_da_RTP_Madeira.jpg" group-title="PORTUGAL",[COLOR yellow][I][B]RTP MADEIRA[/B][/I][/COLOR]
+https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/chunklist_b640000_slpt.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play
+#EXTINF:-1 tvg-id="RTPAcores.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/RTP_A%C3%A7ores_2016_%28Reduced_Version%29.svg/220px-RTP_A%C3%A7ores_2016_%28Reduced_Version%29.svg.png" group-title="PORTUGAL",[COLOR yellow][I][B]RTP AÇORES[/B][/I][/COLOR]
+https://streaming-live.rtp.pt/liverepeater/smil:rtpacores.smil/chunklist_b640000_slpt.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play
+#EXTINF:-1 tvg-id="PortoCanal.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Logo_Porto_Canal.jpg/200px-Logo_Porto_Canal.jpg" group-title="PORTUGAL",[COLOR yellow][I][B]PORTO CANAL[/B][/I][/COLOR]
+http://213.13.26.11:1935/live/portocanal/magellan.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Logosicradical.png/200px-Logosicradical.png" group-title="PORTUGAL",[COLOR yellow][I][B]SIC RADICAL (geobloqueado)[/B][/I][/COLOR]
+http://live.impresa.pt/live/sicrad/sicrad.m3u8
+#http://live.impresa.pt/live/sicrad/sicrad540p.m3u8
+#EXTINF:0,[COLOR cyan]» »ESPANHA « «[/COLOR]
+http://0.0.0.0:1234
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/TVE_La1_-_Logo_2008.png/200px-TVE_La1_-_Logo_2008.png" group-title="ESPANHA",[COLOR cyan][I][B]LA 1 [/B][/I][/COLOR]
+http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl7/la1_lv3_aosv4_gl7/la1_lv3_aosv4_gl7.isml/la1_lv3_aosv4_gl7-audio=128000-video=400000.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Antena3_Atresmedia.png/200px-Antena3_Atresmedia.png" group-title="ESPANHA",[COLOR cyan][I][B]ANTENA 3 [/B][/I][/COLOR]
+#http://a3live-lh.akamaihd.net/i/antena3_1@35248/master.m3u8
+#EXTINF:-1 tvg-logo="http://www.formulatv.com/images/noticias/52100/52199/1_517bdcfe12.jpg" group-title="ESPANHA",[COLOR cyan][I][B]ANTENA 3 SERIES [/B][/I][/COLOR]
+#http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/index_4_av-b.m3u8?sd=10&rebase=o
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/La_Sexta_%28A3M%29.svg/100px-La_Sexta_%28A3M%29.svg.png" group-title="ESPANHA",[COLOR cyan][I][B]LA SEXTA [/B][/I][/COLOR]
+#http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_3_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/MEGA.svg/250px-MEGA.svg.png" group-title="ESPANHA",[COLOR cyan][I][B]MEGA [/B][/I][/COLOR]
+#http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_4_av-p.m3u8
+#EXTINF:-1 tvg-logo="http://latelete.tv/img/nova.png" group-title="ESPANHA",[COLOR cyan][I][B]NOVA [/B][/I][/COLOR]
+#http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/index_4_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Logoneoxamarillo.gif" group-title="ESPANHA",[COLOR cyan][I][B]NEOX [/B][/I][/COLOR]
+#http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8
+#EXTINF:-1 tvg-logo="http://latelete.tv/img/24h.png" group-title="ESPANHA",[COLOR cyan][I][B]RTVE 24 [/B][/I][/COLOR]
+http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl8/24h_onlydash_lv3_aosv4_gl8/24h_onlydash_lv3_aosv4_gl8.isml/24h_onlydash_lv3_aosv4_gl8.m3u8
+#EXTINF:-1 tvg-logo="http://www.8tv.cat/wp-content/themes/8tv/_/images/apple-touch-icons/apple-touch-icon.png" group-title="ESPANHA",[COLOR cyan][I][B]8TV [/B][/I][/COLOR]
+http://streaming.8tv.cat/8TV/8aldia-directe/chunklist_w1058883651.m3u8
+#EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/d/dc/Canal3-24_logo2014.png/revision/latest?cb=20140121145440" group-title="ESPANHA",[COLOR cyan][I][B]3/24[/B][/I][/COLOR]
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_mobil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://latelete.tv/img/telemadrid.png" group-title="ESPANHA",[COLOR cyan][I][B]TELEMADRID [/B][/I][/COLOR]
+http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/bitrate_1.m3u8
+#EXTINF:-1 tvg-logo="http://www.canalextremadura.es/sites/all/themes/canalex_2016/images/canalex/logotipo@2x.png" group-title="ESPANHA",[COLOR cyan][I][B]CANAL EXTREMADURA [/B][/I][/COLOR]
+http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Televisi%C3%B3n_de_Galicia_Logo.svg/200px-Televisi%C3%B3n_de_Galicia_Logo.svg.png" group-title="ESPANHA",[COLOR cyan][I][B]TV GALICIA [/B][/I][/COLOR]
+http://europa-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2a/RTPA_logo.svg/200px-RTPA_logo.svg.png" group-title="ESPANHA",[COLOR cyan][I][B]TV ASTURIAS [/B][/I][/COLOR]
+http://iphone.rtpa.stream.flumotion.com/rtpa/tv-iphone/main.m3u8
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-dojqxEjIWaI/TkYpA1sT-HI/AAAAAAAAAWs/5RAM_Ih6XU0/s1600/aragontvlogo.jpg" group-title="ESPANHA",[COLOR cyan][I][B]ARAGON TV [/B][/I][/COLOR]
+http://aragontv.stream.flumotion.com/aragontv/hls-live/main.m3u8
+#EXTINF:-1 tvg-logo="http://www.canalsur.es/css/svg/canalsur.svg" group-title="ESPANHA",[COLOR cyan][I][B]CANAL SUR [/B][/I][/COLOR]
+http://canalsur-live.hls.adaptive.level3.net/hls-live/canalsur_live-rtva/_definst_/live.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/RTVA_logotip.png" group-title="ESPANHA",[COLOR cyan][I][B]ANDORRA TV [/B][/I][/COLOR]
+http://194.158.80.31:443/live/rtva/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ae/Realmadrid-TV.jpg" group-title="ESPANHA",[COLOR cyan][I][B]REAL MADRID TV [/B][/I][/COLOR]
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
+#EXTINF:-1 tvg-logo="https://thumbnailer.mixcloud.com/unsafe/300x300/extaudio/1/2/f/d/7d6f-dd5b-4be5-a9b2-e503b2c2c116.jpg" group-title="ESPANHA",[COLOR cyan][I][B]ANIME TV [/B][/I][/COLOR]
+http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
+#EXTINF:0,[COLOR red]» » FRANÇA « «[/COLOR]
+http://0.0.0.0:1234
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/TV5Monde_Logo.svg/200px-TV5Monde_Logo.svg.png" group-title="FRANÇA",[COLOR red][I][B]TV 5 MONDE [/B][/I][/COLOR]
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TV5/tu1_manifest.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Logo_zouzous.png/280px-Logo_zouzous.png" group-title="FRANÇA",[COLOR red][I][B]ZOUZOUS [/B][/I][/COLOR]
+http://ftviflivehdz-f.akamaihd.net/i/zouzous_live@88958/index_832_av-p.m3u8|User-Agent=Mozilla/5.0 (iPhone; U; CPU iPhone OS 3_0 like Mac OS X; en-us) AppleWebKit/528.18 (KHTML, like Gecko) Version/4.0 Mobile/7A341 Safari/528.16&X-Forwarded-For=213.251.128.136
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/f/f0/Small_logo_GONG_black.png/180px-Small_logo_GONG_black.png" group-title="FRANÇA",[COLOR red][I][B]GONG [/B][/I][/COLOR]
+rtsp://ec.playmedia.fr:1935/gong-base/live
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/67/Alsace_20_logo_2013.png/150px-Alsace_20_logo_2013.png" group-title="FRANÇA",[COLOR red][I][B]ALSACE 20 [/B][/I][/COLOR]
+http://live.alsace20.fr/live/alsace20/ngrp:alsace20_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/2/27/LogoLCN.JPG/250px-LogoLCN.JPG" group-title="FRANÇA",[COLOR red][I][B]LA CHAINE NORMANDIE [/B][/I][/COLOR]
+rtmp://live.lachainenormande.fr:80/live/lcn/livestream
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/120px-FRANCE_24_logo.svg.png" group-title="FRANÇA",[COLOR red][I][B]FRANCE 24 [/B][/I][/COLOR]
+http://f24hls-i.akamaihd.net/hls/live/221192/F24_FR_LO_HLS/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/BFM_TV_logo.png" group-title="FRANÇA",[COLOR red][I][B]BFM TV [/B][/I][/COLOR]
+http://csm-e.dai.bfmtv.com/csm/live/109797390.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/0/0c/Logo_NRJ_Hits.jpg/120px-Logo_NRJ_Hits.jpg.gif" group-title="FRANÇA",[COLOR red][I][B]NRJ HITS [/B][/I][/COLOR]
+rtsp://5.196.138.6:1935/live/nrjbelgique_360p
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/Radio_105_Network.png/200px-Radio_105_Network.png" group-title="FRANÇA",[COLOR red][I][B]RADIO 105 TV [/B][/I][/COLOR]
+rtmp://fms.105.net:1935/live/105Test1
+#EXTINF:-1 tvg-logo="http://logosolusa.com/wp-content/uploads/parser/Radio-Monte-Carlo-Logo-1.jpg" group-title="FRANÇA",[COLOR red][I][B]RADIO MONTE CARLO [/B][/I][/COLOR]
+rtmp://fms.105.net:1935/live/rmc1
+#EXTINF:0,[COLOR deepskyblue]» » VÁRIOS INTERNACIONAIS « «[/COLOR]
+http://0.0.0.0:1234
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Rai_4_-_Logo_2016.svg/1280px-Rai_4_-_Logo_2016.svg.png" group-title=“VARIOS INTERNACIONAIS”,[COLOR deepskyblue][I][B]RAI 4 (ITA)[/B][/I][/COLOR]
+http://b2everyrai-lh.akamaihd.net/i/rai4_1@181951/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Rai_5_-_Logo_2017.svg/200px-Rai_5_-_Logo_2017.svg.png" group-title=“VARIOS INTERNACIONAIS”,[COLOR deepskyblue][I][B]RAI 5 (ITA)[/B][/I][/COLOR]
+http://b2.stream12.rai.it/live/smil%3arai5.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Rai_Yoyo_-_Logo_2017.svg/200px-Rai_Yoyo_-_Logo_2017.svg.png" group-title=“VARIOS INTERNACIONAIS”,[COLOR deepskyblue][I][B]RAI YOYO (ITA)[/B][/I][/COLOR]
+http://b2everyrai-lh.akamaihd.net/i/raiyoyo_1@191405/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Rai_Storia_-_Logo_2017.svg/1200px-Rai_Storia_-_Logo_2017.svg.png" group-title=“VARIOS INTERNACIONAIS”,[COLOR deepskyblue][I][B]RAI STORIA (ITA)[/B][/I][/COLOR]
+http://everyrai-lh.akamaihd.net/i/raistoria_1@308058/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Rai_Premium_-_Logo_2017.svg/160px-Rai_Premium_-_Logo_2017.svg.png" group-title=“VARIOS INTERNACIONAIS”,[COLOR deepskyblue][I][B]RAI PREMIUM (ITA)[/B][/I][/COLOR]
+http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Rai_Movie_-_Logo_2017.svg/1200px-Rai_Movie_-_Logo_2017.svg.png" group-title=“VARIOS INTERNACIONAIS”,[COLOR deepskyblue][I][B]RAI MOVIE (ITA)[/B][/I][/COLOR]
+http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Rai_Scuola_-_Logo_2017.svg/260px-Rai_Scuola_-_Logo_2017.svg.png" group-title=“VARIOS INTERNACIONAIS”,[COLOR deepskyblue][I][B]RAI SCUOLA (ITA)[/B][/I][/COLOR]
+http://originstream6.rai.it/italy/smil:raiscuola.smil/chunklist_b900000.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Rai_Gulp_-_Logo_2017.svg/1200px-Rai_Gulp_-_Logo_2017.svg.png" group-title=“VARIOS INTERNACIONAIS”,[COLOR deepskyblue][I][B]RAI GULP (ITA)[/B][/I][/COLOR]
+http://b2everyrai-lh.akamaihd.net/i/raigulp1@66350/index1200av-p.m3u8
+#EXTINF:-1 tvg-logo="http://www.daserste.de/specials/das-erste-logo-100~_v-varl_dabd4c.jpg" group-title="VARIOS INTERNACIONAIS",[COLOR deepskyblue][I][B]DAS ERSTE (ALE)[/B][/I][/COLOR]
+http://live-lh.daserste.de/i/daserste_de@91204/index_2692_av-p.m3u8
+#EXTINF:-1 tvg-logo="http://www.evard.ch/digitv/logo/tagesschau24.png" group-title="VARIOS INTERNACIONAIS",[COLOR deepskyblue][I][B]TAGESSCHAU 24 (ALE)[/B][/I][/COLOR]
+http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/master.m3u8?b=400-4000
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Deutsche_Welle_Logo.svg/1280px-Deutsche_Welle_Logo.svg.png" group-title="VARIOS INTERNACIONAIS",[COLOR deepskyblue][I][B]DW (ALE)[/B][/I][/COLOR]
+http://www.metafilegenerator.de/DWelle/tv/ios/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/NRW.TV_Logo.svg/500px-NRW.TV_Logo.svg.png" group-title="VARIOS INTERNACIONAIS",[COLOR deepskyblue][I][B]NRW (ALE)[/B][/I][/COLOR]
+http://streaming006.broadcast.tneg.de:1935/nrwtv-new/_definst_/smil:nrw.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://old.anixehd.tv/lib/img/fallback/logo.png" group-title="VARIOS INTERNACIONAIS",[COLOR deepskyblue][I][B]ANIXE (ALE)[/B][/I][/COLOR]
+http://video1.anixehd.tv:8080/Apple/wifistream.m3u8
+#EXTINF:0,[COLOR yellowgreen]» » NOTÍCIAS INTERNACIONAIS « «[/COLOR]
+http://0.0.0.0:1234
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Sky_News_2015_Logo.svg/800px-Sky_News_2015_Logo.svg.png" group-title="NOTÍCIAS INTERNACIONAIS",[COLOR yellowgreen][I][B]SKY NEWS (UK) [/B][/I][/COLOR]
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/BBC_World_News_red.svg/200px-BBC_World_News_red.svg.png" group-title="NOTÍCIAS INTERNACIONAIS",[COLOR yellowgreen][I][B]BBC WORLD NEWS (UK) [/B][/I][/COLOR]
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/BBCW/tu1_1.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Cnn_logo_red_background.png" group-title="NOTÍCIAS INTERNACIONAIS",[COLOR yellowgreen][I][B]CNN (USA) [/B][/I][/COLOR]
+http://4.31.30.145:9001
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/CBS_News.svg/220px-CBS_News.svg.png" group-title="NOTÍCIAS INTERNACIONAIS",[COLOR yellowgreen][I][B]CBS NEWS (USA) [/B][/I][/COLOR]
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_2200_av-p.m3u8
+#EXTINF:-1 tvg-logo="http://s26.postimg.org/sgk7abcu1/hjgj.jpg" group-title="NOTÍCIAS INTERNACIONAIS",[COLOR yellowgreen][I][B]ABC NEWS (USA) [/B][/I][/COLOR]
+http://abclive.abcnews.com/i/abc_live1@136327/index_2500_av-p.m3u8
+#EXTINF:-1 tvg-logo="http://s26.postimg.org/xt91og0qh/image.jpg" group-title="NOTÍCIAS INTERNACIONAIS",[COLOR yellowgreen][I][B]MSNBC (USA) [/B][/I][/COLOR]
+http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/index_296_av-p.m3u8
+#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/9/90/Wgn9newsopen.jpg/revision/latest?cb=20151210042859" group-title="NOTÍCIAS INTERNACIONAIS",[COLOR yellowgreen][I][B]WGN NEWS CHICAGO (USA) [/B][/I][/COLOR]
+http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8
+#EXTINF:-1 tvg-logo="https://vignette3.wikia.nocookie.net/logopedia/images/8/87/WRC-TV_NEWS_4_LOGO.png/revision/latest?cb=20130111024825" group-title="NOTÍCIAS INTERNACIONAIS",[COLOR yellowgreen][I][B]WRC NEWS 4 (USA) [/B][/I][/COLOR]
+http://wrclive-f.akamaihd.net/i/wrcb1_1@46880/index_1286_av-p.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/Bloomberg_News_logo.png" group-title="NOTÍCIAS INTERNACIONAIS",[COLOR yellowgreen][I][B]BLOOMBERG (USA) [/B][/I][/COLOR]
+#http://cdn3.videos.bloomberg.com/btv/us/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/1200px-FRANCE_24_logo.svg.png" group-title="NOTÍCIAS INTERNACIONAIS",[COLOR yellowgreen][I][B]FRANCE 24 (FRA) [/B][/I][/COLOR]
+http://f24hls-i.akamaihd.net/hls/live/221192/F24_FR_LO_HLS/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/91/SKY_TG24.png" group-title="NOTÍCIAS INTERNACIONAIS",[COLOR yellowgreen][I][B]SKY TG24 (ITA) [/B][/I][/COLOR]
+http://skyianywhere2-i.akamaihd.net/hls/live/200275/tg24/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://s26.postimg.org/ahwh9550p/al_jazeera_channel_qa_hd.png" group-title="NOTÍCIAS INTERNACIONAIS",[COLOR yellowgreen][I][B]AL JAZEERA-UK (QAT) [/B][/I][/COLOR]
+http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index255.m3u8
+#EXTINF:-1 tvg-logo="http://s26.postimg.org/q0yik02p5/5_YEHGFD.jpg" group-title="NOTÍCIAS INTERNACIONAIS",[COLOR yellowgreen][I][B]RT AMERICA (RUS) [/B][/I][/COLOR]
+http://secure-streams.akamaized.net/rt-usa/index2500.m3u8

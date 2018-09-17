@@ -1,0 +1,64 @@
+Portugal
+- RTP 1
+- RTP 2
+- SIC
+- TVI
+- RTP 3
+- SIC Noticias
+- TVI 24
+- RTP Memoria
+- RTP Internacional
+- RTP Africa
+- RTP Acores
+- RTP Madeira
+- Porto Canal
+- SIC Radical
+Irlanda
+- RTE One
+- RTE2
+- Virgin Media One
+- TG4
+- Virgin Media Two
+- Virgin Media Three
+UK
+- BBC One
+- BBC Two
+- ITV
+- Channel 4
+- S4C
+- Channel 5
+- ITV 2
+- BBC Alba
+- BBC Four
+- ITV 3
+- Pick
+- Dave
+- More4
+- Film4
+Espanha
+- La 1
+- La 2
+- Antena 3
+- Cuatro
+- Telecinco
+- La Sexta
+- Mega
+- Nova
+- Neox
+- Ten
+- FDF
+- Divinity
+- Trece
+- Energy
+- Boing
+- DMax
+- DKiss
+- Gol
+- Real Madrid TV
+- 8 TV
+- Telemadrid
+- Canal Extremadura
+- Aragon TV
+- Canal Sur
+- Andalucia TV
+- TV Galicia
