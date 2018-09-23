@@ -2,9 +2,9 @@
 #EXTINF:0,[COLOR green] IRLANDA [/COLOR]
 http://0.0.0.0:1234
 #EXTINF:-1 tvg-id="rteone" tvg-logo="" group-title="IRLANDA",[COLOR green][I][B]RTE One[/B][/I][/COLOR]
-https://lhr-1.firstonetv.net:4434/hls/489f23b8678d1f3b4e7b16bf37fa60ee/1537730314/7b226970223a2239342e3133372e3133332e3132222c227561223a66616c73652c22726566223a66616c73652c2270726f7879223a226368227d/68747470733a2f2f63646e2e7261737365742e69652f686c732d6c6976652f5f646566696e73745f2f727465312f727465312d3732302e6d337538.m3u8
+http://cdn.rasset.ie/hls-live/_definst_/rte1/rte1-360.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rte.ie/play
 #EXTINF:-1 tvg-id="rte2" tvg-logo="" group-title="IRLANDA",[COLOR green][I][B]RTE 2[/B][/I][/COLOR]
-https://lhr-1.firstonetv.net:4434/hls/1189b0ed865678325815fd213c3e55c4/1537730377/7b226970223a2239342e3133372e3133332e3132222c227561223a66616c73652c22726566223a66616c73652c2270726f7879223a226368227d/68747470733a2f2f63646e2e7261737365742e69652f686c732d6c6976652f5f646566696e73745f2f727465322f727465322d3732302e6d337538.m3u8
+http://cdn.rasset.ie/hls-live/_definst_/rte2/rte2-360.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rte.ie/play
 #EXTINF:-1 tvg-id="virginmedia1" tvg-logo="" group-title="IRLANDA",[COLOR green][I][B]Virgin Media 1[/B][/I][/COLOR]
 http://csm-e.cds1.yospace.com/csm/extlive/tv3ie01,tv3-prd.m3u8
 #EXTINF:-1 tvg-id="tg4" tvg-logo="" group-title="IRLANDA",[COLOR green][I][B]TG4[/B][/I][/COLOR]
@@ -13,11 +13,14 @@ http://csm-e.cds1.yospace.com/csm/live/74246540.m3u8
 http://csm-e.cds1.yospace.com/csm/extlive/tv3ie01,3e-prd.m3u8
 #EXTINF:-1 tvg-id="virginmedia3" tvg-logo="" group-title="IRLANDA",[COLOR green][I][B]Virgin Media 3[/B][/I][/COLOR]
 http://csm-e.cds1.yospace.com/csm/extlive/tv3ie01,be3-prd.m3u8
+#EXTINF:-1 tvg-id="rtenewsnow" tvg-logo="" group-title="IRLANDA",[COLOR green][I][B]RTE News Now[/B][/I][/COLOR]
+http://wmsrtsp1.rte.ie/live/android.sdp/playlist.m3u8
+
 
 #EXTINF:0,[COLOR blue] REINO UNIDO [/COLOR]
 http://0.0.0.0:1234
 #EXTINF:-1 tvg-id="bbcone" tvg-logo="" group-title="REINO UNIDO",[COLOR blue][I][B]BBC One[/B][/I][/COLOR]
-https://par-5.firstonetv.net/hls/e00b5473-9aa0-2ed0-2e59-7d22b8037264.m3u8
+https://cdn3.transponder.tv//hlp_55547a888bbcb/bbcone_adp.m3u8?clientKey=7dd6140e7c95e9ffb0481107958d9b77-MTUzNzcxMjI5OQ==&device=row&channelid=1&channel=1&ea=TGl2ZS10di1vLXRyb24=
 #EXTINF:-1 tvg-id="bbctwo" tvg-logo="" group-title="REINO UNIDO",[COLOR blue][I][B]BBC Two[/B][/I][/COLOR]
 https://par-1.firstonetv.net/hls/fbc43f27-771d-d355-1475-5e2def3794a2.m3u8
 #EXTINF:-1 tvg-id="itv1" tvg-logo="" group-title="REINO UNIDO",[COLOR blue][I][B]ITV 1[/B][/I][/COLOR]
@@ -44,15 +47,15 @@ http://live.impresa.pt/live/sicnot/sicnot540p.m3u8?mag
 #http://live.impresa.pt/live/sicnot/sicnot.m3u8
 #EXTINF:-1 tvg-id="TVI24.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/5/50/Tvi_24.png/200px-Tvi_24.png" group-title="PORTUGAL",[COLOR yellow][I][B]TVI 24[/B][/I][/COLOR]
 http://noscdne.entrprise.tv:1935/cvo/tvi24.stream/live.m3u8?mag
-#EXTINF:-1 tvg-id="rtpmemoria.pt"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/RtpMemoria_positivo_horiz_RGB.png/250px-RtpMemoria_positivo_horiz_RGB.png" group-title="PORTUGAL",[COLOR yellow][I][B]RTP MEM�RIA[/B][/I][/COLOR]
+#EXTINF:-1 tvg-id="rtpmemoria.pt"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/RtpMemoria_positivo_horiz_RGB.png/250px-RtpMemoria_positivo_horiz_RGB.png" group-title="PORTUGAL",[COLOR yellow][I][B]RTP MEMORIA[/B][/I][/COLOR]
 https://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/chunklist_b640000_slpt.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play
 #EXTINF:-1 tvg-id="RTPi.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/RTP_Internacional_2016_%28Reduced_Version%29.svg/219px-RTP_Internacional_2016_%28Reduced_Version%29.svg.png" group-title="PORTUGAL",[COLOR yellow][I][B]RTP INTERNACIONAL[/B][/I][/COLOR]
 https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/chunklist_b640000_slpt.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play
-#EXTINF:-1 tvg-id="RTPAfrica.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/c/cf/RTP%C3%81frica.png/250px-RTP%C3%81frica.png" group-title="PORTUGAL",[COLOR yellow][I][B]RTP �FRICA[/B][/I][/COLOR]
+#EXTINF:-1 tvg-id="RTPAfrica.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/c/cf/RTP%C3%81frica.png/250px-RTP%C3%81frica.png" group-title="PORTUGAL",[COLOR yellow][I][B]RTP AFRICA[/B][/I][/COLOR]
 https://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/chunklist_b640000_slpt.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play
 #EXTINF:-1 tvg-id="RTPMadeira.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Futuro_log%C3%B3tipo_da_RTP_Madeira.jpg/220px-Futuro_log%C3%B3tipo_da_RTP_Madeira.jpg" group-title="PORTUGAL",[COLOR yellow][I][B]RTP MADEIRA[/B][/I][/COLOR]
 https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/chunklist_b640000_slpt.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play
-#EXTINF:-1 tvg-id="RTPAcores.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/RTP_A%C3%A7ores_2016_%28Reduced_Version%29.svg/220px-RTP_A%C3%A7ores_2016_%28Reduced_Version%29.svg.png" group-title="PORTUGAL",[COLOR yellow][I][B]RTP A�ORES[/B][/I][/COLOR]
+#EXTINF:-1 tvg-id="RTPAcores.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/RTP_A%C3%A7ores_2016_%28Reduced_Version%29.svg/220px-RTP_A%C3%A7ores_2016_%28Reduced_Version%29.svg.png" group-title="PORTUGAL",[COLOR yellow][I][B]RTP ACORES[/B][/I][/COLOR]
 https://streaming-live.rtp.pt/liverepeater/smil:rtpacores.smil/chunklist_b640000_slpt.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play
 #EXTINF:-1 tvg-id="PortoCanal.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Logo_Porto_Canal.jpg/200px-Logo_Porto_Canal.jpg" group-title="PORTUGAL",[COLOR yellow][I][B]PORTO CANAL[/B][/I][/COLOR]
 http://213.13.26.11:1935/live/portocanal/magellan.m3u8
