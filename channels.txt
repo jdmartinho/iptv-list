@@ -1,31 +1,31 @@
 #EXTM3U
 #EXTINF:0,[COLOR green] IRLANDA [/COLOR]
 http://0.0.0.0:1234
-#EXTINF:-1 tvg-id="rteone" tvg-logo="" group-title="IRLANDA",[COLOR green][I][B]RTE One[/B][/I][/COLOR]
+#EXTINF:-1 tvg-id="rteone" tvg-logo="http://shinawil.com/wp-content/uploads/2016/04/rte-one-logo-shinawil-300x300.png" group-title="IRLANDA",[COLOR green][I][B]RTE One[/B][/I][/COLOR]
 http://cdn.rasset.ie/hls-live/_definst_/rte1/rte1-360.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rte.ie/play
-#EXTINF:-1 tvg-id="rte2" tvg-logo="" group-title="IRLANDA",[COLOR green][I][B]RTE 2[/B][/I][/COLOR]
-http://cdn.rasset.ie/hls-live/_definst_/rte2/rte2-360.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rte.ie/play
-#EXTINF:-1 tvg-id="virginmedia1" tvg-logo="" group-title="IRLANDA",[COLOR green][I][B]Virgin Media 1[/B][/I][/COLOR]
+#EXTINF:-1 tvg-id="rte2" tvg-logo="https://www.firstonetv.net/images/logos/ie/RTE2.png" group-title="IRLANDA",[COLOR green][I][B]RTE 2[/B][/I][/COLOR]
+http://cdn.rasset.ie/hls-live/_definst_/rte2/rte2-270.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rte.ie/play
+#EXTINF:-1 tvg-id="virginmedia1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c9/Virgin_Media_One_logo.png" group-title="IRLANDA",[COLOR green][I][B]Virgin Media 1[/B][/I][/COLOR]
 http://csm-e.cds1.yospace.com/csm/extlive/tv3ie01,tv3-prd.m3u8
-#EXTINF:-1 tvg-id="tg4" tvg-logo="" group-title="IRLANDA",[COLOR green][I][B]TG4[/B][/I][/COLOR]
+#EXTINF:-1 tvg-id="tg4" tvg-logo="https://media.glassdoor.com/sqll/1161918/tg4-squarelogo-1452886334240.png" group-title="IRLANDA",[COLOR green][I][B]TG4[/B][/I][/COLOR]
 http://csm-e.cds1.yospace.com/csm/live/74246540.m3u8
-#EXTINF:-1 tvg-id="virginmedia2" tvg-logo="" group-title="IRLANDA",[COLOR green][I][B]Virgin Media 2[/B][/I][/COLOR]
+#EXTINF:-1 tvg-id="virginmedia2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4f/Virgin_Media_Two_logo.png" group-title="IRLANDA",[COLOR green][I][B]Virgin Media 2[/B][/I][/COLOR]
 http://csm-e.cds1.yospace.com/csm/extlive/tv3ie01,3e-prd.m3u8
-#EXTINF:-1 tvg-id="virginmedia3" tvg-logo="" group-title="IRLANDA",[COLOR green][I][B]Virgin Media 3[/B][/I][/COLOR]
+#EXTINF:-1 tvg-id="virginmedia3" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/09/Virgin_Media_Three_logo.png" group-title="IRLANDA",[COLOR green][I][B]Virgin Media 3[/B][/I][/COLOR]
 http://csm-e.cds1.yospace.com/csm/extlive/tv3ie01,be3-prd.m3u8
-#EXTINF:-1 tvg-id="rtenewsnow" tvg-logo="" group-title="IRLANDA",[COLOR green][I][B]RTE News Now[/B][/I][/COLOR]
+#EXTINF:-1 tvg-id="rtenewsnow" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/db/Rtenewsnownewlogo.png" group-title="IRLANDA",[COLOR green][I][B]RTE News Now[/B][/I][/COLOR]
 http://wmsrtsp1.rte.ie/live/android.sdp/playlist.m3u8
 
 
 #EXTINF:0,[COLOR blue] REINO UNIDO [/COLOR]
 http://0.0.0.0:1234
-#EXTINF:-1 tvg-id="bbcone" tvg-logo="" group-title="REINO UNIDO",[COLOR blue][I][B]BBC One[/B][/I][/COLOR]
-https://cdn3.transponder.tv//hlp_55547a888bbcb/bbcone_adp.m3u8?clientKey=7dd6140e7c95e9ffb0481107958d9b77-MTUzNzcxMjI5OQ==&device=row&channelid=1&channel=1&ea=TGl2ZS10di1vLXRyb24=
-#EXTINF:-1 tvg-id="bbctwo" tvg-logo="" group-title="REINO UNIDO",[COLOR blue][I][B]BBC Two[/B][/I][/COLOR]
+#EXTINF:-1 tvg-id="bbcone" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/fb/BBC_One.svg/revision/latest?cb=20171130185832" group-title="REINO UNIDO",[COLOR blue][I][B]BBC One[/B][/I][/COLOR]
+https://cdn3.transponder.tv//hlp_55547a888bbcb/bbcone_adp.m3u8?clientKey=7dd6140e7c95e9ffb0481107958d9b77-MTUzNzcxMjI5OQ==&device=row&channelid=1&channel=1&ea=TGl2ZS10di1vLXRyb24=|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.transponder.tv
+#EXTINF:-1 tvg-id="bbctwo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/BBC_Two.svg/800px-BBC_Two.svg.png" group-title="REINO UNIDO",[COLOR blue][I][B]BBC Two[/B][/I][/COLOR]
 https://par-1.firstonetv.net/hls/fbc43f27-771d-d355-1475-5e2def3794a2.m3u8
-#EXTINF:-1 tvg-id="itv1" tvg-logo="" group-title="REINO UNIDO",[COLOR blue][I][B]ITV 1[/B][/I][/COLOR]
+#EXTINF:-1 tvg-id="itv1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/92/ITV_logo_2013.svg/1200px-ITV_logo_2013.svg.png" group-title="REINO UNIDO",[COLOR blue][I][B]ITV 1[/B][/I][/COLOR]
 https://par-2.firstonetv.net/hls/6a359c42-37d7-16bb-60b1-2b20f763c611.m3u8
-#EXTINF:-1 tvg-id="channel4" tvg-logo="" group-title="REINO UNIDO",[COLOR blue][I][B]Channel 4[/B][/I][/COLOR]
+#EXTINF:-1 tvg-id="channel4" tvg-logo="https://identitydesigned.com/images/rudd-studio/channel-4-logo.jpg" group-title="REINO UNIDO",[COLOR blue][I][B]Channel 4[/B][/I][/COLOR]
 https://par-1.firstonetv.net/hls/11af7538-857f-106c-6a57-82919394e36a.m3u8
 
 
@@ -47,7 +47,7 @@ http://live.impresa.pt/live/sicnot/sicnot540p.m3u8?mag
 #http://live.impresa.pt/live/sicnot/sicnot.m3u8
 #EXTINF:-1 tvg-id="TVI24.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/5/50/Tvi_24.png/200px-Tvi_24.png" group-title="PORTUGAL",[COLOR yellow][I][B]TVI 24[/B][/I][/COLOR]
 http://noscdne.entrprise.tv:1935/cvo/tvi24.stream/live.m3u8?mag
-#EXTINF:-1 tvg-id="rtpmemoria.pt"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/RtpMemoria_positivo_horiz_RGB.png/250px-RtpMemoria_positivo_horiz_RGB.png" group-title="PORTUGAL",[COLOR yellow][I][B]RTP MEMORIA[/B][/I][/COLOR]
+#EXTINF:-1 tvg-id="rtpmemoria.pt"tvg-logo="http://www.tvtuga.com/wp-content/uploads/2011/01/rtp-memoria.jpg" group-title="PORTUGAL",[COLOR yellow][I][B]RTP MEMORIA[/B][/I][/COLOR]
 https://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/chunklist_b640000_slpt.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play
 #EXTINF:-1 tvg-id="RTPi.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/RTP_Internacional_2016_%28Reduced_Version%29.svg/219px-RTP_Internacional_2016_%28Reduced_Version%29.svg.png" group-title="PORTUGAL",[COLOR yellow][I][B]RTP INTERNACIONAL[/B][/I][/COLOR]
 https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/chunklist_b640000_slpt.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play
@@ -95,7 +95,7 @@ http://europa-crtvg.flumotion.com/playlist.m3u8
 http://iphone.rtpa.stream.flumotion.com/rtpa/tv-iphone/main.m3u8
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-dojqxEjIWaI/TkYpA1sT-HI/AAAAAAAAAWs/5RAM_Ih6XU0/s1600/aragontvlogo.jpg" group-title="ESPANHA",[COLOR cyan][I][B]ARAGON TV [/B][/I][/COLOR]
 http://aragontv.stream.flumotion.com/aragontv/hls-live/main.m3u8
-#EXTINF:-1 tvg-logo="http://www.canalsur.es/css/svg/canalsur.svg" group-title="ESPANHA",[COLOR cyan][I][B]CANAL SUR [/B][/I][/COLOR]
+#EXTINF:-1 tvg-logo="https://www.andorratelecom.ad/documents/33347/112493/canal+sur+andalucia-01.png" group-title="ESPANHA",[COLOR cyan][I][B]CANAL SUR [/B][/I][/COLOR]
 http://canalsur-live.hls.adaptive.level3.net/hls-live/canalsur_live-rtva/_definst_/live.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/RTVA_logotip.png" group-title="ESPANHA",[COLOR cyan][I][B]ANDORRA TV [/B][/I][/COLOR]
 http://194.158.80.31:443/live/rtva/playlist.m3u8
