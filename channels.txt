@@ -157,3 +157,5 @@ http://wrclive-f.akamaihd.net/i/wrcb1_1@46880/index_1286_av-p.m3u8
 #EXTINF:-1 tvg-id="EuroNews.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Euronews._2016_alternative_logo.png" group-title="NOTICIAS",[COLOR yellowgreen][I][B]Euronews[/B][/I][/COLOR]
 https://euronews-en-b13-cdn.hexaglobe.net/50e8b08a510d4c50e884fc2c2daf97a8/5ba7b5dd/euronews/euronews-euronews-website-web-responsive-2/ewnsabrenbkp_eng.smil/ewnsabrenbkp_eng_540p.m3u8
 #https://cdn1.transponder.tv//hlp_7b0bb87a555ea/euronews_adp.m3u8?clientKey=f1350b97cdb3e12949fc12d0f79ce89a-MTUzNzcyNDg3OA==&device=row&channelid=99&channel=99&ea=TGl2ZS10di1vLXRyb24=|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.transponder.tv
+#EXTINF:-1 tvg-id="NHKWorld.jp" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/41M2TiBsEnL._SY355_.png" group-title="NOTICIAS",[COLOR yellowgreen][I][B]NHK World[/B][/I][/COLOR]
+https://nhkwtvglobal-i.akamaihd.net/hls/live/263941/nhkwtvglobal/index_1180.m3u8
