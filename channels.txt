@@ -118,6 +118,8 @@ http://0.0.0.0:1234
 http://f24hls-i.akamaihd.net/hls/live/221192/F24_FR_LO_HLS/master.m3u8
 #EXTINF:-1 tvg-id="Alsace20.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/67/Alsace_20_logo_2013.png/150px-Alsace_20_logo_2013.png" group-title="FRANCA",[COLOR cyan][I][B]Alsace 20[/B][/I][/COLOR]
 http://live.alsace20.fr/live/alsace20/ngrp:alsace20_all/playlist.m3u8
+#EXTINF:-1 tvg-id="FashionTV.fr" tvg-logo="https://www.licenseindia.com/wp-content/uploads/2015/05/fashion-tv.gif" group-title="FRANCA",[COLOR cyan][I][B]Fashion TV[/B][/I][/COLOR]
+https://stream-04.dc3.dailymotion.com/dm/3/x3m6nld/live-2.m3u8
 
 #EXTINF:-1,[COLOR blue] ITALIA [/COLOR]
 http://0.0.0.0:1234
@@ -167,3 +169,4 @@ https://euronews-en-b13-cdn.hexaglobe.net/50e8b08a510d4c50e884fc2c2daf97a8/5ba7b
 #https://cdn1.transponder.tv//hlp_7b0bb87a555ea/euronews_adp.m3u8?clientKey=f1350b97cdb3e12949fc12d0f79ce89a-MTUzNzcyNDg3OA==&device=row&channelid=99&channel=99&ea=TGl2ZS10di1vLXRyb24=|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.transponder.tv
 #EXTINF:-1 tvg-id="NHKWorld.jp" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/41M2TiBsEnL._SY355_.png" group-title="NOTICIAS",[COLOR yellowgreen][I][B]NHK World[/B][/I][/COLOR]
 https://nhkwtvglobal-i.akamaihd.net/hls/live/263941/nhkwtvglobal/index_1180.m3u8
+
