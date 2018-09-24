@@ -81,6 +81,14 @@ http://live.impresa.pt/live/sicrad/sicrad.m3u8
 http://0.0.0.0:1234
 #EXTINF:-1 tvg-id="LA1.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/TVE_La1_-_Logo_2008.png/200px-TVE_La1_-_Logo_2008.png" group-title="ESPANHA",[COLOR yellow][I][B]La 1[/B][/I][/COLOR]
 http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl7/la1_lv3_aosv4_gl7/la1_lv3_aosv4_gl7.isml/la1_lv3_aosv4_gl7-audio=128000-video=400000.m3u8
+#EXTINF:-1 tvg-id="Antena3.es" tvg-logo="https://assets.fontsinuse.com/static/use-media-items/67/66342/upto-700xauto/5ad8d23f/antena3_logo_nuevo.jpeg" group-title="ESPANHA",[COLOR yellow][I][B]Antena 3[/B][/I][/COLOR]
+https://livepull1.secure.footprint.net/antena3mpp/master.m3u8
+#EXTINF:-1 tvg-id="Cuatro.es" tvg-logo="http://cadenaser00.epimg.net/ser/imagenes/2018/06/29/television/1530282364_172929_1530282507_noticia_normal.jpg" group-title="ESPANHA",[COLOR yellow][I][B]Cuatro[/B][/I][/COLOR]
+https://dai.google.com/linear/hls/p/event/2DbwX2JMQvef-4YCGEtRkQ/stream/67c425d7-c721-4458-9bd4-ce934c57d86b:GRQ/variant/7102f3fe85d681ec1e067acdc53a510b/bandwidth/364000.m3u8
+#EXTINF:-1 tvg-id="Telecinco.es" tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/102014/telecinco_2012.png" group-title="ESPANHA",[COLOR yellow][I][B]Telecinco[/B][/I][/COLOR]
+https://dai.google.com/linear/hls/p/event/XqcS7SpLTLWIo_QetmAfnw/stream/969fc4a9-29c4-42fb-a312-802ec67d8867:GRQ/variant/19d643c32117087c5f34a50219160589/bandwidth/364000.m3u8
+#EXTINF:-1 tvg-id="LaSexta.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/La_Sexta_%28A3M%29.svg/1200px-La_Sexta_%28A3M%29.svg.png" group-title="ESPANHA",[COLOR yellow][I][B]La Sexta[/B][/I][/COLOR]
+https://livepull1.secure.footprint.net/lasextampp/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://latelete.tv/img/24h.png" group-title="ESPANHA",[COLOR yellow][I][B]RTVE 24[/B][/I][/COLOR]
 http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl8/24h_onlydash_lv3_aosv4_gl8/24h_onlydash_lv3_aosv4_gl8.isml/24h_onlydash_lv3_aosv4_gl8.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/d/dc/Canal3-24_logo2014.png/revision/latest?cb=20140121145440" group-title="ESPANHA",[COLOR yellow][I][B]3/24[/B][/I][/COLOR]
