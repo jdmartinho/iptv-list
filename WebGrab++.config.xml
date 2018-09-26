@@ -77,30 +77,30 @@
     <channel update="i" site="sincroguia.tv" site_id="30" xmltv_id="Canal Sur">Canal Sur</channel>
     <channel update="i" site="movistarplus.es" site_id="REALM" xmltv_id="Real Madrid TV">Real Madrid TV</channel>
 
-	<!-- FRANCA 
+	<!-- FRANCA -->
 	<channel update="i" site="tv.orange.fr" site_id="bfm-tv_CNT0000008o0y3.html" xmltv_id="BFM TV">BFM TV</channel>
-	<channel update="i" site="gongnetworks.com" site_id="gong" xmltv_id="Gong TV">Gong TV</channel>
+	<channel update="i" site="skysiertv.com" site_id="gong" xmltv_id="Gong">Gong</channel>
 	<channel update="i" site="programme-television.org" site_id="524" xmltv_id="Alsace 20">Alsace 20</channel>
 	<channel update="i" site="tv.orange.fr" site_id="france-24-francais_CNT0000008o0Je.html" xmltv_id="FRANCE 24 FRANCAIS">FRANCE 24 FRANCAIS</channel>
 	<channel update="i" site="canalsat.fr" site_id="670" xmltv_id="FRANCEINFO:">FRANCEINFO:</channel>
-	<channel update="i" site="telez.fr" site_id="FASHION TV" xmltv_id="FASHION TV">FASHION TV</channel>
-	<channel update="i" site="tv.orange.fr" site_id="l-equipe-21_CNT0000008o0yM.html" xmltv_id="L EQUIPE 21">L EQUIPE 21</channel>-->
+    <channel update="i" site="horizon.tv" site_id="CH/deu_27909159297__https://wp3-images-ch-dynamic.horizon.tv/channellogos/02/fashion_tv.png" xmltv_id="Fashion TV">Fashion TV</channel>
+	<channel update="i" site="tv.orange.fr" site_id="l-equipe-21_CNT0000008o0yM.html" xmltv_id="L EQUIPE 21">L EQUIPE 21</channel>
  
-	<!-- ITALIA 
+	<!-- ITALIA -->
 	<channel update="i" site="raiplay.it" site_id="Rai4" xmltv_id="Rai4">Rai4</channel>
     <channel update="i" site="raiplay.it" site_id="Rai5" xmltv_id="Rai5">Rai5</channel>
     <channel update="i" site="raiplay.it" site_id="RaiMovie" xmltv_id="RaiMovie">RaiMovie</channel>
     <channel update="i" site="raiplay.it" site_id="RaiPremium" xmltv_id="RaiPremium">RaiPremium</channel>
     <channel update="i" site="raiplay.it" site_id="RaiNews24" xmltv_id="RaiNews24">RaiNews24</channel>
     <channel update="i" site="programmi-tv.eu" site_id="skytg24" xmltv_id="Sky TG 24">Sky TG 24</channel>
-    <channel update="i" site="programmi-tv.eu" site_id="sportitalia" xmltv_id="Sportitalia">Sportitalia</channel>-->
+    <channel update="i" site="programmi-tv.eu" site_id="sportitalia" xmltv_id="Sportitalia">Sportitalia</channel>
 
-	<!-- ALEMANHA
+	<!-- ALEMANHA -->
     <channel update="i" site="tvdigital.de" site_id="daserste" xmltv_id="Das Erste">Das Erste</channel>
     <channel update="i" site="tvdigital.de" site_id="tagesschau24" xmltv_id="tagesschau24">tagesschau24</channel>
     <channel update="i" site="tvdigital.de" site_id="dweurope" xmltv_id="DW Europe">DW Europe</channel>
 	<channel update="i" site="tvdigital.de" site_id="anixehdserie" xmltv_id="Anixe HD Serie">Anixe HD Serie</channel>
-	<channel update="i" site="horizon.tv" site_id="AT/deu_694397991027__https://wp24-images-at-dynamic.horizon.tv/Logos/StaticConfig/TIROL_TV_colour.png" xmltv_id="Tirol TV">Tirol TV</channel> -->
+	<channel update="i" site="horizon.tv" site_id="AT/deu_694397991027__https://wp24-images-at-dynamic.horizon.tv/Logos/StaticConfig/TIROL_TV_colour.png" xmltv_id="Tirol TV">Tirol TV</channel>
 
 	<!-- NOTICIAS -->
 
