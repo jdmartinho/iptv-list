@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<settings>
+   
+  <!-- for detailed info about the settings see http://webgrabplus.com/documentation/configuration/webgrabconfigxml -->
+   
+  <filename>guide.xml</filename>
+  <mode></mode>
+  <postprocess grab="y" run="n">mdb</postprocess>
+  <user-agent>Mozilla/5.0 (Windows NT 6.1; WOW64; rv:29.0) Gecko/20100101 Firefox/29.0</user-agent>
+  <logging>on</logging>
+  <retry time-out="5">4</retry>
+  <timespan>0</timespan>
+  <update>f</update>
+ 
+  <!--
+            Replace the next dummy channel entry with the channels you want.
+			You can look into the installed siteini.pack folder on your computer
+  
+            For the latest version,
+            see http://webgrabplus.com/epg-channels for the available sites/channels
+  -->
+  
+	<!-- IRLANDA -->
+	<channel update="i" site="entertainment.ie" site_id="81" xmltv_id="RTE One">RTE One</channel>
+    <channel update="i" site="entertainment.ie" site_id="82" xmltv_id="RTE Two">RTE Two</channel>
+    <channel update="i" site="entertainment.ie" site_id="84" xmltv_id="TV3">TV3</channel>
+    <channel update="i" site="entertainment.ie" site_id="83" xmltv_id="TG4">TG4</channel>
+    <channel update="i" site="entertainment.ie" site_id="1209" xmltv_id="3e">3e</channel>
+    <channel update="i" site="entertainment.ie" site_id="39" xmltv_id="UTV">UTV</channel>
+    <channel update="i" site="tv-guide.upc.ie" site_id="1AE" xmltv_id="RTE News Now">RTE News Now</channel>
+
+	<!-- REINO UNIDO -->
+    <channel update="i" site="freesat.co.uk" site_id="505" xmltv_id="BBC 1">BBC 1</channel>
+    <channel update="i" site="freesat.co.uk" site_id="600" xmltv_id="BBC Two">BBC Two</channel>
+    <channel update="i" site="freesat.co.uk" site_id="1011" xmltv_id="ITV">ITV</channel>
+    <channel update="i" site="freesat.co.uk" site_id="1500" xmltv_id="Channel 4">Channel 4</channel>
+    <channel update="i" site="freesat.co.uk" site_id="1547" xmltv_id="Channel 5 HD">Channel 5 HD</channel>
+    <channel update="i" site="freesat.co.uk" site_id="702" xmltv_id="BBC FOUR">BBC FOUR</channel>
+    <channel update="i" site="freesat.co.uk" site_id="20014" xmltv_id="Sky News">Sky News</channel>
+    <channel update="i" site="freesat.co.uk" site_id="703" xmltv_id="BBC NEWS">BBC NEWS</channel>
+    <channel update="i" site="freesat.co.uk" site_id="21252" xmltv_id="Travel Channel">Travel Channel</channel>
+    <channel update="i" site="freesat.co.uk" site_id="7009" xmltv_id="Food Network">Food Network</channel>
+    <channel update="i" site="tvguide.co.uk" site_id="143" xmltv_id="Extreme Sports">Extreme Sports</channel>
+
+  	<!-- PORTUGAL -->
+    <channel update="i" site="rpt.pt" site_id="1" xmltv_id="RTP1">RTP1</channel>
+    <channel update="i" site="rpt.pt" site_id="8" xmltv_id="RTP2">RTP2</channel>
+    <channel update="i" site="meo.pt" site_id="SIC" xmltv_id="SIC">SIC</channel>
+    <channel update="i" site="meo.pt" site_id="TVI" xmltv_id="TVI">TVI</channel>
+    <channel update="i" site="meo.pt" site_id="SICN" xmltv_id="SIC NOTÍCIAS">SIC NOTÍCIAS</channel>    
+    <channel update="i" site="meo.pt" site_id="TVI24" xmltv_id="TVI24">TVI24</channel>
+    <channel update="i" site="rpt.pt" site_id="7" xmltv_id="RTP3">RTP3</channel>
+    <channel update="i" site="rpt.pt" site_id="9" xmltv_id="RTP Memória">RTP Memória</channel>
+    <channel update="i" site="rpt.pt" site_id="6" xmltv_id="RTP África">RTP África</channel>
+    <channel update="i" site="rpt.pt" site_id="5" xmltv_id="RTP Internacional">RTP Internacional</channel>
+    <channel update="i" site="rpt.pt" site_id="3" xmltv_id="RTP Açores">RTP Açores</channel>
+    <channel update="i" site="rpt.pt" site_id="4" xmltv_id="RTP Madeira">RTP Madeira</channel>
+    <channel update="i" site="meo.pt" site_id="PORTO" xmltv_id="PORTO CANAL">PORTO CANAL</channel>
+    <channel update="i" site="meo.pt" site_id="SICR" xmltv_id="SIC RADICAL">SIC RADICAL</channel>
+
+    <!-- ESPANHA -->
+	<channel update="i" site="laguiatv.com" site_id="tve-1" xmltv_id="TVE 1">TVE 1</channel>
+    <channel update="i" site="laguiatv.com" site_id="la-2" xmltv_id="La 2">La 2</channel>
+    <channel update="i" site="laguiatv.com" site_id="antena-3" xmltv_id="Antena 3">Antena 3</channel>
+    <channel update="i" site="laguiatv.com" site_id="cuatro" xmltv_id="Cuatro">Cuatro</channel>    
+    <channel update="i" site="laguiatv.com" site_id="tele-5" xmltv_id="Tele 5">Tele 5</channel>
+    <channel update="i" site="laguiatv.com" site_id="la-sexta" xmltv_id="La Sexta">La Sexta</channel>
+    <channel update="i" site="elmundo.es" site_id="8" xmltv_id="Canal 24 horas">Canal 24 horas</channel>
+    <channel update="i" site="elmundo.es" site_id="449" xmltv_id="Canal 3/24">Canal 3/24</channel>
+    <channel update="i" site="laguiatv.com" site_id="telemadrid" xmltv_id="Telemadrid">Telemadrid</channel>
+    <channel update="i" site="laguiatv.com" site_id="canal-extremadura" xmltv_id="Canal Extremadura">Canal Extremadura</channel>
+    <channel update="i" site="laguiatv.com" site_id="galicia-tv" xmltv_id="Galicia TV">Galicia TV</channel>
+	<channel update="i" site="laguiatv.com" site_id="aragon-tv" xmltv_id="Aragón TV">Aragón TV</channel>
+    <channel update="i" site="laguiatv.com" site_id="canal-sur" xmltv_id="Canal Sur">Canal Sur</channel>
+    <channel update="i" site="laguiatv.com" site_id="real-madrid-tv" xmltv_id="Real Madrid TV">Real Madrid TV</channel>
+
+	<!-- FRANCA -->
+	<channel update="i" site="tv.orange.fr" site_id="bfm-tv_CNT0000008o0y3.html" xmltv_id="BFM TV">BFM TV</channel>
+	<channel update="i" site="gongnetworks.com" site_id="gong" xmltv_id="Gong TV">Gong TV</channel>
+	<channel update="i" site="tv.orange.fr" site_id="france-24-francais_CNT0000008o0Je.html" xmltv_id="FRANCE 24 FRANCAIS">FRANCE 24 FRANCAIS</channel>
+	<channel update="i" site="canalsat.fr" site_id="670" xmltv_id="FRANCEINFO:">FRANCEINFO:</channel>
+	<channel update="i" site="telez.fr" site_id="FASHION TV" xmltv_id="FASHION TV">FASHION TV</channel>
+	<channel update="i" site="tv.orange.fr" site_id="l-equipe-21_CNT0000008o0yM.html" xmltv_id="L EQUIPE 21">L EQUIPE 21</channel>
+ 
+	<!-- ITALIA -->
+	<channel update="i" site="raiplay.it" site_id="Rai4" xmltv_id="Rai4">Rai4</channel>
+    <channel update="i" site="raiplay.it" site_id="Rai5" xmltv_id="Rai5">Rai5</channel>
+    <channel update="i" site="raiplay.it" site_id="RaiMovie" xmltv_id="RaiMovie">RaiMovie</channel>
+    <channel update="i" site="raiplay.it" site_id="RaiPremium" xmltv_id="RaiPremium">RaiPremium</channel>
+    <channel update="i" site="raiplay.it" site_id="RaiNews24" xmltv_id="RaiNews24">RaiNews24</channel>
+    <channel update="i" site="programmi-tv.eu" site_id="skytg24" xmltv_id="Sky TG 24">Sky TG 24</channel>
+    <channel update="i" site="programmi-tv.eu" site_id="sportitalia" xmltv_id="Sportitalia">Sportitalia</channel>
+
+	<!-- ALEMANHA -->
+    <channel update="i" site="tvdigital.de" site_id="daserste" xmltv_id="Das Erste">Das Erste</channel>
+    <channel update="i" site="tvdigital.de" site_id="tagesschau24" xmltv_id="tagesschau24">tagesschau24</channel>
+    <channel update="i" site="tvdigital.de" site_id="dweurope" xmltv_id="DW Europe">DW Europe</channel>
+	<channel update="i" site="tvdigital.de" site_id="anixehdserie" xmltv_id="Anixe HD Serie">Anixe HD Serie</channel>
+
+	<!-- NOTICIAS -->
+
+
+</settings>
