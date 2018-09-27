@@ -20,8 +20,7 @@
             see http://webgrabplus.com/epg-channels for the available sites/channels
   -->
   
-	<!-- IRLANDA -->
-	
+	<!-- IRLANDA -->	
 	<channel update="i" site="entertainment.ie" site_id="81" xmltv_id="RTE One">RTE One</channel>
     <channel update="i" site="entertainment.ie" site_id="82" xmltv_id="RTE Two">RTE Two</channel>
     <channel update="i" site="entertainment.ie" site_id="84" xmltv_id="TV3">TV3</channel>
@@ -92,17 +91,22 @@
     <channel update="i" site="raiplay.it" site_id="RaiMovie" xmltv_id="RaiMovie">RaiMovie</channel>
     <channel update="i" site="raiplay.it" site_id="RaiPremium" xmltv_id="RaiPremium">RaiPremium</channel>
     <channel update="i" site="raiplay.it" site_id="RaiNews24" xmltv_id="RaiNews24">RaiNews24</channel>
-    <channel update="i" site="programmi-tv.eu" site_id="skytg24" xmltv_id="Sky TG 24">Sky TG 24</channel>
-    <channel update="i" site="programmi-tv.eu" site_id="sportitalia" xmltv_id="Sportitalia">Sportitalia</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="sky-tg24-hd" xmltv_id="Sky TG24 HD">Sky TG24 HD</channel>
+    <channel update="i" site="horizon.tv" site_id="CH/ita_822929959072__https://wp17-images-ch-dynamic.horizon.tv/channellogos/02/sportitalia.png" xmltv_id="Sportitalia">Sportitalia</channel>
 
 	<!-- ALEMANHA -->
     <channel update="i" site="tvdigital.de" site_id="daserste" xmltv_id="Das Erste">Das Erste</channel>
     <channel update="i" site="tvdigital.de" site_id="tagesschau24" xmltv_id="tagesschau24">tagesschau24</channel>
-    <channel update="i" site="tvdigital.de" site_id="dweurope" xmltv_id="DW Europe">DW Europe</channel>
+    <channel update="i" site="dw.com" site_id="5_4765/1" xmltv_id="DW Deutsch">DW Deutsch</channel>
 	<channel update="i" site="tvdigital.de" site_id="anixehdserie" xmltv_id="Anixe HD Serie">Anixe HD Serie</channel>
 	<channel update="i" site="horizon.tv" site_id="AT/deu_694397991027__https://wp24-images-at-dynamic.horizon.tv/Logos/StaticConfig/TIROL_TV_colour.png" xmltv_id="Tirol TV">Tirol TV</channel>
 
 	<!-- NOTICIAS -->
-
-
+	<channel update="i" site="uk-sky.com" site_id="3260" xmltv_id="Bloomberg">Bloomberg</channel>
+	<channel update="i" site="uk-sky.com" site_id="5602" xmltv_id="CNN">CNN</channel>
+    <channel update="i" site="uk-sky.com" site_id="3147" xmltv_id="NHK World HD">NHK World HD</channel>
+    <channel update="i" site="uk-sky.com" site_id="4604" xmltv_id="Euronews">Euronews</channel>
+	<channel update="i" site="uk-sky.com" site_id="3107" xmltv_id="Al Jazeera Eng">Al Jazeera Eng</channel>
+	<channel update="i" site="streamlive.to" site_id="48" xmltv_id="msnbc">msnbc</channel>	
+	<channel update="i" site="uk-sky.com" site_id="3213" xmltv_id="RT">RT</channel>
 </settings>
