@@ -1,8 +1,6 @@
 <?xml version="1.0"?>
 <settings>
-   
-  <!-- for detailed info about the settings see http://webgrabplus.com/documentation/configuration/webgrabconfigxml -->
-   
+
   <filename>guide.xml</filename>
   <mode></mode>
   <postprocess grab="y" run="n">mdb</postprocess>
@@ -11,102 +9,94 @@
   <retry time-out="5">4</retry>
   <timespan>6</timespan>
   <update></update>
- 
-  <!--
-            Replace the next dummy channel entry with the channels you want.
-			You can look into the installed siteini.pack folder on your computer
-  
-            For the latest version,
-            see http://webgrabplus.com/epg-channels for the available sites/channels
-  -->
-  
-	<!-- IRLANDA -->	
-	<channel update="i" site="entertainment.ie" site_id="81" xmltv_id="RTE One">RTE One</channel>
-    <channel update="i" site="entertainment.ie" site_id="82" xmltv_id="RTE Two">RTE Two</channel>
-    <channel update="i" site="entertainment.ie" site_id="84" xmltv_id="TV3">TV3</channel>
-    <channel update="i" site="entertainment.ie" site_id="83" xmltv_id="TG4">TG4</channel>
-    <channel update="i" site="entertainment.ie" site_id="1209" xmltv_id="3e">3e</channel>
-    <channel update="i" site="entertainment.ie" site_id="39" xmltv_id="UTV">UTV</channel>
-    <channel update="i" site="horizon.tv" site_id="IE/eng_753737255354__https://wp3-images-ie-dynamic.horizon.tv/ChannelLogos/02/RTE_News_Now.png" xmltv_id="RTE News Now">RTE News Now</channel>
+
+	<!-- IRLANDA -->
+	<channel update="i" site="entertainment.ie" site_id="81" xmltv_id="RTEOne.ie">RTE One</channel>
+  <channel update="i" site="entertainment.ie" site_id="82" xmltv_id="RTETwo.ie">RTE 2</channel>
+  <channel update="i" site="entertainment.ie" site_id="84" xmltv_id="VirginMediaOne.ie">Virgin Media 1</channel>
+  <channel update="i" site="entertainment.ie" site_id="83" xmltv_id="TG4.ie">TG4</channel>
+  <channel update="i" site="entertainment.ie" site_id="1209" xmltv_id="VirginMediaTwo.ie">Virgin Media 2</channel>
+  <channel update="i" site="entertainment.ie" site_id="1929" xmltv_id="VirginMediaThree.ie">Virgin Media 3</channel>
+  <channel update="i" site="horizon.tv" site_id="IE/eng_753737255354__https://wp3-images-ie-dynamic.horizon.tv/ChannelLogos/02/RTE_News_Now.png" xmltv_id="RTENewsNow.ie">RTE News Now</channel>
 
 	<!-- REINO UNIDO -->
-    <channel update="i" site="uk-sky.com" site_id="2002" xmltv_id="BBC One Lon">BBC One Lon</channel>
-    <channel update="i" site="uk-sky.com" site_id="2006" xmltv_id="BBC Two Eng">BBC Two Eng</channel>
-    <channel update="i" site="uk-sky.com" site_id="6000" xmltv_id="ITV">ITV</channel>
-    <channel update="i" site="uk-sky.com" site_id="1621" xmltv_id="Channel 4">Channel 4</channel>
-    <channel update="i" site="uk-sky.com" site_id="1800" xmltv_id="Channel 5">Channel 5</channel>
-    <channel update="i" site="uk-sky.com" site_id="2086" xmltv_id="BBC Four HD">BBC Four HD</channel>
-    <channel update="i" site="uk-sky.com" site_id="1404" xmltv_id="Sky News">Sky News</channel>
-    <channel update="i" site="uk-sky.com" site_id="2011" xmltv_id="BBC NEWS">BBC NEWS</channel>
-    <channel update="i" site="uk-sky.com" site_id="5607" xmltv_id="Travel Channel">Travel Channel</channel>
-    <channel update="i" site="uk-sky.com" site_id="3590" xmltv_id="Food Network">Food Network</channel>
-    <channel update="i" site="m.tvguide.co.uk-full" site_id="143" xmltv_id="Extreme Sports">Extreme Sports</channel>
+  <channel update="i" site="uk-sky.com" site_id="2002" xmltv_id="BBC1.uk">BBC One</channel>
+  <channel update="i" site="uk-sky.com" site_id="2006" xmltv_id="BBC2.uk">BBC Two</channel>
+  <channel update="i" site="uk-sky.com" site_id="6000" xmltv_id="ITV1Anglia.uk">ITV</channel>
+  <channel update="i" site="uk-sky.com" site_id="1621" xmltv_id="Channel4.uk">Channel 4</channel>
+  <channel update="i" site="uk-sky.com" site_id="1800" xmltv_id="Channel5.uk">Channel 5</channel>
+  <channel update="i" site="uk-sky.com" site_id="2086" xmltv_id="BBC4.uk">BBC Four</channel>
+  <channel update="i" site="uk-sky.com" site_id="1404" xmltv_id="SkyNews.uk">Sky News</channel>
+  <channel update="i" site="uk-sky.com" site_id="2011" xmltv_id="BBCNews.uk">BBC News</channel>
+  <channel update="i" site="uk-sky.com" site_id="5607" xmltv_id="TravelChannel.uk">Travel Channel</channel>
+  <channel update="i" site="uk-sky.com" site_id="3590" xmltv_id="FoodNetwork.uk">Food Network</channel>
+  <channel update="i" site="m.tvguide.co.uk-full" site_id="143" xmltv_id="ExtremeSports.uk">Extreme Sports</channel>
 
-  	<!-- PORTUGAL -->
-    <channel update="i" site="rpt.pt" site_id="1" xmltv_id="RTP1">RTP1</channel>
-    <channel update="i" site="rpt.pt" site_id="8" xmltv_id="RTP2">RTP2</channel>
-    <channel update="i" site="nos.pt" site_id="7" xmltv_id="SIC">SIC</channel>
-    <channel update="i" site="nos.pt" site_id="8" xmltv_id="TVI">TVI</channel>
-    <channel update="i" site="nos.pt" site_id="9" xmltv_id="SICN">SICN</channel>  
-    <channel update="i" site="nos.pt" site_id="160" xmltv_id="TVI24">TVI24</channel>
-    <channel update="i" site="rpt.pt" site_id="7" xmltv_id="RTP3">RTP3</channel>
-    <channel update="i" site="rpt.pt" site_id="9" xmltv_id="RTP Memória">RTP Memória</channel>
-    <channel update="i" site="rpt.pt" site_id="6" xmltv_id="RTP África">RTP África</channel>
-    <channel update="i" site="rpt.pt" site_id="5" xmltv_id="RTP Internacional">RTP Internacional</channel>
-    <channel update="i" site="rpt.pt" site_id="3" xmltv_id="RTP Açores">RTP Açores</channel>
-    <channel update="i" site="rpt.pt" site_id="4" xmltv_id="RTP Madeira">RTP Madeira</channel>
-    <channel update="i" site="nos.pt" site_id="105" xmltv_id="PORTO">PORTO</channel>
-    <channel update="i" site="nos.pt" site_id="61" xmltv_id="SICR">SICR</channel>
+  <!-- PORTUGAL -->
+  <channel update="i" site="rpt.pt" site_id="1" xmltv_id="Rtp1.pt">RTP 1</channel>
+  <channel update="i" site="rpt.pt" site_id="8" xmltv_id="Rtp2.pt">RTP 2</channel>
+  <channel update="i" site="nos.pt" site_id="7" xmltv_id="Sic.pt">SIC</channel>
+  <channel update="i" site="nos.pt" site_id="8" xmltv_id="Tvi.pt">TVI</channel>
+  <channel update="i" site="rpt.pt" site_id="7" xmltv_id="Rtp3.pt">RTP 3</channel>
+  <channel update="i" site="nos.pt" site_id="9" xmltv_id="SicNoticias.pt">SIC Noticias</channel>
+  <channel update="i" site="nos.pt" site_id="160" xmltv_id="Tvi24.pt">TVI24</channel>
+  <channel update="i" site="rpt.pt" site_id="9" xmltv_id="RtpMemoria.pt">RTP Memória</channel>
+  <channel update="i" site="rpt.pt" site_id="5" xmltv_id="RTPInternacional.pt">RTP Internacional</channel>
+  <channel update="i" site="rpt.pt" site_id="6" xmltv_id="RtpAfrica.pt">RTP África</channel>
+  <channel update="i" site="rpt.pt" site_id="4" xmltv_id="RtpMadeira.pt">RTP Madeira</channel>
+  <channel update="i" site="rpt.pt" site_id="3" xmltv_id="RtpAcores.pt">RTP Açores</channel>
+  <channel update="i" site="nos.pt" site_id="105" xmltv_id="Porto.pt">Porto Canal</channel>
+  <channel update="i" site="nos.pt" site_id="61" xmltv_id="SicRadical.pt">SIC Radical</channel>
 
-    <!-- ESPANHA -->
-	<channel update="i" site="movistarplus.es" site_id="TVE" xmltv_id="LA 1">LA 1</channel>
-    <channel update="i" site="movistarplus.es" site_id="LA2" xmltv_id="LA 2">LA 2</channel>
-    <channel update="i" site="movistarplus.es" site_id="A3" xmltv_id="Antena 3">Antena 3</channel>
-    <channel update="i" site="movistarplus.es" site_id="C4" xmltv_id="Cuatro">Cuatro</channel>
-    <channel update="i" site="movistarplus.es" site_id="T5" xmltv_id="Telecinco">Telecinco</channel>
-    <channel update="i" site="movistarplus.es" site_id="SEXTA" xmltv_id="La Sexta">La Sexta</channel>
-    <channel update="i" site="movistarplus.es" site_id="BEMAD" xmltv_id="BE MAD">BE MAD</channel>
-    <channel update="i" site="elmundo.es" site_id="8" xmltv_id="Canal 24 horas">Canal 24 horas</channel>
-    <channel update="i" site="movistarplus.es" site_id="3_24" xmltv_id="3 24">3 24</channel>
-    <channel update="i" site="sincroguia.tv" site_id="38" xmltv_id="Telemadrid">Telemadrid</channel>
-    <channel update="i" site="sincroguia.tv" site_id="582" xmltv_id="Canal Extremadura TV">Canal Extremadura TV</channel>
-    <channel update="i" site="sincroguia.tv" site_id="37" xmltv_id="Galicia TV">Galicia TV</channel>
-    <channel update="i" site="formulatv.com" site_id="tpa" xmltv_id="Televisión Principado de Asturias">Televisión Principado de Asturias</channel>
-    <channel update="i" site="sincroguia.tv" site_id="522" xmltv_id="Aragón Televisión">Aragón Televisión</channel>
-    <channel update="i" site="sincroguia.tv" site_id="30" xmltv_id="Canal Sur">Canal Sur</channel>
-    <channel update="i" site="movistarplus.es" site_id="REALM" xmltv_id="Real Madrid TV">Real Madrid TV</channel>
+  <!-- ESPANHA -->
+	<channel update="i" site="movistarplus.es" site_id="LA1" xmltv_id="LA1.es">La 1</channel>
+  <channel update="i" site="movistarplus.es" site_id="LA2" xmltv_id="LA2.es">La 2</channel>
+  <channel update="i" site="movistarplus.es" site_id="A3" xmltv_id="Antena3.es">Antena 3</channel>
+  <channel update="i" site="movistarplus.es" site_id="C4" xmltv_id="Cuatro.es">Cuatro</channel>
+  <channel update="i" site="movistarplus.es" site_id="T5" xmltv_id="Telecinco.es">Telecinco</channel>
+  <channel update="i" site="movistarplus.es" site_id="SEXTA" xmltv_id="LaSexta.es">La Sexta</channel>
+  <channel update="i" site="movistarplus.es" site_id="BEMAD" xmltv_id="BeMad.es">BE MAD</channel>
+  <channel update="i" site="elmundo.es" site_id="8" xmltv_id="RTVE24.es">RTVE 24</channel>
+  <channel update="i" site="movistarplus.es" site_id="3_24" xmltv_id="3/24.es">3/24</channel>
+  <channel update="i" site="sincroguia.tv" site_id="38" xmltv_id="TeleMadrid.es">Telemadrid</channel>
+  <channel update="i" site="sincroguia.tv" site_id="582" xmltv_id="CanalExtremadura.es">Canal Extremadura</channel>
+  <channel update="i" site="sincroguia.tv" site_id="37" xmltv_id="TVGalicia.es">TV Galicia</channel>
+  <channel update="i" site="formulatv.com" site_id="tpa" xmltv_id="TVAsturias.es">TV Asturias</channel>
+  <channel update="i" site="sincroguia.tv" site_id="522" xmltv_id="AragonTV.es">Aragón TV</channel>
+  <channel update="i" site="sincroguia.tv" site_id="30" xmltv_id="CanalAndalucia.es">Canal Sur</channel>
+  <channel update="i" site="movistarplus.es" site_id="REALM" xmltv_id="RealMadridTV.es">Real Madrid TV</channel>
 
 	<!-- FRANCA -->
-	<channel update="i" site="tv.orange.fr" site_id="bfm-tv_CNT0000008o0y3.html" xmltv_id="BFM TV">BFM TV</channel>
-	<channel update="i" site="skysiertv.com" site_id="gong" xmltv_id="Gong">Gong</channel>
-	<channel update="i" site="programme-television.org" site_id="524" xmltv_id="Alsace 20">Alsace 20</channel>
-	<channel update="i" site="tv.orange.fr" site_id="france-24-francais_CNT0000008o0Je.html" xmltv_id="FRANCE 24 FRANCAIS">FRANCE 24 FRANCAIS</channel>
-	<channel update="i" site="canalsat.fr" site_id="670" xmltv_id="FRANCEINFO:">FRANCEINFO:</channel>
-    <channel update="i" site="horizon.tv" site_id="CH/deu_27909159297__https://wp3-images-ch-dynamic.horizon.tv/channellogos/02/fashion_tv.png" xmltv_id="Fashion TV">Fashion TV</channel>
-	<channel update="i" site="tv.orange.fr" site_id="l-equipe-21_CNT0000008o0yM.html" xmltv_id="L EQUIPE 21">L EQUIPE 21</channel>
- 
+	<channel update="i" site="tv.orange.fr" site_id="bfm-tv_CNT0000008o0y3.html" xmltv_id="BFMParis.fr">BFM TV</channel>
+	<channel update="i" site="skysiertv.com" site_id="gong" xmltv_id="Gong.fr">Gong</channel>
+	<channel update="i" site="programme-television.org" site_id="524" xmltv_id="Alsace20.fr">Alsace 20</channel>
+	<channel update="i" site="tv.orange.fr" site_id="france-24-francais_CNT0000008o0Je.html" xmltv_id="France24.fr">France 24</channel>
+	<channel update="i" site="canalsat.fr" site_id="670" xmltv_id="FranceInfo.fr">FranceInfo:</channel>
+  <channel update="i" site="horizon.tv" site_id="CH/deu_27909159297__https://wp3-images-ch-dynamic.horizon.tv/channellogos/02/fashion_tv.png" xmltv_id="FashionTV.fr">Fashion TV</channel>
+	<channel update="i" site="tv.orange.fr" site_id="l-equipe-21_CNT0000008o0yM.html" xmltv_id="LEquipe21.fr">L'Equipe 21</channel>
+
 	<!-- ITALIA -->
-	<channel update="i" site="raiplay.it" site_id="Rai4" xmltv_id="Rai4">Rai4</channel>
-    <channel update="i" site="raiplay.it" site_id="Rai5" xmltv_id="Rai5">Rai5</channel>
-    <channel update="i" site="raiplay.it" site_id="RaiMovie" xmltv_id="RaiMovie">RaiMovie</channel>
-    <channel update="i" site="raiplay.it" site_id="RaiPremium" xmltv_id="RaiPremium">RaiPremium</channel>
-    <channel update="i" site="raiplay.it" site_id="RaiNews24" xmltv_id="RaiNews24">RaiNews24</channel>
-    <channel update="i" site="guidatv.sky.it" site_id="sky-tg24-hd" xmltv_id="Sky TG24 HD">Sky TG24 HD</channel>
-    <channel update="i" site="horizon.tv" site_id="CH/ita_822929959072__https://wp17-images-ch-dynamic.horizon.tv/channellogos/02/sportitalia.png" xmltv_id="Sportitalia">Sportitalia</channel>
+	<channel update="i" site="raiplay.it" site_id="Rai4" xmltv_id="Rai4.it">Rai 4</channel>
+  <channel update="i" site="raiplay.it" site_id="Rai5" xmltv_id="Rai5.it">Rai 5</channel>
+  <channel update="i" site="raiplay.it" site_id="RaiMovie" xmltv_id="RaiMovie.it">Rai Movie</channel>
+  <channel update="i" site="raiplay.it" site_id="RaiPremium" xmltv_id="RaiPremium.it">Rai Premium</channel>
+  <channel update="i" site="raiplay.it" site_id="RaiNews24" xmltv_id="RaiNews.it">Rai News</channel>
+  <channel update="i" site="guidatv.sky.it" site_id="sky-tg24-hd" xmltv_id="SkyTG24.it">Sky TG24</channel>
+  <channel update="i" site="horizon.tv" site_id="CH/ita_822929959072__https://wp17-images-ch-dynamic.horizon.tv/channellogos/02/sportitalia.png" xmltv_id="Sportitalia.it">Sportitalia</channel>
 
 	<!-- ALEMANHA -->
-    <channel update="i" site="tvdigital.de" site_id="daserste" xmltv_id="Das Erste">Das Erste</channel>
-    <channel update="i" site="tvdigital.de" site_id="tagesschau24" xmltv_id="tagesschau24">tagesschau24</channel>
-    <channel update="i" site="dw.com" site_id="5_4765/1" xmltv_id="DW Deutsch">DW Deutsch</channel>
-	<channel update="i" site="tvdigital.de" site_id="anixehdserie" xmltv_id="Anixe HD Serie">Anixe HD Serie</channel>
-	<channel update="i" site="horizon.tv" site_id="AT/deu_694397991027__https://wp24-images-at-dynamic.horizon.tv/Logos/StaticConfig/TIROL_TV_colour.png" xmltv_id="Tirol TV">Tirol TV</channel>
+  <channel update="i" site="tvdigital.de" site_id="daserste" xmltv_id="ARD.de">Das Erste</channel>
+  <channel update="i" site="tvdigital.de" site_id="tagesschau24" xmltv_id="Tagesschau24.de">Tagesschau24</channel>
+  <channel update="i" site="dw.com" site_id="5_4765/1" xmltv_id="DeutscheWelle.de">DW</channel>
+	<channel update="i" site="tvdigital.de" site_id="anixehdserie" xmltv_id="Anixe.de">Anixe</channel>
+	<channel update="i" site="horizon.tv" site_id="AT/deu_694397991027__https://wp24-images-at-dynamic.horizon.tv/Logos/StaticConfig/TIROL_TV_colour.png" xmltv_id="TirolTV.de">Tirol TV</channel>
 
 	<!-- NOTICIAS -->
-	<channel update="i" site="uk-sky.com" site_id="3260" xmltv_id="Bloomberg">Bloomberg</channel>
-	<channel update="i" site="uk-sky.com" site_id="5602" xmltv_id="CNN">CNN</channel>
-    <channel update="i" site="uk-sky.com" site_id="3147" xmltv_id="NHK World HD">NHK World HD</channel>
-    <channel update="i" site="uk-sky.com" site_id="4604" xmltv_id="Euronews">Euronews</channel>
-	<channel update="i" site="uk-sky.com" site_id="3107" xmltv_id="Al Jazeera Eng">Al Jazeera Eng</channel>
-	<channel update="i" site="streamlive.to" site_id="48" xmltv_id="msnbc">msnbc</channel>	
-	<channel update="i" site="uk-sky.com" site_id="3213" xmltv_id="RT">RT</channel>
+	<channel update="i" site="uk-sky.com" site_id="3260" xmltv_id="BloombergTV.us">Bloomberg</channel>
+	<channel update="i" site="uk-sky.com" site_id="5602" xmltv_id="CNN.us">CNN</channel>
+  <channel update="i" site="uk-sky.com" site_id="3147" xmltv_id="NHKWorld.jp">NHK World</channel>
+  <channel update="i" site="uk-sky.com" site_id="4604" xmltv_id="EuroNews.uk">Euronews</channel>
+	<channel update="i" site="uk-sky.com" site_id="3107" xmltv_id="AlJazeeraEnglish.qa">Al Jazeera</channel>
+	<channel update="i" site="streamlive.to" site_id="48" xmltv_id="msnbc">MSNBC.us</channel>
+	<channel update="i" site="uk-sky.com" site_id="3213" xmltv_id="RT.us">RT</channel>
 </settings>
