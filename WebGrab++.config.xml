@@ -10,8 +10,8 @@
   <timespan>6</timespan>
   <update></update>
 
-	<!-- IRLANDA -->
-	<channel update="i" site="entertainment.ie" site_id="81" xmltv_id="RTEOne.ie">RTE One</channel>
+  <!-- IRLANDA -->
+  <channel update="i" site="entertainment.ie" site_id="81" xmltv_id="RTEOne.ie">RTE One</channel>
   <channel update="i" site="entertainment.ie" site_id="82" xmltv_id="RTETwo.ie">RTE 2</channel>
   <channel update="i" site="entertainment.ie" site_id="84" xmltv_id="VirginMediaOne.ie">Virgin Media 1</channel>
   <channel update="i" site="entertainment.ie" site_id="83" xmltv_id="TG4.ie">TG4</channel>
@@ -19,7 +19,7 @@
   <channel update="i" site="entertainment.ie" site_id="1929" xmltv_id="VirginMediaThree.ie">Virgin Media 3</channel>
   <channel update="i" site="horizon.tv" site_id="IE/eng_753737255354__https://wp3-images-ie-dynamic.horizon.tv/ChannelLogos/02/RTE_News_Now.png" xmltv_id="RTENewsNow.ie">RTE News Now</channel>
 
-	<!-- REINO UNIDO -->
+  <!-- REINO UNIDO -->
   <channel update="i" site="uk-sky.com" site_id="2002" xmltv_id="BBC1.uk">BBC One</channel>
   <channel update="i" site="uk-sky.com" site_id="2006" xmltv_id="BBC2.uk">BBC Two</channel>
   <channel update="i" site="uk-sky.com" site_id="6000" xmltv_id="ITV1Anglia.uk">ITV</channel>
@@ -30,7 +30,7 @@
   <channel update="i" site="uk-sky.com" site_id="2011" xmltv_id="BBCNews.uk">BBC News</channel>
   <channel update="i" site="uk-sky.com" site_id="5607" xmltv_id="TravelChannel.uk">Travel Channel</channel>
   <channel update="i" site="uk-sky.com" site_id="3590" xmltv_id="FoodNetwork.uk">Food Network</channel>
-  <channel update="i" site="m.tvguide.co.uk-full" site_id="143" xmltv_id="ExtremeSports.uk">Extreme Sports</channel>
+  <channel update="i" site="nos.pt" site_id="78" xmltv_id="ExtremeSports.uk">Extreme Sports</channel>
 
   <!-- PORTUGAL -->
   <channel update="i" site="rpt.pt" site_id="1" xmltv_id="Rtp1.pt">RTP 1</channel>
@@ -49,34 +49,34 @@
   <channel update="i" site="nos.pt" site_id="61" xmltv_id="SicRadical.pt">SIC Radical</channel>
 
   <!-- ESPANHA -->
-	<channel update="i" site="movistarplus.es" site_id="LA1" xmltv_id="LA1.es">La 1</channel>
+  <channel update="i" site="movistarplus.es" site_id="TVE" xmltv_id="LA1.es">La 1</channel>
   <channel update="i" site="movistarplus.es" site_id="LA2" xmltv_id="LA2.es">La 2</channel>
   <channel update="i" site="movistarplus.es" site_id="A3" xmltv_id="Antena3.es">Antena 3</channel>
   <channel update="i" site="movistarplus.es" site_id="C4" xmltv_id="Cuatro.es">Cuatro</channel>
   <channel update="i" site="movistarplus.es" site_id="T5" xmltv_id="Telecinco.es">Telecinco</channel>
   <channel update="i" site="movistarplus.es" site_id="SEXTA" xmltv_id="LaSexta.es">La Sexta</channel>
   <channel update="i" site="movistarplus.es" site_id="BEMAD" xmltv_id="BeMad.es">BE MAD</channel>
-  <channel update="i" site="elmundo.es" site_id="8" xmltv_id="RTVE24.es">RTVE 24</channel>
+  <channel update="i" site="movistarplus.es" site_id="24H" xmltv_id="RTVE24.es">RTVE 24</channel>
   <channel update="i" site="movistarplus.es" site_id="3_24" xmltv_id="3/24.es">3/24</channel>
-  <channel update="i" site="sincroguia.tv" site_id="38" xmltv_id="TeleMadrid.es">Telemadrid</channel>
-  <channel update="i" site="sincroguia.tv" site_id="582" xmltv_id="CanalExtremadura.es">Canal Extremadura</channel>
-  <channel update="i" site="sincroguia.tv" site_id="37" xmltv_id="TVGalicia.es">TV Galicia</channel>
+  <channel update="i" site="movistarplus.es" site_id="TELMAD" xmltv_id="TeleMadrid.es">Telemadrid</channel>
+  <channel update="i" site="movistarplus.es" site_id="EXTRE" xmltv_id="CanalExtremadura.es">Canal Extremadura</channel>
+  <channel update="i" site="movistarplus.es" site_id="TVG" xmltv_id="TVGalicia.es">TV Galicia</channel>
   <channel update="i" site="formulatv.com" site_id="tpa" xmltv_id="TVAsturias.es">TV Asturias</channel>
-  <channel update="i" site="sincroguia.tv" site_id="522" xmltv_id="AragonTV.es">Aragón TV</channel>
-  <channel update="i" site="sincroguia.tv" site_id="30" xmltv_id="CanalAndalucia.es">Canal Sur</channel>
+  <channel update="i" site="movistarplus.es" site_id="ARAGON" xmltv_id="AragonTV.es">Aragón TV</channel>
+  <channel update="i" site="movistarplus.es" site_id="CANSUR" xmltv_id="CanalAndalucia.es">Canal Sur</channel>
   <channel update="i" site="movistarplus.es" site_id="REALM" xmltv_id="RealMadridTV.es">Real Madrid TV</channel>
 
-	<!-- FRANCA -->
-	<channel update="i" site="tv.orange.fr" site_id="bfm-tv_CNT0000008o0y3.html" xmltv_id="BFMParis.fr">BFM TV</channel>
-	<channel update="i" site="skysiertv.com" site_id="gong" xmltv_id="Gong.fr">Gong</channel>
-	<channel update="i" site="programme-television.org" site_id="524" xmltv_id="Alsace20.fr">Alsace 20</channel>
-	<channel update="i" site="tv.orange.fr" site_id="france-24-francais_CNT0000008o0Je.html" xmltv_id="France24.fr">France 24</channel>
-	<channel update="i" site="canalsat.fr" site_id="670" xmltv_id="FranceInfo.fr">FranceInfo:</channel>
+  <!-- FRANCA -->
+  <channel update="i" site="tv.orange.fr" site_id="bfm-tv_CNT0000008o0y3.html" xmltv_id="BFMParis.fr">BFM TV</channel>
+  <channel update="i" site="skysiertv.com" site_id="gong" xmltv_id="Gong.fr">Gong</channel>
+  <channel update="i" site="programme-television.org" site_id="524" xmltv_id="Alsace20.fr">Alsace 20</channel>
+  <channel update="i" site="tv.orange.fr" site_id="france-24-francais_CNT0000008o0Je.html" xmltv_id="France24.fr">France 24</channel>
+  <channel update="i" site="canalsat.fr" site_id="670" xmltv_id="FranceInfo.fr">FranceInfo:</channel>
   <channel update="i" site="horizon.tv" site_id="CH/deu_27909159297__https://wp3-images-ch-dynamic.horizon.tv/channellogos/02/fashion_tv.png" xmltv_id="FashionTV.fr">Fashion TV</channel>
-	<channel update="i" site="tv.orange.fr" site_id="l-equipe-21_CNT0000008o0yM.html" xmltv_id="LEquipe21.fr">L'Equipe 21</channel>
+  <channel update="i" site="tv.orange.fr" site_id="l-equipe-21_CNT0000008o0yM.html" xmltv_id="LEquipe21.fr">L'Equipe 21</channel>
 
-	<!-- ITALIA -->
-	<channel update="i" site="raiplay.it" site_id="Rai4" xmltv_id="Rai4.it">Rai 4</channel>
+  <!-- ITALIA -->
+  <channel update="i" site="raiplay.it" site_id="Rai4" xmltv_id="Rai4.it">Rai 4</channel>
   <channel update="i" site="raiplay.it" site_id="Rai5" xmltv_id="Rai5.it">Rai 5</channel>
   <channel update="i" site="raiplay.it" site_id="RaiMovie" xmltv_id="RaiMovie.it">Rai Movie</channel>
   <channel update="i" site="raiplay.it" site_id="RaiPremium" xmltv_id="RaiPremium.it">Rai Premium</channel>
@@ -84,19 +84,20 @@
   <channel update="i" site="guidatv.sky.it" site_id="sky-tg24-hd" xmltv_id="SkyTG24.it">Sky TG24</channel>
   <channel update="i" site="horizon.tv" site_id="CH/ita_822929959072__https://wp17-images-ch-dynamic.horizon.tv/channellogos/02/sportitalia.png" xmltv_id="Sportitalia.it">Sportitalia</channel>
 
-	<!-- ALEMANHA -->
+  <!-- ALEMANHA -->
   <channel update="i" site="tvdigital.de" site_id="daserste" xmltv_id="ARD.de">Das Erste</channel>
   <channel update="i" site="tvdigital.de" site_id="tagesschau24" xmltv_id="Tagesschau24.de">Tagesschau24</channel>
   <channel update="i" site="dw.com" site_id="5_4765/1" xmltv_id="DeutscheWelle.de">DW</channel>
-	<channel update="i" site="tvdigital.de" site_id="anixehdserie" xmltv_id="Anixe.de">Anixe</channel>
-	<channel update="i" site="horizon.tv" site_id="AT/deu_694397991027__https://wp24-images-at-dynamic.horizon.tv/Logos/StaticConfig/TIROL_TV_colour.png" xmltv_id="TirolTV.de">Tirol TV</channel>
+  <channel update="i" site="tvdigital.de" site_id="anixehdserie" xmltv_id="Anixe.de">Anixe</channel>
+  <channel update="i" site="horizon.tv" site_id="AT/deu_694397991027__https://wp24-images-at-dynamic.horizon.tv/Logos/StaticConfig/TIROL_TV_colour.png" xmltv_id="TirolTV.de">Tirol TV</channel>
 
-	<!-- NOTICIAS -->
-	<channel update="i" site="uk-sky.com" site_id="3260" xmltv_id="BloombergTV.us">Bloomberg</channel>
-	<channel update="i" site="uk-sky.com" site_id="5602" xmltv_id="CNN.us">CNN</channel>
-  <channel update="i" site="uk-sky.com" site_id="3147" xmltv_id="NHKWorld.jp">NHK World</channel>
+  <!-- NOTICIAS -->
+  <channel update="i" site="uk-sky.com" site_id="3260" xmltv_id="BloombergTV.us">Bloomberg</channel>
+  <channel update="i" site="uk-sky.com" site_id="5602" xmltv_id="CNN.us">CNN</channel>
+  <channel update="i" site="uk-sky.com" site_id="3107" xmltv_id="AlJazeeraEnglish.qa">Al Jazeera</channel>
+  <channel update="i" site="uk-sky.com" site_id="3213" xmltv_id="RT.us">RT</channel>  
   <channel update="i" site="uk-sky.com" site_id="4604" xmltv_id="EuroNews.uk">Euronews</channel>
-	<channel update="i" site="uk-sky.com" site_id="3107" xmltv_id="AlJazeeraEnglish.qa">Al Jazeera</channel>
-	<channel update="i" site="streamlive.to" site_id="48" xmltv_id="msnbc">MSNBC.us</channel>
-	<channel update="i" site="uk-sky.com" site_id="3213" xmltv_id="RT.us">RT</channel>
+  <channel update="i" site="uk-sky.com" site_id="3147" xmltv_id="NHKWorld.jp">NHK World</channel>
+  <channel update="i" site="digiturk.com.tr" site_id="468" xmltv_id="TRTWorld.uk">TRT World</channel>
+  <channel update="i" site="streamlive.to" site_id="48" xmltv_id="MSNBC.us">MSNBC</channel>  
 </settings>

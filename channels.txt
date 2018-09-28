@@ -137,23 +137,23 @@ https://stream-04.dc3.dailymotion.com/dm/3/x3m6nld/live-2.m3u8
 #EXTINF:-1 tvg-id="LEquipe21.fr" tvg-logo="https://www.ledirect.fr/uploads/channels/2263_6872.png" group-title="FRANCA",[COLOR cyan][I][B]L'Equipe 21[/B][/I][/COLOR]
 http://ec.playmedia.fr/lequipe21/live/playlist.m3u8
 
-#EXTINF:-1,[COLOR blue] ITALIA [/COLOR]
+#EXTINF:-1,[COLOR green] ITALIA [/COLOR]
 http://0.0.0.0:1234
-#EXTINF:-1 tvg-id="Rai4.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Rai_4_-_Logo_2016.svg/1280px-Rai_4_-_Logo_2016.svg.png" group-title="ITALIA",[COLOR blue][I][B]Rai 4[/B][/I][/COLOR]
+#EXTINF:-1 tvg-id="Rai4.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Rai_4_-_Logo_2016.svg/1280px-Rai_4_-_Logo_2016.svg.png" group-title="ITALIA",[COLOR green][I][B]Rai 4[/B][/I][/COLOR]
 http://b2everyrai-lh.akamaihd.net/i/rai4_1@181951/master.m3u8
-#EXTINF:-1 tvg-id="Rai5.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Rai_5_-_Logo_2017.svg/1200px-Rai_5_-_Logo_2017.svg.png" group-title="ITALIA",[COLOR blue][I][B]Rai 5[/B][/I][/COLOR]
+#EXTINF:-1 tvg-id="Rai5.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Rai_5_-_Logo_2017.svg/1200px-Rai_5_-_Logo_2017.svg.png" group-title="ITALIA",[COLOR green][I][B]Rai 5[/B][/I][/COLOR]
 https://raicinque1-live.akamaized.net/hls/live/598318/raicinque1/rai5_1200/chunklist.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="RaiPremium.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Rai_Premium_-_Logo_2017.svg/160px-Rai_Premium_-_Logo_2017.svg.png" group-title="ITALIA",[COLOR blue][I][B]Rai Premium[/B][/I][/COLOR]
+#EXTINF:-1 tvg-id="RaiPremium.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Rai_Premium_-_Logo_2017.svg/160px-Rai_Premium_-_Logo_2017.svg.png" group-title="ITALIA",[COLOR green][I][B]Rai Premium[/B][/I][/COLOR]
 http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/master.m3u8
-#EXTINF:-1 tvg-id="RaiMovie.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Rai_Movie_-_Logo_2017.svg/1200px-Rai_Movie_-_Logo_2017.svg.png" group-title="ITALIA",[COLOR blue][I][B]Rai Movie[/B][/I][/COLOR]
+#EXTINF:-1 tvg-id="RaiMovie.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Rai_Movie_-_Logo_2017.svg/1200px-Rai_Movie_-_Logo_2017.svg.png" group-title="ITALIA",[COLOR green][I][B]Rai Movie[/B][/I][/COLOR]
 http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
-#EXTINF:-1 tvg-id="RaiNews.it" tvg-logo="http://www.dennisredmont.com/site/wp-content/uploads/2014/07/rainews24.jpg" group-title="ITALIA",[COLOR blue][I][B]Rai News 24[/B][/I][/COLOR]
+#EXTINF:-1 tvg-id="RaiNews.it" tvg-logo="http://www.dennisredmont.com/site/wp-content/uploads/2014/07/rainews24.jpg" group-title="ITALIA",[COLOR green][I][B]Rai News 24[/B][/I][/COLOR]
 https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/playlist.m3u8?hdnea=st=1537713618~exp=1537713768~acl=|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=https://www.raiplay.it
-#EXTINF:-1 tvg-id="SkyTG24.it" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/91/SKY_TG24.png" group-title="ITALIA",[COLOR blue][I][B]Sky TG24[/B][/I][/COLOR]
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/91/SKY_TG24.png" group-title="ITALIA",[COLOR green][I][B]Sky TG24[/B][/I][/COLOR]
 http://skyianywhere2-i.akamaihd.net/hls/live/200275/tg24/playlist.m3u8
-#EXTINF:-1 tvg-id="IRCSport.it" tvg-logo="https://www.ircsporttv.it/assets/front/img/logo.png" group-title="ITALIA",[COLOR blue][I][B]IRC Sport TV[/B][/I][/COLOR]
+#EXTINF:-1 tvg-id="IRCSport.it" tvg-logo="https://www.ircsporttv.it/assets/front/img/logo.png" group-title="ITALIA",[COLOR green][I][B]IRC Sport TV[/B][/I][/COLOR]
 http://wms.shared.streamshow.it/irctv/mp4:irctv/playlist.m3u8
-#EXTINF:-1 tvg-id="Sportitalia.it" tvg-logo="http://www.dailyonline.it/wp-content/uploads/2017/02/Logo-Sportitalia-HD-page-001-Copia-copia-e1486299148551.jpeg" group-title="ITALIA",[COLOR blue][I][B]Sportitalia[/B][/I][/COLOR]
+#EXTINF:-1 tvg-id="Sportitalia.it" tvg-logo="http://www.dailyonline.it/wp-content/uploads/2017/02/Logo-Sportitalia-HD-page-001-Copia-copia-e1486299148551.jpeg" group-title="ITALIA",[COLOR green][I][B]Sportitalia[/B][/I][/COLOR]
 http://l1tvlive1-lh.akamaihd.net/i/p-2786_u-_l-2786_hls_a-_c-DE_e-885278_i-5484528720171217122906_k-_q-_t-hds/sportitalia247_1@5383/index_1200_av-p.m3u8
 
 #EXTINF:-1,[COLOR deepskyblue] ALEMANHA [/COLOR]
@@ -171,6 +171,51 @@ http://autopilot.myowntv.org/content/33816/index.m3u8
 #EXTINF:-1 tvg-id="TirolTV.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/TIROL_TV_Logo.jpg" group-title="ALEMANHA",[COLOR deepskyblue][I][B]Tirol TV[/B][/I][/COLOR]
 http://lb.hd-livestream.de:1935/live/TirolTV/master.m3u8
 
+#EXTINF:-1,[COLOR blue] EUA [/COLOR]
+#EXTINF:-1 tvg-id="ABC.us" tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/0009/9467/brand.gif?itok=DsfQC3P8" group-title="EUA",[COLOR blue][I][B]ABC[/B][/I][/COLOR]
+http://live.field59.com/wwsb/ngrp:wwsb1_all/playlist.m3u8
+#EXTINF:-1 tvg-id="NBC.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/NBC_2014_Ident.svg/1200px-NBC_2014_Ident.svg.png" group-title="EUA",[COLOR blue][I][B]NBC[/B][/I][/COLOR]
+http://161.0.157.51/PLTV/88888888/224/3221227040/03.m3u8
+#EXTINF:-1 tvg-id="TravelChannel.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Travel_Channel_-_Logo.svg/2000px-Travel_Channel_-_Logo.svg.png" group-title="EUA",[COLOR blue][I][B]Travel Channel[/B][/I][/COLOR]
+http://80.80.160.168/live/3/live.m3u8
+#EXTINF:-1 tvg-id="DiscoveryChannel.us" tvg-logo="https://images.indiegogo.com/file_attachments/592625/files/20140520123321-discovery-channel-logo-2013deadliest-catch-presents-the-captains-concert-at-sxsw-tickets-cgyauhvw.jpg?1400614401" group-title="EUA",[COLOR blue][I][B]Discovery Channel[/B][/I][/COLOR]
+http://80.80.160.168/live/8/live.m3u8
+#EXTINF:-1 tvg-id="ScienceChannel.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/Science_Channel_2016.png" group-title="EUA",[COLOR blue][I][B]Science Channel[/B][/I][/COLOR]
+http://80.80.160.168/live/9/live.m3u8
+#EXTINF:-1 tvg-id="WeatherChannel.us" tvg-logo="https://i.imgur.com/D4vJyy9.png" group-title="EUA",[COLOR blue][I][B]The Weather Channel[/B][/I][/COLOR]
+http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
+#EXTINF:-1 tvg-id="NASA.us" tvg-logo="https://11ajin32vs0h2u2tfv193rhj-wpengine.netdna-ssl.com/wp-content/uploads/2016/04/nasa_tv.jpg" group-title="EUA",[COLOR blue][I][B]NASA TV[/B][/I][/COLOR]
+http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 tvg-id="NASAMedia.us" tvg-logo="https://11ajin32vs0h2u2tfv193rhj-wpengine.netdna-ssl.com/wp-content/uploads/2016/04/nasa_tv.jpg" group-title="EUA",[COLOR blue][I][B]NASA TV Media[/B][/I][/COLOR]
+http://iphone-streaming.ustream.tv/uhls/10414700/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 tvg-id="OWN.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/OWN_2011_logo.svg/800px-OWN_2011_logo.svg.png" group-title="EUA",[COLOR blue][I][B]Oprah Winfrey Network[/B][/I][/COLOR]
+http://w3.cdn.anvato.net/live/ephemeral/3QA1gOwdRzqhnwPBUewI5VY7Yd9pnkvb/owny/2596k/index.m3u8
+#EXTINF:-1 tvg-id="Runway.us" tvg-logo="http://www.shockya.com/news/wp-content/uploads/runway-tv.png" group-title="EUA",[COLOR blue][I][B]Runway TV[/B][/I][/COLOR]
+http://runway.videocdn.scaleengine.net/runway-iphone/play/runway/chunklist.m3u8
+#https://eu-all7.secdn.net/runway-live/play/smil:runway.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="CookingChannel.us" tvg-logo="https://images.bwwstatic.com/tvnetworklogos/12683D1D-0C2A-DD63-3EA5C95F3DEDA0AB.jpg" group-title="EUA",[COLOR blue][I][B]Cooking Channel[/B][/I][/COLOR]
+http://161.0.157.5/PLTV/88888888/224/3221226201/index.m3u8
+#EXTINF:-1 tvg-id="FoodTV.us" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5877ac8cb791f4eb4a140d81/featuredImage.jpg" group-title="EUA",[COLOR blue][I][B]Food TV[/B][/I][/COLOR]
+http://stitcher.pluto.tv/stitch/hls/channel/5877ac8cb791f4eb4a140d81/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+#EXTINF:-1 tvg-id="CrimeNetwork.us" tvg-logo="https://images.clipartlogo.com/files/images/64/6485/crime-investigation-network-hd_f.png" group-title="EUA",[COLOR blue][I][B]Crime Network[/B][/I][/COLOR]
+http://stitcher.pluto.tv/stitch/hls/channel/5812be1c249444e05d09cc50/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+#EXTINF:-1 tvg-id="RetroTV.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/retro_tv.png" group-title="EUA",[COLOR blue][I][B]Retro TV[/B][/I][/COLOR]
+http://247retrotv.com:1935/live/smil:247retro.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AnimeAllDay.us" tvg-logo="https://cfm.yidio.com/mobile/img/streams/602/logo-180h.png" group-title="EUA",[COLOR blue][I][B]Anime All Day[/B][/I][/COLOR]
+http://stitcher.pluto.tv/stitch/hls/channel/5812b7d3249444e05d09cc49/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=1&deviceId=&deviceVersion=&appVersion=&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+#EXTINF:-1 tvg-id="Cats247.us" tvg-logo="https://image.shutterstock.com/image-vector/illustration-black-cat-logo-vector-260nw-692056750.jpg" group-title="EUA",[COLOR blue][I][B]Cats 24/7[/B][/I][/COLOR]
+http://stitcher.pluto.tv/stitch/hls/channel/599375885ceaac3cabccbed7/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=5&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+#EXTINF:-1 tvg-id="CBSSports.us" tvg-logo="http://content.sportslogos.net/news/2015/11/cbs-sports-new-logo.jpg" group-title="EUA",[COLOR blue][I][B]CBS Sports[/B][/I][/COLOR]
+https://cbssportsdc-i.akamaihd.net/hls/live/518856/dc_1/desktop.m3u8|X-Forwarded-For=209.239.112.104
+#EXTINF:-1 tvg-id="ESPN.us" tvg-logo="http://logok.org/wp-content/uploads/2015/02/ESPN-logo-wordmark-880x660.png" group-title="EUA",[COLOR blue][I][B]ESPN[/B][/I][/COLOR]
+http://80.80.160.168/live/6/live.m3u8
+#EXTINF:-1 tvg-id="ESPN2.us" tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/0012/1398/brand.gif?itok=qK15mOWo" group-title="EUA",[COLOR blue][I][B]ESPN 2[/B][/I][/COLOR]
+http://161.0.157.8/PLTV/88888888/224/3221226881/index.m3u8
+#EXTINF:-1 tvg-id="MLBNetwork.us" tvg-logo="https://i.imgur.com/G9VKlxx.png" group-title="EUA",[COLOR blue][I][B]MLB Network[/B][/I][/COLOR]
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
+#EXTINF:-1 tvg-id="Pac12BayArea.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/Pac-12_logo.svg/1200px-Pac-12_logo.svg.png" group-title="EUA",[COLOR blue][I][B]Pac-12 Bay Area[/B][/I][/COLOR]
+http://p12b-lh.akamaihd.net/i/bayarea_delivery@429334/master.m3u8
+
 #EXTINF:-1,[COLOR yellowgreen] NOTICIAS [/COLOR]
 http://0.0.0.0:1234
 #EXTINF:-1 tvg-id="BloombergTV.us" tvg-logo="http://www.valuewalk.com/wp-content/uploads/2013/08/Bloomberg-logo.jpg" group-title="NOTICIAS",[COLOR yellowgreen][I][B]Bloomberg[/B][/I][/COLOR]
@@ -182,68 +227,21 @@ https://english.streaming.aljazeera.net/aljazeera/english2/index1296.m3u8
 #http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index255.m3u8
 #EXTINF:-1 tvg-id="RT.us" tvg-logo="http://s26.postimg.org/q0yik02p5/5_YEHGFD.jpg" group-title="NOTICIAS",[COLOR yellowgreen][I][B]RT America[/B][/I][/COLOR]
 https://rt-news.secure.footprint.net/1103.m3u8
-#EXTINF:-1 tvg-id="MSNBC.us" tvg-logo="http://s26.postimg.org/xt91og0qh/image.jpg" group-title="NOTICIAS",[COLOR yellowgreen][I][B]MSNBC[/B][/I][/COLOR]
-http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/index_296_av-p.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://cbsnews2.cbsistatic.com/hub/i/r/2013/11/08/5ba28169-5bfb-48a6-927c-9b39fec9ffb9/thumbnail/1200x630/1831cd7f24c2a77487092b7956a32bed/cbsnews-stack_1280X960.jpg" group-title="NOTICIAS",[COLOR yellowgreen][I][B]CBS News[/B][/I][/COLOR]
-http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_2200_av-p.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NOTICIAS",[COLOR yellowgreen][I][B]ABC News[/B][/I][/COLOR]
-https://abclive2-lh.akamaihd.net/i/abc_live11@423404/master.m3u8
-#EXTINF:-1 tvg-id="WGN9Chicago.us" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/9/90/Wgn9newsopen.jpg/revision/latest?cb=20151210042859" group-title="NOTICIAS",[COLOR yellowgreen][I][B]WGN 9 Chicago[/B][/I][/COLOR]
-http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://exstreamist.com/wp-content/uploads/2018/03/Watch-WRC-TV-Online.png" group-title="NOTICIAS",[COLOR yellowgreen][I][B]NBC 4 Washington DC[/B][/I][/COLOR]
-http://wrclive-f.akamaihd.net/i/wrcb1_1@46880/index_1286_av-p.m3u8
 #EXTINF:-1 tvg-id="EuroNews.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Euronews._2016_alternative_logo.png" group-title="NOTICIAS",[COLOR yellowgreen][I][B]Euronews[/B][/I][/COLOR]
 http://61.58.60.230:9000/live/129.m3u8
 #https://euronews-en-b13-cdn.hexaglobe.net/50e8b08a510d4c50e884fc2c2daf97a8/5ba7b5dd/euronews/euronews-euronews-website-web-responsive-2/ewnsabrenbkp_eng.smil/ewnsabrenbkp_eng_540p.m3u8
 #https://cdn1.transponder.tv//hlp_7b0bb87a555ea/euronews_adp.m3u8?clientKey=f1350b97cdb3e12949fc12d0f79ce89a-MTUzNzcyNDg3OA==&device=row&channelid=99&channel=99&ea=TGl2ZS10di1vLXRyb24=|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.transponder.tv
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NOTICIAS",[COLOR yellowgreen][I][B]France 24[/B][/I][/COLOR]
+#EXTINF:-1 tvg-id="France24.uk" tvg-logo="" group-title="NOTICIAS",[COLOR yellowgreen][I][B]France 24[/B][/I][/COLOR]
 http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
 #EXTINF:-1 tvg-id="NHKWorld.jp" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/41M2TiBsEnL._SY355_.png" group-title="NOTICIAS",[COLOR yellowgreen][I][B]NHK World[/B][/I][/COLOR]
 https://nhkwtvglobal-i.akamaihd.net/hls/live/263941/nhkwtvglobal/index_1180.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NOTICIAS",[COLOR yellowgreen][I][B]TRT World[/B][/I][/COLOR]
+#EXTINF:-1 tvg-id="TRTWorld.uk" tvg-logo="https://www.azernews.az/media/2018/07/07/trt_world_070718.png" group-title="NOTICIAS",[COLOR yellowgreen][I][B]TRT World[/B][/I][/COLOR]
 http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
-
-#EXTINF:-1,[COLOR red] EUA [/COLOR]
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NOTICIAS",[COLOR yellowgreen][I][B]Travel Channel US[/B][/I][/COLOR]
-http://80.80.160.168/live/3/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NOTICIAS",[COLOR yellowgreen][I][B]Retro TV US[/B][/I][/COLOR]
-http://247retrotv.com:1935/live/smil:247retro.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NOTICIAS",[COLOR yellowgreen][I][B]ABC US[/B][/I][/COLOR]
-http://live.field59.com/wwsb/ngrp:wwsb1_all/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NOTICIAS",[COLOR yellowgreen][I][B]Anime All Day US[/B][/I][/COLOR]
-http://stitcher.pluto.tv/stitch/hls/channel/5812b7d3249444e05d09cc49/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=1&deviceId=&deviceVersion=&appVersion=&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NOTICIAS",[COLOR yellowgreen][I][B]Cats 24/7 US[/B][/I][/COLOR]
-http://stitcher.pluto.tv/stitch/hls/channel/599375885ceaac3cabccbed7/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=5&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NOTICIAS",[COLOR yellowgreen][I][B]CBS Sports US[/B][/I][/COLOR]
-https://cbssportsdc-i.akamaihd.net/hls/live/518856/dc_1/desktop.m3u8|X-Forwarded-For=209.239.112.104
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NOTICIAS",[COLOR yellowgreen][I][B]Cooking Channel US[/B][/I][/COLOR]
-http://161.0.157.5/PLTV/88888888/224/3221226201/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NOTICIAS",[COLOR yellowgreen][I][B]Crime Network US[/B][/I][/COLOR]
-http://stitcher.pluto.tv/stitch/hls/channel/5812be1c249444e05d09cc50/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NOTICIAS",[COLOR yellowgreen][I][B]Discovery Channel US[/B][/I][/COLOR]
-http://80.80.160.168/live/8/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NOTICIAS",[COLOR yellowgreen][I][B]ESPN US[/B][/I][/COLOR]
-http://80.80.160.168/live/6/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NOTICIAS",[COLOR yellowgreen][I][B]ESPN 2 US[/B][/I][/COLOR]
-http://161.0.157.8/PLTV/88888888/224/3221226881/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5877ac8cb791f4eb4a140d81/featuredImage.jpg" group-title="USA",Food TV
-http://stitcher.pluto.tv/stitch/hls/channel/5877ac8cb791f4eb4a140d81/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/G9VKlxx.png" group-title="USA",MLB Network (Opt-1)
-http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://11ajin32vs0h2u2tfv193rhj-wpengine.netdna-ssl.com/wp-content/uploads/2016/04/nasa_tv.jpg" group-title="USA",NASA TV
-http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://11ajin32vs0h2u2tfv193rhj-wpengine.netdna-ssl.com/wp-content/uploads/2016/04/nasa_tv.jpg" group-title="USA",NASA TV Media
-http://iphone-streaming.ustream.tv/uhls/10414700/streams/live/iphone/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/NBC_2014_Ident.svg/1200px-NBC_2014_Ident.svg.png" group-title="USA",NBC
-http://161.0.157.51/PLTV/88888888/224/3221227040/03.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/OWN_2011_logo.svg/800px-OWN_2011_logo.svg.png" group-title="USA",Oprah Winfrey Network (Opt-1)
-http://w3.cdn.anvato.net/live/ephemeral/3QA1gOwdRzqhnwPBUewI5VY7Yd9pnkvb/owny/2596k/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/Pac-12_logo.svg/1200px-Pac-12_logo.svg.png" group-title="USA",Pac-12 Bay Area
-http://p12b-lh.akamaihd.net/i/bayarea_delivery@429334/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.shockya.com/news/wp-content/uploads/runway-tv.png" group-title="USA",Runway TV
-http://runway.videocdn.scaleengine.net/runway-iphone/play/runway/chunklist.m3u8
-https://eu-all7.secdn.net/runway-live/play/smil:runway.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/Science_Channel_2016.png" group-title="USA",Science Channel
-http://80.80.160.168/live/9/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/D4vJyy9.png" group-title="USA",The Weather Channel
-http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
+#EXTINF:-1 tvg-id="MSNBC.us" tvg-logo="http://s26.postimg.org/xt91og0qh/image.jpg" group-title="NOTICIAS",[COLOR yellowgreen][I][B]MSNBC[/B][/I][/COLOR]
+http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/index_296_av-p.m3u8
+#EXTINF:-1 tvg-id="CBSNews.us" tvg-logo="https://cbsnews2.cbsistatic.com/hub/i/r/2013/11/08/5ba28169-5bfb-48a6-927c-9b39fec9ffb9/thumbnail/1200x630/1831cd7f24c2a77487092b7956a32bed/cbsnews-stack_1280X960.jpg" group-title="NOTICIAS",[COLOR yellowgreen][I][B]CBS News[/B][/I][/COLOR]
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_2200_av-p.m3u8
+#EXTINF:-1 tvg-id="ABCNews.us" tvg-logo="" group-title="NOTICIAS",[COLOR yellowgreen][I][B]ABC News[/B][/I][/COLOR]
+https://abclive2-lh.akamaihd.net/i/abc_live11@423404/master.m3u8
+#EXTINF:-1 tvg-id="WGN9Chicago.us" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/9/90/Wgn9newsopen.jpg/revision/latest?cb=20151210042859" group-title="NOTICIAS",[COLOR yellowgreen][I][B]WGN 9 Chicago[/B][/I][/COLOR]
+http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8
