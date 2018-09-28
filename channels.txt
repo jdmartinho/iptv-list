@@ -172,6 +172,7 @@ http://autopilot.myowntv.org/content/33816/index.m3u8
 http://lb.hd-livestream.de:1935/live/TirolTV/master.m3u8
 
 #EXTINF:-1,[COLOR blue] EUA [/COLOR]
+http://0.0.0.0:1234
 #EXTINF:-1 tvg-id="ABC.us" tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/0009/9467/brand.gif?itok=DsfQC3P8" group-title="EUA",[COLOR blue][I][B]ABC[/B][/I][/COLOR]
 http://live.field59.com/wwsb/ngrp:wwsb1_all/playlist.m3u8
 #EXTINF:-1 tvg-id="NBC.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/NBC_2014_Ident.svg/1200px-NBC_2014_Ident.svg.png" group-title="EUA",[COLOR blue][I][B]NBC[/B][/I][/COLOR]
