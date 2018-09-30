@@ -60,7 +60,7 @@
   <channel update="i" site="movistarplus.es" site_id="3_24" xmltv_id="3/24.es">3/24</channel>
   <channel update="i" site="movistarplus.es" site_id="TELMAD" xmltv_id="TeleMadrid.es">Telemadrid</channel>
   <channel update="i" site="movistarplus.es" site_id="EXTRE" xmltv_id="CanalExtremadura.es">Canal Extremadura</channel>
-  <channel update="i" site="movistarplus.es" site_id="TVG" xmltv_id="TVGalicia.es">TV Galicia</channel>  
+  <channel update="i" site="movistarplus.es" site_id="TVG" xmltv_id="TVGalicia.es">TV Galicia</channel>
   <channel update="i" site="movistarplus.es" site_id="ARAGON" xmltv_id="AragonTV.es">Aragón TV</channel>
   <channel update="i" site="movistarplus.es" site_id="CANSUR" xmltv_id="CanalAndalucia.es">Canal Sur</channel>
   <channel update="i" site="movistarplus.es" site_id="REALM" xmltv_id="RealMadridTV.es">Real Madrid TV</channel>
@@ -98,6 +98,5 @@
   <channel update="i" site="uk-sky.com" site_id="4604" xmltv_id="EuroNews.uk">Euronews</channel>
   <channel update="i" site="uk-sky.com" site_id="3147" xmltv_id="NHKWorld.jp">NHK World</channel>
   <channel update="i" site="digiturk.com.tr" site_id="468" xmltv_id="TRTWorld.uk">TRT World</channel>
-  <channel update="i" site="streamlive.to" site_id="48" xmltv_id="MSNBC.us">MSNBC</channel>
-  <channel update="i" site="kartina.tv" site_id="139" xmltv_id="WorldFashion.ru">World Fashion</channel>
+  <channel update="i" site="streamlive.to" site_id="48" xmltv_id="MSNBC.us">MSNBC</channel>  
 </settings>
