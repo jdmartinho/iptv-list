@@ -246,3 +246,7 @@ http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_2200_av-p.m3u8
 https://abclive2-lh.akamaihd.net/i/abc_live11@423404/master.m3u8
 #EXTINF:-1 tvg-id="WGN9Chicago.us" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/9/90/Wgn9newsopen.jpg/revision/latest?cb=20151210042859" group-title="NOTICIAS",[COLOR yellowgreen][I][B]WGN 9 Chicago[/B][/I][/COLOR]
 http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8
+#EXTINF:-1 tvg-id="WorldFashion.ru" tvg-logo="https://www.akado.ru/lp/wfc/WF_logo_.jpg" group-title="NOTICIAS",[COLOR yellowgreen][I][B]World Fashion Channel[/B][/I][/COLOR]
+https://wfc.bonus-tv.ru/cdn/wfcint/index.m3u8
+#EXTINF:-1 tvg-id="GlobalFashion.us" tvg-logo="https://s3.amazonaws.com/ctm-tm/016759516.JPG" group-title="NOTICIAS",[COLOR yellowgreen][I][B]Global Fashion Channel[/B][/I][/COLOR]
+https://vcnglobalfashionchannel.teleosmedia.com/stream/globalfashionchannel/globalfashionchannel/seglist_540p.m3u8

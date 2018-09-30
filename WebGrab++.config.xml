@@ -95,9 +95,10 @@
   <channel update="i" site="uk-sky.com" site_id="3260" xmltv_id="BloombergTV.us">Bloomberg</channel>
   <channel update="i" site="uk-sky.com" site_id="5602" xmltv_id="CNN.us">CNN</channel>
   <channel update="i" site="uk-sky.com" site_id="3107" xmltv_id="AlJazeeraEnglish.qa">Al Jazeera</channel>
-  <channel update="i" site="uk-sky.com" site_id="3213" xmltv_id="RT.us">RT</channel>  
+  <channel update="i" site="uk-sky.com" site_id="3213" xmltv_id="RT.us">RT</channel>
   <channel update="i" site="uk-sky.com" site_id="4604" xmltv_id="EuroNews.uk">Euronews</channel>
   <channel update="i" site="uk-sky.com" site_id="3147" xmltv_id="NHKWorld.jp">NHK World</channel>
   <channel update="i" site="digiturk.com.tr" site_id="468" xmltv_id="TRTWorld.uk">TRT World</channel>
-  <channel update="i" site="streamlive.to" site_id="48" xmltv_id="MSNBC.us">MSNBC</channel>  
+  <channel update="i" site="streamlive.to" site_id="48" xmltv_id="MSNBC.us">MSNBC</channel>
+  <channel update="i" site="kartina.tv" site_id="139" xmltv_id="WorldFashion.ru">World Fashion</channel>
 </settings>
