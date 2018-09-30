@@ -60,8 +60,7 @@
   <channel update="i" site="movistarplus.es" site_id="3_24" xmltv_id="3/24.es">3/24</channel>
   <channel update="i" site="movistarplus.es" site_id="TELMAD" xmltv_id="TeleMadrid.es">Telemadrid</channel>
   <channel update="i" site="movistarplus.es" site_id="EXTRE" xmltv_id="CanalExtremadura.es">Canal Extremadura</channel>
-  <channel update="i" site="movistarplus.es" site_id="TVG" xmltv_id="TVGalicia.es">TV Galicia</channel>
-  <channel update="i" site="formulatv.com" site_id="tpa" xmltv_id="TVAsturias.es">TV Asturias</channel>
+  <channel update="i" site="movistarplus.es" site_id="TVG" xmltv_id="TVGalicia.es">TV Galicia</channel>  
   <channel update="i" site="movistarplus.es" site_id="ARAGON" xmltv_id="AragonTV.es">Aragón TV</channel>
   <channel update="i" site="movistarplus.es" site_id="CANSUR" xmltv_id="CanalAndalucia.es">Canal Sur</channel>
   <channel update="i" site="movistarplus.es" site_id="REALM" xmltv_id="RealMadridTV.es">Real Madrid TV</channel>
