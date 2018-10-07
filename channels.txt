@@ -189,6 +189,8 @@ http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
 http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8
 #EXTINF:-1 tvg-id="NASAMedia.us" tvg-logo="https://11ajin32vs0h2u2tfv193rhj-wpengine.netdna-ssl.com/wp-content/uploads/2016/04/nasa_tv.jpg" group-title="EUA",[COLOR blue][I][B]NASA TV Media[/B][/I][/COLOR]
 http://iphone-streaming.ustream.tv/uhls/10414700/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 tvg-id="360North.us" tvg-logo="http://1.bp.blogspot.com/-n9VkHeKYy9I/TpxlB16n3HI/AAAAAAAABFQ/GORfkU_Nus4/s400/360north_logo_coloronwhite_large%2Bcopy.jpg" group-title="EUA",[COLOR blue][I][B]360 North[/B][/I][/COLOR]
+http://wowzaprod3-i.akamaihd.net/hls/live/252236/2147483647_360north_247/playlist.m3u8
 #EXTINF:-1 tvg-id="OWN.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/OWN_2011_logo.svg/800px-OWN_2011_logo.svg.png" group-title="EUA",[COLOR blue][I][B]Oprah Winfrey Network[/B][/I][/COLOR]
 http://w3.cdn.anvato.net/live/ephemeral/3QA1gOwdRzqhnwPBUewI5VY7Yd9pnkvb/owny/2596k/index.m3u8
 #EXTINF:-1 tvg-id="Runway.us" tvg-logo="http://www.shockya.com/news/wp-content/uploads/runway-tv.png" group-title="EUA",[COLOR blue][I][B]Runway TV[/B][/I][/COLOR]
@@ -216,6 +218,8 @@ http://161.0.157.8/PLTV/88888888/224/3221226881/index.m3u8
 http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
 #EXTINF:-1 tvg-id="Pac12BayArea.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/Pac-12_logo.svg/1200px-Pac-12_logo.svg.png" group-title="EUA",[COLOR blue][I][B]Pac-12 Bay Area[/B][/I][/COLOR]
 http://p12b-lh.akamaihd.net/i/bayarea_delivery@429334/master.m3u8
+#EXTINF:-1 tvg-id="FoxSportsNews.us" tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/6/6554.1489225299.png" group-title="EUA",[COLOR blue][I][B]Fox Sports News[/B][/I][/COLOR]
+https://foxsportshlsg01-lh.akamaihd.net/i//fsnewshls_0@301672/master.m3u8
 
 #EXTINF:-1,[COLOR yellowgreen] NOTICIAS [/COLOR]
 http://0.0.0.0:1234
