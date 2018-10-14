@@ -7,7 +7,7 @@
   <user-agent>Mozilla/5.0 (Windows NT 6.1; WOW64; rv:29.0) Gecko/20100101 Firefox/29.0</user-agent>
   <logging>on</logging>
   <retry time-out="5">4</retry>
-  <timespan>6</timespan>
+  <timespan>3</timespan>
   <update>f</update>
 
   <!-- IRLANDA -->
@@ -107,4 +107,5 @@
   <channel update="i" site="m.tvguide.co.uk-full" site_id="140" xmltv_id="EuroNews.uk">Euronews</channel>
   <channel update="i" site="nos.pt" site_id="46" xmltv_id="NHKWorld.jp">NHK World</channel>
   <channel update="i" site="digiturk.com.tr" site_id="468" xmltv_id="TRTWorld.uk">TRT World</channel>
+  <channel update="i" site="teleguide.info" site_id="100017" xmltv_id="WorldFashion.ru">World Fashion Channel</channel>
 </settings>
