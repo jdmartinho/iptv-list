@@ -8,7 +8,7 @@
   <logging>on</logging>
   <retry time-out="5">4</retry>
   <timespan>6</timespan>
-  <update></update>
+  <update>f</update>
 
   <!-- IRLANDA -->
   <channel update="i" site="entertainment.ie" site_id="81" xmltv_id="RTEOne.ie">RTE One</channel>
@@ -20,16 +20,17 @@
   <channel update="i" site="horizon.tv" site_id="IE/eng_753737255354__https://wp3-images-ie-dynamic.horizon.tv/ChannelLogos/02/RTE_News_Now.png" xmltv_id="RTENewsNow.ie">RTE News Now</channel>
 
   <!-- REINO UNIDO -->
-  <channel update="i" site="uk-sky.com" site_id="2002" xmltv_id="BBC1.uk">BBC One</channel>
-  <channel update="i" site="uk-sky.com" site_id="2006" xmltv_id="BBC2.uk">BBC Two</channel>
-  <channel update="i" site="uk-sky.com" site_id="6000" xmltv_id="ITV1Anglia.uk">ITV</channel>
-  <channel update="i" site="uk-sky.com" site_id="1621" xmltv_id="Channel4.uk">Channel 4</channel>
-  <channel update="i" site="uk-sky.com" site_id="1800" xmltv_id="Channel5.uk">Channel 5</channel>
-  <channel update="i" site="uk-sky.com" site_id="2086" xmltv_id="BBC4.uk">BBC Four</channel>
-  <channel update="i" site="uk-sky.com" site_id="1404" xmltv_id="SkyNews.uk">Sky News</channel>
-  <channel update="i" site="uk-sky.com" site_id="2011" xmltv_id="BBCNews.uk">BBC News</channel>
-  <channel update="i" site="uk-sky.com" site_id="5607" xmltv_id="TravelChannel.uk">Travel Channel</channel>
-  <channel update="i" site="uk-sky.com" site_id="3590" xmltv_id="FoodNetwork.uk">Food Network</channel>
+  <channel update="i" site="m.tvguide.co.uk-full" site_id="80" xmltv_id="BBC1.uk">BBC One</channel>
+  <channel update="i" site="m.tvguide.co.uk-full" site_id="99" xmltv_id="BBC2.uk">BBC Two</channel>
+  <channel update="i" site="m.tvguide.co.uk-full" site_id="165" xmltv_id="ITV1Anglia.uk">ITV</channel>
+  <channel update="i" site="m.tvguide.co.uk-full" site_id="121" xmltv_id="Channel4.uk">Channel 4</channel>
+  <channel update="i" site="m.tvguide.co.uk-full" site_id="148" xmltv_id="Channel5.uk">Channel 5</channel>
+  <channel update="i" site="m.tvguide.co.uk-full" site_id="109" xmltv_id="BBC4.uk">BBC Four</channel>
+  <channel update="i" site="m.tvguide.co.uk-full" site_id="257" xmltv_id="SkyNews.uk">Sky News</channel>
+  <channel update="i" site="m.tvguide.co.uk-full" site_id="66" xmltv_id="BBCNews.uk">BBC News</channel>
+  <channel update="i" site="m.tvguide.co.uk-full" site_id="289" xmltv_id="TravelChannel.uk">Travel Channel</channel>
+  <channel update="i" site="m.tvguide.co.uk-full" site_id="596" xmltv_id="FoodNetwork.uk">Food Network</channel>
+  <channel update="i" site="m.tvguide.co.uk-full" site_id="586" xmltv_id="CreateCraft.uk">Create and Craft</channel>
   <channel update="i" site="nos.pt" site_id="78" xmltv_id="ExtremeSports.uk">Extreme Sports</channel>
 
   <!-- PORTUGAL -->
@@ -85,18 +86,25 @@
 
   <!-- ALEMANHA -->
   <channel update="i" site="tvdigital.de" site_id="daserste" xmltv_id="ARD.de">Das Erste</channel>
+  <channel update="i" site="vodafone.de" site_id="23072" xmltv_id="WeltDerWunder.de">Welt der Wunder</channel>
   <channel update="i" site="tvdigital.de" site_id="tagesschau24" xmltv_id="Tagesschau24.de">Tagesschau24</channel>
   <channel update="i" site="dw.com" site_id="5_4765/1" xmltv_id="DeutscheWelle.de">DW</channel>
   <channel update="i" site="tvdigital.de" site_id="anixehdserie" xmltv_id="Anixe.de">Anixe</channel>
+  <channel update="i" site="horizon.tv" site_id="DE/deu_810575911132__https://wp9-images-de-dynamic.horizon.tv/ChannelLogos/02/health_tv.png" xmltv_id="Health.de">Health TV</channel>
   <channel update="i" site="horizon.tv" site_id="AT/deu_694397991027__https://wp24-images-at-dynamic.horizon.tv/Logos/StaticConfig/TIROL_TV_colour.png" xmltv_id="TirolTV.de">Tirol TV</channel>
+  <channel update="i" site="tv-media.at" site_id="OKTO" xmltv_id="Okto.at">Okto</channel>
+
+  <!-- EUA -->
+  <channel update="i" site="cableonda.com" site_id="10447###87" xmltv_id="CookingChannel.us">The Cooking Channel</channel>
 
   <!-- NOTICIAS -->
-  <channel update="i" site="uk-sky.com" site_id="3260" xmltv_id="BloombergTV.us">Bloomberg</channel>
-  <channel update="i" site="uk-sky.com" site_id="5602" xmltv_id="CNN.us">CNN</channel>
-  <channel update="i" site="uk-sky.com" site_id="3107" xmltv_id="AlJazeeraEnglish.qa">Al Jazeera</channel>
-  <channel update="i" site="uk-sky.com" site_id="3213" xmltv_id="RT.us">RT</channel>
-  <channel update="i" site="uk-sky.com" site_id="4604" xmltv_id="EuroNews.uk">Euronews</channel>
-  <channel update="i" site="uk-sky.com" site_id="3147" xmltv_id="NHKWorld.jp">NHK World</channel>
+  <channel update="i" site="nos.pt" site_id="44" xmltv_id="BloombergTV.us">Bloomberg US</channel>
+  <channel update="i" site="horizon.tv" site_id="AT/deu_554823718998__https://wp16-images-at-dynamic.horizon.tv/Logos/1185.f.png" xmltv_id="BloombergEurope.uk">Bloomberg Europe</channel>
+  <channel update="i" site="nos.pt" site_id="26" xmltv_id="CNN.us">CNN</channel>
+  <channel update="i" site="nos.pt" site_id="108" xmltv_id="AlJazeeraEnglish.qa">Al Jazeera</channel>
+  <channel update="i" site="nos.pt" site_id="165" xmltv_id="RT.us">RT</channel>
+  <channel update="i" site="nos.pt" site_id="109" xmltv_id="France24.uk">France 24</channel>
+  <channel update="i" site="m.tvguide.co.uk-full" site_id="140" xmltv_id="EuroNews.uk">Euronews</channel>
+  <channel update="i" site="nos.pt" site_id="46" xmltv_id="NHKWorld.jp">NHK World</channel>
   <channel update="i" site="digiturk.com.tr" site_id="468" xmltv_id="TRTWorld.uk">TRT World</channel>
-  <channel update="i" site="streamlive.to" site_id="48" xmltv_id="MSNBC.us">MSNBC</channel>  
 </settings>
