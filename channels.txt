@@ -54,10 +54,10 @@ https://streamer-b02.videos.sapo.pt/live/portocanal/playlist.m3u8|User-Agent=Moz
 #EXTINF:-1 tvg-id="SicRadical.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Logosicradical.png/200px-Logosicradical.png" group-title="PORTUGAL",[COLOR white][I][B]SIC Radical[/B][/I][/COLOR]
 http://live.impresa.pt/live/sicrad/sicrad.m3u8
 #http://live.impresa.pt/live/sicrad/sicrad540p.m3u8
-#EXTINF:-1 tvg-id="CacaPesca.pt" tvg-logo="https://portalnacional.com.pt/images/icons/tv/CACAP.png" group-title="PORTUGAL",[COLOR white][I][B]Caca & Pesca[/B][/I][/COLOR]
-https://cdn039.fractalmedia.es/hls/caz_pt_high.m3u8
 #EXTINF:-1 tvg-id="Canal180.pt" tvg-logo="https://yt3.ggpht.com/a-/AN66SAwCWEacPHGtQukEPw2xn1U8wJP6hOv8sESddg=s900-mo-c-c0xffffffff-rj-k-no" group-title="PORTUGAL",[COLOR white][I][B]Canal 180[/B][/I][/COLOR]
 http://noscdne.entrprise.tv:1935/live/canal180.stream/livestream.m3u8
+#EXTINF:-1 tvg-id="CacaPesca.pt" tvg-logo="https://portalnacional.com.pt/images/icons/tv/CACAP.png" group-title="PORTUGAL",[COLOR white][I][B]Caca & Pesca[/B][/I][/COLOR]
+https://cdn039.fractalmedia.es/hls/caz_pt_high.m3u8
 #EXTINF:-1 tvg-id="Mezzo.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Mezzo_Logo.svg/1280px-Mezzo_Logo.svg.png" group-title="PORTUGAL",[COLOR white][I][B]Mezzo[/B][/I][/COLOR]
 http://ott-cdn.ucom.am/s35/index.m3u8
 #EXTINF:-1 tvg-id="Djing.pt" tvg-logo="https://djing.com/newimages/content/c01.jpg" group-title="PORTUGAL",[COLOR white][I][B]Djing[/B][/I][/COLOR]
@@ -180,12 +180,35 @@ http://video1.anixehd.tv:8080/Apple/wifistream.m3u8
 http://autopilot.myowntv.org/content/33816/index.m3u8
 #EXTINF:-1 tvg-id="Health.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/healthtv.png" group-title="ALEMANHA",[COLOR deepskyblue][I][B]Health TV[/B][/I][/COLOR]
 http://62.67.13.53:1935/HealthTV/ghtv_live_master.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="VisitX.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/visitxtv.png" group-title="ALEMANHA",[COLOR deepskyblue][I][B]Visit-X TV[/B][/I][/COLOR]
-https://stream.visit-x.tv/vxtv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="TirolTV.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/TIROL_TV_Logo.jpg" group-title="ALEMANHA",[COLOR deepskyblue][I][B]Tirol TV[/B][/I][/COLOR]
 http://lb.hd-livestream.de:1935/live/TirolTV/master.m3u8
 #EXTINF:-1 tvg-id="Okto.at" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/okto.png" group-title="ALEMANHA",[COLOR deepskyblue][I][B]Okto[/B][/I][/COLOR]
 https://d2jk87psbjrjdz.cloudfront.net/livehttporigin/okto/playlist.m3u8
+
+#EXTINF:-1,[COLOR red] XXX [/COLOR]
+http://0.0.0.0:1234
+#EXTINF:-1 tvg-id="VisitX.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/visitxtv.png" group-title="XXX",[COLOR red][I][B]Visit-X TV[/B][/I][/COLOR]
+https://stream.visit-x.tv/vxtv/live/playlist.m3u8
+#EXTINF:-1 tvg-id="BungaBunga.xxx" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/tring_bunga_bunga.jpg" group-title="XXX",[COLOR red][I][B]Bunga Bunga[/B][/I][/COLOR]
+http://5.135.92.138:58143/out/u/109_1.m3u8
+#EXTINF:-1 tvg-id="Jasmin.xxx" tvg-logo="http://www.giniko.com/logos/190x110/341.png" group-title="XXX",[COLOR red][I][B]Jasmin TV[/B][/I][/COLOR]
+http://j.mp/S_JasminTVHD_sly?.m3u8
+#EXTINF:-1 tvg-id="Passion.xxx" tvg-logo="https://adult-channels.com/wp-content/uploads/2016/09/Passionxxx-tv-logo.jpg" group-title="XXX",[COLOR red][I][B]Passion XXX[/B][/I][/COLOR]
+http://publish.thewebstream.co:1935/ppv/_definst_/rampanttv_passionxxx/playlist.m3u8
+#EXTINF:-1 tvg-id="RedLight.xxx" tvg-logo="https://satservice.co.uk/wp-content/uploads/2016/10/Red-Light-HD-630x355.png" group-title="XXX",[COLOR red][I][B]Red Light[/B][/I][/COLOR]
+http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2076.m3u8
+#EXTINF:-1 tvg-id="FrenchLover.xxx" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/78/FRENCH_LOVER_TV.jpg/revision/latest?cb=20150311153759" group-title="XXX",[COLOR red][I][B]French Lover[/B][/I][/COLOR]
+http://213.59.128.162:9996/play/FRENCHLOVER/index.m3u8
+#EXTINF:-1 tvg-id="Hustler.xxx" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c0/HUSTLER_TV_HD.png" group-title="XXX",[COLOR red][I][B]Hustler[/B][/I][/COLOR]
+http://213.59.128.162:9996/play/Hustler_HD/index.m3u8
+#EXTINF:-1 tvg-id="Brazzers.xxx" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/27/BRAZZERS_TV_2015.png/revision/latest?cb=20150309165828" group-title="XXX",[COLOR red][I][B]Brazzers[/B][/I][/COLOR]
+http://213.59.128.162:9996/play/Brazzers_TV/index.m3u8
+#EXTINF:-1 tvg-id="PinkO.xxx" tvg-logo="http://www.satzone.it/shop/111-large_default/pinko-tv-smart-card-4-canali-1-anno-viaccess.jpg" group-title="XXX",[COLOR red][I][B]Pink'O[/B][/I][/COLOR]
+http://213.59.128.162:9996/play/Pink_O_TV/index.m3u8
+#EXTINF:-1 tvg-id="Private.xxx" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/98/PRIVATE_TV.png/revision/latest?cb=20150315153455" group-title="XXX",[COLOR red][I][B]Private[/B][/I][/COLOR]
+http://213.59.128.162:9996/play/Private/index.m3u8
+#EXTINF:-1 tvg-id="LiveStrip.xxx" tvg-logo="" group-title="XXX",[COLOR red][I][B]Live Strip Club[/B][/I][/COLOR]
+https://5652cb24c16ee.streamlock.net/2001edge/smil:2001MS_premium.smil/playlist.m3u8
 
 #EXTINF:-1,[COLOR blue] EUA [/COLOR]
 http://0.0.0.0:1234
@@ -252,7 +275,7 @@ https://english.streaming.aljazeera.net/aljazeera/english2/index1296.m3u8
 #http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index255.m3u8
 #EXTINF:-1 tvg-id="RT.us" tvg-logo="http://s26.postimg.org/q0yik02p5/5_YEHGFD.jpg" group-title="NOTICIAS",[COLOR yellowgreen][I][B]RT America[/B][/I][/COLOR]
 https://rt-news.secure.footprint.net/1103.m3u8
-#EXTINF:-1 tvg-id="RTDoc.us" tvg-logo="http://s26.postimg.org/q0yik02p5/5_YEHGFD.jpg" group-title="NOTICIAS",[COLOR yellowgreen][I][B]RT Documentaries[/B][/I][/COLOR]
+#EXTINF:-1 tvg-id="RTDoc.us" tvg-logo="http://s26.postimg.org/q0yik02p5/5_YEHGFD.jpg" group-title="NOTICIAS",[COLOR yellowgreen][I][B]RT Documentary[/B][/I][/COLOR]
 https://rt-doc.secure.footprint.net/1101-inadv-qidx-2k_v3.m3u8
 #EXTINF:-1 tvg-id="SkyNews.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Sky_News_2015_Logo.svg/800px-Sky_News_2015_Logo.svg.png" group-title="NOTICIAS",[COLOR yellowgreen][I][B]Sky News[/B][/I][/COLOR]
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8

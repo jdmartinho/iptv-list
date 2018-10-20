@@ -11,10 +11,10 @@
   <update>f</update>
 
   <!-- IRLANDA -->
-  <channel update="i" site="entertainment.ie" site_id="81" xmltv_id="RTEOne.ie">RTE One</channel>
-  <channel update="i" site="entertainment.ie" site_id="82" xmltv_id="RTETwo.ie">RTE 2</channel>
+  <channel update="i" site="horizon.tv" site_id="IE/eng_753737255275__https://wp24-images-ie-dynamic.horizon.tv/ChannelLogos/02/RTE_One_HD.png" xmltv_id="RTEOne.ie">RTE One</channel>
+  <channel update="i" site="horizon.tv" site_id="IE/eng_753737255272__https://wp1-images-ie-dynamic.horizon.tv/ChannelLogos/02/RTE2_HD.png" xmltv_id="RTETwo.ie">RTE2</channel>
   <channel update="i" site="entertainment.ie" site_id="84" xmltv_id="VirginMediaOne.ie">Virgin Media 1</channel>
-  <channel update="i" site="entertainment.ie" site_id="83" xmltv_id="TG4.ie">TG4</channel>
+  <channel update="i" site="horizon.tv" site_id="IE/eng_753737255278__https://wp3-images-ie-dynamic.horizon.tv/ChannelLogos/02/TG4_HD.png" xmltv_id="TG4.ie">TG4</channel>
   <channel update="i" site="entertainment.ie" site_id="1209" xmltv_id="VirginMediaTwo.ie">Virgin Media 2</channel>
   <channel update="i" site="entertainment.ie" site_id="1929" xmltv_id="VirginMediaThree.ie">Virgin Media 3</channel>
   <channel update="i" site="horizon.tv" site_id="IE/eng_753737255354__https://wp3-images-ie-dynamic.horizon.tv/ChannelLogos/02/RTE_News_Now.png" xmltv_id="RTENewsNow.ie">RTE News Now</channel>
@@ -37,7 +37,7 @@
   <channel update="i" site="rpt.pt" site_id="3" xmltv_id="RtpAcores.pt">RTP Açores</channel>
   <channel update="i" site="nos.pt" site_id="105" xmltv_id="Porto.pt">Porto Canal</channel>
   <channel update="i" site="nos.pt" site_id="61" xmltv_id="SicRadical.pt">SIC Radical</channel>
-  <channel update="i" site="nos.pt" site_id="129" xmltv_id="CacaPesca.pt">Caca & Pesca</channel>
+  <channel update="i" site="nos.pt" site_id="129" xmltv_id="CacaPesca.pt">Caca e Pesca</channel>
   <channel update="i" site="nos.pt" site_id="58" xmltv_id="Canal180.pt">Canal 180</channel>
   <channel update="i" site="nos.pt" site_id="50" xmltv_id="Mezzo.pt">Mezzo</channel>
 
@@ -51,11 +51,14 @@
   <channel update="i" site="movistarplus.es" site_id="BEMAD" xmltv_id="BeMad.es">BE MAD</channel>
   <channel update="i" site="movistarplus.es" site_id="24H" xmltv_id="RTVE24.es">RTVE 24</channel>
   <channel update="i" site="movistarplus.es" site_id="3_24" xmltv_id="3/24.es">3/24</channel>
+  <channel update="i" site="movistarplus.es" site_id="13TV" xmltv_id="Trece.es">Trece</channel>
   <channel update="i" site="movistarplus.es" site_id="TELMAD" xmltv_id="TeleMadrid.es">Telemadrid</channel>
+  <channel update="i" site="plus.es" site_id="OTRA" xmltv_id="LaOtra.es">La Otra</channel>
   <channel update="i" site="movistarplus.es" site_id="EXTRE" xmltv_id="CanalExtremadura.es">Canal Extremadura</channel>
   <channel update="i" site="movistarplus.es" site_id="TVG" xmltv_id="TVGalicia.es">TV Galicia</channel>
   <channel update="i" site="movistarplus.es" site_id="ARAGON" xmltv_id="AragonTV.es">Aragón TV</channel>
   <channel update="i" site="movistarplus.es" site_id="CANSUR" xmltv_id="CanalAndalucia.es">Canal Sur</channel>
+  <channel update="i" site="movistarplus.es" site_id="TVC" xmltv_id="TV3Cat.es">TV3CAT</channel>
   <channel update="i" site="movistarplus.es" site_id="REALM" xmltv_id="RealMadridTV.es">Real Madrid TV</channel>
 
   <!-- FRANCA -->
@@ -84,11 +87,16 @@
   <channel update="i" site="tvdigital.de" site_id="anixehdserie" xmltv_id="Anixe.de">Anixe</channel>
   <channel update="i" site="horizon.tv" site_id="DE/deu_810575911132__https://wp9-images-de-dynamic.horizon.tv/ChannelLogos/02/health_tv.png" xmltv_id="Health.de">Health TV</channel>
   <channel update="i" site="horizon.tv" site_id="AT/deu_694397991027__https://wp24-images-at-dynamic.horizon.tv/Logos/StaticConfig/TIROL_TV_colour.png" xmltv_id="TirolTV.de">Tirol TV</channel>
-  <channel update="i" site="tv-media.at" site_id="OKTO" xmltv_id="Okto.at">Okto</channel>
+  <channel update="i" site="m.tele.at" site_id="70" xmltv_id="Okto.at">Okto</channel>
 
   <!-- EUA -->
   <channel update="i" site="cableonda.com" site_id="10447###87" xmltv_id="CookingChannel.us">The Cooking Channel</channel>
   <channel update="i" site="nos.pt" site_id="78" xmltv_id="ExtremeSports.us">Extreme Sports</channel>
+
+  <!-- XXX -->
+  <channel update="i" site="bnet.hr" site_id="112" xmltv_id="Brazzers.xxxE">Brazzers</channel>
+  <channel update="i" site="horizon.tv" site_id="CH/ita_668884519373__https://wp21-images-ch-dynamic.horizon.tv/channellogos/02/pink_o_tv.png" xmltv_id="PinkO.xxx">Pink O</channel>
+  <channel update="i" site="horizon.tv" site_id="PL/pol_627525671306__https://wp5-images-pl-dynamic.horizon.tv/Logos/4945.f.dcd032aa8af7c67b18bbbad98cca9740d2530f8a.png" xmltv_id="Private.xxx">Private</channel>
 
   <!-- NOTICIAS -->
   <channel update="i" site="nos.pt" site_id="44" xmltv_id="BloombergTV.us">Bloomberg US</channel>
@@ -96,10 +104,13 @@
   <channel update="i" site="nos.pt" site_id="26" xmltv_id="CNN.us">CNN</channel>
   <channel update="i" site="nos.pt" site_id="108" xmltv_id="AlJazeeraEnglish.qa">Al Jazeera</channel>
   <channel update="i" site="nos.pt" site_id="165" xmltv_id="RT.us">RT</channel>
-  <channel update="i" site="m.tvguide.co.uk-full" site_id="257" xmltv_id="SkyNews.uk">Sky News</channel>
+  <channel update="i" site="guidatv.sky.it" site_id="rt-doc-hd" xmltv_id="RTDoc.us">RT Documentary</channel>
+  <channel update="i" site="horizon.tv" site_id="IE/eng_753737255280__https://wp10-images-ie-dynamic.horizon.tv/ChannelLogos/02/Sky_News.png" xmltv_id="SkyNews.uk">Sky News</channel>
   <channel update="i" site="nos.pt" site_id="109" xmltv_id="France24.uk">France 24</channel>
   <channel update="i" site="m.tvguide.co.uk-full" site_id="140" xmltv_id="EuroNews.uk">Euronews</channel>
   <channel update="i" site="nos.pt" site_id="46" xmltv_id="NHKWorld.jp">NHK World</channel>
   <channel update="i" site="digiturk.com.tr" site_id="468" xmltv_id="TRTWorld.uk">TRT World</channel>
+  <channel update="i" site="indiatimes.com" site_id="Zee%20News" xmltv_id="ZeeNews.in">Zee News</channel>
+  <channel update="i" site="indiatimes.com" site_id="India%20News" xmltv_id="IndiaNews.in">India News</channel>
   <channel update="i" site="teleguide.info" site_id="100017" xmltv_id="WorldFashion.ru">World Fashion Channel</channel>
 </settings>
