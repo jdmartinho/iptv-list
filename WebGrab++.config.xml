@@ -110,7 +110,7 @@
   <channel update="i" site="m.tvguide.co.uk-full" site_id="140" xmltv_id="EuroNews.uk">Euronews</channel>
   <channel update="i" site="nos.pt" site_id="46" xmltv_id="NHKWorld.jp">NHK World</channel>
   <channel update="i" site="digiturk.com.tr" site_id="468" xmltv_id="TRTWorld.uk">TRT World</channel>
-  <channel update="i" site="indiatimes.com" site_id="Zee%20News" xmltv_id="ZeeNews.in">Zee News</channel>
-  <channel update="i" site="indiatimes.com" site_id="India%20News" xmltv_id="IndiaNews.in">India News</channel>
+  <channel update="i" site="in.com" site_id="395" xmltv_id="ZeeNews.in">Zee News</channel>
+  <channel update="i" site="in.com" site_id="464" xmltv_id="IndiaNews.in">India News</channel>
   <channel update="i" site="teleguide.info" site_id="100017" xmltv_id="WorldFashion.ru">World Fashion Channel</channel>
 </settings>

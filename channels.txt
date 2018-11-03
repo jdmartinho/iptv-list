@@ -24,7 +24,10 @@ https://live-craftuk.simplestreamcdn.com/craftuk/3/prog_index.m3u8
 #EXTINF:-1,[COLOR white] PORTUGAL [/COLOR]
 http://0.0.0.0:1234
 #EXTINF:-1 tvg-id="Rtp1.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/RTP1_2016.png/200px-RTP1_2016.png" group-title="PORTUGAL",[COLOR white][I][B]RTP 1[/B][/I][/COLOR]
-http://rtp-pull-live-h1bnxvdk2-proprtp-app-wrtp.hls.adaptive.level3.net:80/liverepeater/rtp1_5ch5h264.stream/playlist.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36
+http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtp1_5ch5h264.stream/playlist.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36
+#http://rtp-pull-live-h1bnxvdk2-proprtp-app-wrtp.hls.adaptive.level3.net:80/liverepeater/rtp1_5ch5h264.stream/playlist.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36
+#https://streaming-live.rtp.pt/liverepeater/smil:rtp8.smil/playlist.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play
+#https://streaming-live.rtp.pt/liverepeater/smil:rtp1.smil/chunklist_b640000_slpt.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play
 #EXTINF:-1 tvg-id="Rtp2.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4d/Rtp2_2016_logo.png/250px-Rtp2_2016_logo.png" group-title="PORTUGAL",[COLOR white][I][B]RTP 2[/B][/I][/COLOR]
 https://streaming-live.rtp.pt/liverepeater/smil:rtp2.smil/chunklist_b640000_slpt.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play
 #EXTINF:-1 tvg-id="Sic.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Logo_sic.jpg/230px-Logo_sic.jpg" group-title="PORTUGAL",[COLOR white][I][B]SIC[/B][/I][/COLOR]
@@ -102,7 +105,7 @@ http://streaming.enetres.net:80/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/chunk
 #EXTINF:-1 tvg-id="TeleMadrid.es" tvg-logo="http://latelete.tv/img/telemadrid.png" group-title="ESPANHA",[COLOR yellow][I][B]TeleMadrid[/B][/I][/COLOR]
 http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/bitrate_1.m3u8
 #EXTINF:-1 tvg-id="LaOtra.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/LaOtra.svg/1200px-LaOtra.svg.png" group-title="ESPANHA",[COLOR yellow][I][B]La Otra[/B][/I][/COLOR]
-http://laotrahls-live.hls.adaptive.level3.net/telemadrid/laotra1/index.m3u8
+http://laotrahls-live.hls.adaptive.level3.net/telemadrid/laotra1/index.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play
 #EXTINF:-1 tvg-id="CanalExtremadura.es" tvg-logo="http://www.canalextremadura.es/sites/all/themes/canalex_2016/images/canalex/logotipo@2x.png" group-title="ESPANHA",[COLOR yellow][I][B]Canal Extremadura[/B][/I][/COLOR]
 http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TVGalicia.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Televisi%C3%B3n_de_Galicia_Logo.svg/200px-Televisi%C3%B3n_de_Galicia_Logo.svg.png" group-title="ESPANHA",[COLOR yellow][I][B]TV Galicia[/B][/I][/COLOR]
@@ -140,8 +143,6 @@ https://i24alive1-a.akamaihd.net/f30e0953c49644b6bf4f6e07f6b1d8ea/eu-central-1/5
 https://stream-02.nyc.dailymotion.com/39/dm/3/x4rdeu6/live-3.m3u8
 #EXTINF:-1 tvg-id="Francophonie.fr" tvg-name="" tvg-logo="http://www.streamytv.net/wp-content/uploads/2015/08/TV-Francophonie.jpg" group-title="FRANCA",[COLOR cyan][I][B]Francophonie 24[/B][/I][/COLOR]
 http://mv2.tvfrancophonie.org/live/Stream1/media_b776739_w671289549.m3u8
-#EXTINF:-1 tvg-id="FashionTV.fr" tvg-logo="https://www.licenseindia.com/wp-content/uploads/2015/05/fashion-tv.gif" group-title="FRANCA",[COLOR cyan][I][B]Fashion TV[/B][/I][/COLOR]
-https://stream-04.dc3.dailymotion.com/dm/3/x3m6nld/live-2.m3u8
 #EXTINF:-1 tvg-id="LEquipe21.fr" tvg-logo="https://www.ledirect.fr/uploads/channels/2263_6872.png" group-title="FRANCA",[COLOR cyan][I][B]L'Equipe 21[/B][/I][/COLOR]
 http://ec.playmedia.fr/lequipe21/live/playlist.m3u8
 
@@ -232,9 +233,6 @@ http://iphone-streaming.ustream.tv/uhls/10414700/streams/live/iphone/playlist.m3
 http://wowzaprod3-i.akamaihd.net/hls/live/252236/2147483647_360north_247/playlist.m3u8
 #EXTINF:-1 tvg-id="OWN.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/OWN_2011_logo.svg/800px-OWN_2011_logo.svg.png" group-title="EUA",[COLOR blue][I][B]Oprah Winfrey Network[/B][/I][/COLOR]
 http://w3.cdn.anvato.net/live/ephemeral/3QA1gOwdRzqhnwPBUewI5VY7Yd9pnkvb/owny/2596k/index.m3u8
-#EXTINF:-1 tvg-id="Runway.us" tvg-logo="http://www.shockya.com/news/wp-content/uploads/runway-tv.png" group-title="EUA",[COLOR blue][I][B]Runway TV[/B][/I][/COLOR]
-http://runway.videocdn.scaleengine.net/runway-iphone/play/runway/chunklist.m3u8
-#https://eu-all7.secdn.net/runway-live/play/smil:runway.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="CookingChannel.us" tvg-logo="https://images.bwwstatic.com/tvnetworklogos/12683D1D-0C2A-DD63-3EA5C95F3DEDA0AB.jpg" group-title="EUA",[COLOR blue][I][B]Cooking Channel[/B][/I][/COLOR]
 http://161.0.157.5/PLTV/88888888/224/3221226201/index.m3u8
 #EXTINF:-1 tvg-id="FoodTV.us" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5877ac8cb791f4eb4a140d81/featuredImage.jpg" group-title="EUA",[COLOR blue][I][B]Food TV[/B][/I][/COLOR]
@@ -269,13 +267,12 @@ https://bblive-liveproduseast.hs.llnwd.net/us/Channel-USTV-AWS-virginia-1/Source
 #EXTINF:-1 tvg-id="BloombergEurope.uk" tvg-logo="http://www.valuewalk.com/wp-content/uploads/2013/08/Bloomberg-logo.jpg" group-title="NOTICIAS",[COLOR yellowgreen][I][B]Bloomberg Europe[/B][/I][/COLOR]
 https://bblive-liveprodeuwest.hs.llnwd.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-1000-1_live.m3u8
 #EXTINF:-1 tvg-id="CNN.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Cnn_logo_red_background.png" group-title="NOTICIAS",[COLOR yellowgreen][I][B]CNN[/B][/I][/COLOR]
-https://5b8ec3e62bc9e.streamlock.net:7077/cnewz/myStream/playlist.m3u8?secondendtime=1537721467&secondhash=d7ZbuuKQfstWpkTlrt2yRCTNTlsOX9M7B-54mTVOJPY=&secondstarttime=1537713967
+https://1861340594.rsc.cdn77.org/ls-54548-1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-logo="http://s26.postimg.org/ahwh9550p/al_jazeera_channel_qa_hd.png" group-title="NOTICIAS",[COLOR yellowgreen][I][B]Al Jazeera[/B][/I][/COLOR]
 https://english.streaming.aljazeera.net/aljazeera/english2/index1296.m3u8
-#http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index255.m3u8
 #EXTINF:-1 tvg-id="RT.us" tvg-logo="http://s26.postimg.org/q0yik02p5/5_YEHGFD.jpg" group-title="NOTICIAS",[COLOR yellowgreen][I][B]RT America[/B][/I][/COLOR]
 https://rt-news.secure.footprint.net/1103.m3u8
-#EXTINF:-1 tvg-id="RTDoc.us" tvg-logo="http://s26.postimg.org/q0yik02p5/5_YEHGFD.jpg" group-title="NOTICIAS",[COLOR yellowgreen][I][B]RT Documentary[/B][/I][/COLOR]
+#EXTINF:-1 tvg-id="RTDoc.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/RTD-TV-logo.png/220px-RTD-TV-logo.png" group-title="NOTICIAS",[COLOR yellowgreen][I][B]RT Documentary[/B][/I][/COLOR]
 https://rt-doc.secure.footprint.net/1101-inadv-qidx-2k_v3.m3u8
 #EXTINF:-1 tvg-id="SkyNews.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Sky_News_2015_Logo.svg/800px-Sky_News_2015_Logo.svg.png" group-title="NOTICIAS",[COLOR yellowgreen][I][B]Sky News[/B][/I][/COLOR]
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
@@ -289,18 +286,26 @@ https://nhkwtvglobal-i.akamaihd.net/hls/live/263941/nhkwtvglobal/index_1180.m3u8
 #EXTINF:-1 tvg-id="TRTWorld.uk" tvg-logo="https://www.azernews.az/media/2018/07/07/trt_world_070718.png" group-title="NOTICIAS",[COLOR yellowgreen][I][B]TRT World[/B][/I][/COLOR]
 http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
 #EXTINF:-1 tvg-id="ZeeNews.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/85/Zee_News_Logo.jpeg" group-title="NOTICIAS",[COLOR yellowgreen][I][B]Zee News[/B][/I][/COLOR]
-https://z5ams.akamaized.net/zeenews/tracks-v1a1/mono.m3u8
+https://z5ams.akamaized.net/zeenews/tracks-v1a1/mono.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rte.ie/play
 #EXTINF:-1 tvg-id="IndiaNews.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/49/India-news-logo.gif" group-title="NOTICIAS",[COLOR yellowgreen][I][B]India News[/B][/I][/COLOR]
 https://d8rgs2gjqo2ht.cloudfront.net/abr/ngrp:indianews_all/master.m3u8
 #EXTINF:-1 tvg-id="MSNBC.us" tvg-logo="http://s26.postimg.org/xt91og0qh/image.jpg" group-title="NOTICIAS",[COLOR yellowgreen][I][B]MSNBC[/B][/I][/COLOR]
-http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/index_296_av-p.m3u8
+https://stream.livenewson.com/ls-54548-2-backup/tracks-v1a1/mono.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=https://www.livenewson.com/american/msnbc.html
 #EXTINF:-1 tvg-id="CBSNews.us" tvg-logo="https://cbsnews2.cbsistatic.com/hub/i/r/2013/11/08/5ba28169-5bfb-48a6-927c-9b39fec9ffb9/thumbnail/1200x630/1831cd7f24c2a77487092b7956a32bed/cbsnews-stack_1280X960.jpg" group-title="NOTICIAS",[COLOR yellowgreen][I][B]CBS News[/B][/I][/COLOR]
-http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_2200_av-p.m3u8
+https://cbsnhls-i.akamaihd.net/hls/live/264710/cbsn_hlsprod_2/master_360.m3u8
 #EXTINF:-1 tvg-id="ABCNews.us" tvg-logo="" group-title="NOTICIAS",[COLOR yellowgreen][I][B]ABC News[/B][/I][/COLOR]
 https://abclive2-lh.akamaihd.net/i/abc_live11@423404/master.m3u8
 #EXTINF:-1 tvg-id="WGN9Chicago.us" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/9/90/Wgn9newsopen.jpg/revision/latest?cb=20151210042859" group-title="NOTICIAS",[COLOR yellowgreen][I][B]WGN 9 Chicago[/B][/I][/COLOR]
 http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8
-#EXTINF:-1 tvg-id="WorldFashion.ru" tvg-logo="https://www.akado.ru/lp/wfc/WF_logo_.jpg" group-title="NOTICIAS",[COLOR yellowgreen][I][B]World Fashion Channel[/B][/I][/COLOR]
+
+#EXTINF:-1,[COLOR pink] FASHION [/COLOR]
+http://0.0.0.0:1234
+#EXTINF:-1 tvg-id="FashionTV.fr" tvg-logo="https://www.licenseindia.com/wp-content/uploads/2015/05/fashion-tv.gif" group-title="FASHION",[COLOR pink][I][B]Fashion TV[/B][/I][/COLOR]
+https://stream-04.dc3.dailymotion.com/dm/3/x3m6nld/live-2.m3u8
+#EXTINF:-1 tvg-id="WorldFashion.ru" tvg-logo="https://www.akado.ru/lp/wfc/WF_logo_.jpg" group-title="FASHION",[COLOR pink][I][B]World Fashion Channel[/B][/I][/COLOR]
 https://wfc.bonus-tv.ru/cdn/wfcint/index.m3u8
-#EXTINF:-1 tvg-id="GlobalFashion.us" tvg-logo="https://s3.amazonaws.com/ctm-tm/016759516.JPG" group-title="NOTICIAS",[COLOR yellowgreen][I][B]Global Fashion Channel[/B][/I][/COLOR]
+#EXTINF:-1 tvg-id="GlobalFashion.us" tvg-logo="https://s3.amazonaws.com/ctm-tm/016759516.JPG" group-title="FASHION",[COLOR pink][I][B]Global Fashion Channel[/B][/I][/COLOR]
 https://vcnglobalfashionchannel.teleosmedia.com/stream/globalfashionchannel/globalfashionchannel/seglist_540p.m3u8
+#EXTINF:-1 tvg-id="Runway.us" tvg-logo="http://www.shockya.com/news/wp-content/uploads/runway-tv.png" group-title="FASHION",[COLOR pink][I][B]Runway TV[/B][/I][/COLOR]
+https://eu-all7.secdn.net/runway-live/play/smil:runway.smil/playlist.m3u8
+#http://runway.videocdn.scaleengine.net/runway-iphone/play/runway/chunklist.m3u8
