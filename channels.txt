@@ -115,7 +115,9 @@ http://iphone.rtpa.stream.flumotion.com/rtpa/tv-iphone/main.m3u8
 #EXTINF:-1 tvg-id="AragonTV.es" tvg-logo="http://3.bp.blogspot.com/-dojqxEjIWaI/TkYpA1sT-HI/AAAAAAAAAWs/5RAM_Ih6XU0/s1600/aragontvlogo.jpg" group-title="ESPANHA",[COLOR yellow][I][B]Aragon TV[/B][/I][/COLOR]
 http://aragontv.stream.flumotion.com/aragontv/hls-live/main.m3u8
 #EXTINF:-1 tvg-id="CanalAndalucia.es" tvg-logo="https://www.andorratelecom.ad/documents/33347/112493/canal+sur+andalucia-01.png" group-title="ESPANHA",[COLOR yellow][I][B]Canal Sur[/B][/I][/COLOR]
-http://canalsur-live.hls.adaptive.level3.net/hls-live/canalsur_live-rtva/_definst_/live.m3u8
+http://canalsur-new-live.hls.adaptive.level3.net/egress/bhandler/canalsur_live/rtva_new/master.m3u8
+#EXTINF:-1 tvg-id="CanalSurCocina.es" tvg-logo="https://www.andorratelecom.ad/documents/33347/112493/canal+sur+andalucia-01.png" group-title="ESPANHA",[COLOR yellow][I][B]Canal Sur Cocina[/B][/I][/COLOR]
+https://593fa17dec176.streamlock.net/cscocina/cscocina.stream/master.m3u8
 #EXTINF:-1 tvg-id="AndorraTV.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/RTVA_logotip.png" group-title="ESPANHA",[COLOR yellow][I][B]Andorra TV[/B][/I][/COLOR]
 http://194.158.80.31:443/live/rtva/playlist.m3u8
 #EXTINF:-1 tvg-id="TV3Cat.es" tvg-logo="https://yt3.ggpht.com/a-/AN66SAz2UoIH7dmD0yzR3D4evWGRk-DE0Qu00YJusg=s900-mo-c-c0xffffffff-rj-k-no" group-title="ESPANHA",[COLOR yellow][I][B]TV3 Catalunya[/B][/I][/COLOR]
@@ -194,20 +196,6 @@ https://stream.visit-x.tv/vxtv/live/playlist.m3u8
 http://5.135.92.138:58143/out/u/109_1.m3u8
 #EXTINF:-1 tvg-id="Jasmin.xxx" tvg-logo="http://www.giniko.com/logos/190x110/341.png" group-title="XXX",[COLOR red][I][B]Jasmin TV[/B][/I][/COLOR]
 http://j.mp/S_JasminTVHD_sly?.m3u8
-#EXTINF:-1 tvg-id="Passion.xxx" tvg-logo="https://adult-channels.com/wp-content/uploads/2016/09/Passionxxx-tv-logo.jpg" group-title="XXX",[COLOR red][I][B]Passion XXX[/B][/I][/COLOR]
-http://publish.thewebstream.co:1935/ppv/_definst_/rampanttv_passionxxx/playlist.m3u8
-#EXTINF:-1 tvg-id="RedLight.xxx" tvg-logo="https://satservice.co.uk/wp-content/uploads/2016/10/Red-Light-HD-630x355.png" group-title="XXX",[COLOR red][I][B]Red Light[/B][/I][/COLOR]
-http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2076.m3u8
-#EXTINF:-1 tvg-id="FrenchLover.xxx" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/78/FRENCH_LOVER_TV.jpg/revision/latest?cb=20150311153759" group-title="XXX",[COLOR red][I][B]French Lover[/B][/I][/COLOR]
-http://213.59.128.162:9996/play/FRENCHLOVER/index.m3u8
-#EXTINF:-1 tvg-id="Hustler.xxx" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c0/HUSTLER_TV_HD.png" group-title="XXX",[COLOR red][I][B]Hustler[/B][/I][/COLOR]
-http://213.59.128.162:9996/play/Hustler_HD/index.m3u8
-#EXTINF:-1 tvg-id="Brazzers.xxx" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/27/BRAZZERS_TV_2015.png/revision/latest?cb=20150309165828" group-title="XXX",[COLOR red][I][B]Brazzers[/B][/I][/COLOR]
-http://213.59.128.162:9996/play/Brazzers_TV/index.m3u8
-#EXTINF:-1 tvg-id="PinkO.xxx" tvg-logo="http://www.satzone.it/shop/111-large_default/pinko-tv-smart-card-4-canali-1-anno-viaccess.jpg" group-title="XXX",[COLOR red][I][B]Pink'O[/B][/I][/COLOR]
-http://213.59.128.162:9996/play/Pink_O_TV/index.m3u8
-#EXTINF:-1 tvg-id="Private.xxx" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/98/PRIVATE_TV.png/revision/latest?cb=20150315153455" group-title="XXX",[COLOR red][I][B]Private[/B][/I][/COLOR]
-http://213.59.128.162:9996/play/Private/index.m3u8
 #EXTINF:-1 tvg-id="LiveStrip.xxx" tvg-logo="" group-title="XXX",[COLOR red][I][B]Live Strip Club[/B][/I][/COLOR]
 https://5652cb24c16ee.streamlock.net/2001edge/smil:2001MS_premium.smil/playlist.m3u8
 
@@ -217,8 +205,6 @@ http://0.0.0.0:1234
 http://live.field59.com/wwsb/ngrp:wwsb1_all/playlist.m3u8
 #EXTINF:-1 tvg-id="NBC.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/NBC_2014_Ident.svg/1200px-NBC_2014_Ident.svg.png" group-title="EUA",[COLOR blue][I][B]NBC[/B][/I][/COLOR]
 http://161.0.157.51/PLTV/88888888/224/3221227040/03.m3u8
-#EXTINF:-1 tvg-id="TravelChannel.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Travel_Channel_-_Logo.svg/2000px-Travel_Channel_-_Logo.svg.png" group-title="EUA",[COLOR blue][I][B]Travel Channel[/B][/I][/COLOR]
-http://80.80.160.168/live/3/live.m3u8
 #EXTINF:-1 tvg-id="DiscoveryChannel.us" tvg-logo="https://images.indiegogo.com/file_attachments/592625/files/20140520123321-discovery-channel-logo-2013deadliest-catch-presents-the-captains-concert-at-sxsw-tickets-cgyauhvw.jpg?1400614401" group-title="EUA",[COLOR blue][I][B]Discovery Channel[/B][/I][/COLOR]
 http://80.80.160.168/live/8/live.m3u8
 #EXTINF:-1 tvg-id="ScienceChannel.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/Science_Channel_2016.png" group-title="EUA",[COLOR blue][I][B]Science Channel[/B][/I][/COLOR]
@@ -247,8 +233,6 @@ http://stitcher.pluto.tv/stitch/hls/channel/5812b7d3249444e05d09cc49/master.m3u8
 http://stitcher.pluto.tv/stitch/hls/channel/599375885ceaac3cabccbed7/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=5&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
 #EXTINF:-1 tvg-id="CBSSports.us" tvg-logo="http://content.sportslogos.net/news/2015/11/cbs-sports-new-logo.jpg" group-title="EUA",[COLOR blue][I][B]CBS Sports[/B][/I][/COLOR]
 https://cbssportsdc-i.akamaihd.net/hls/live/518856/dc_1/desktop.m3u8|X-Forwarded-For=209.239.112.104
-#EXTINF:-1 tvg-id="ESPN.us" tvg-logo="http://logok.org/wp-content/uploads/2015/02/ESPN-logo-wordmark-880x660.png" group-title="EUA",[COLOR blue][I][B]ESPN[/B][/I][/COLOR]
-http://80.80.160.168/live/6/live.m3u8
 #EXTINF:-1 tvg-id="ESPN2.us" tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/0012/1398/brand.gif?itok=qK15mOWo" group-title="EUA",[COLOR blue][I][B]ESPN 2[/B][/I][/COLOR]
 http://161.0.157.8/PLTV/88888888/224/3221226881/index.m3u8
 #EXTINF:-1 tvg-id="MLBNetwork.us" tvg-logo="https://i.imgur.com/G9VKlxx.png" group-title="EUA",[COLOR blue][I][B]MLB Network[/B][/I][/COLOR]
@@ -267,7 +251,7 @@ https://bblive-liveproduseast.hs.llnwd.net/us/Channel-USTV-AWS-virginia-1/Source
 #EXTINF:-1 tvg-id="BloombergEurope.uk" tvg-logo="http://www.valuewalk.com/wp-content/uploads/2013/08/Bloomberg-logo.jpg" group-title="NOTICIAS",[COLOR yellowgreen][I][B]Bloomberg Europe[/B][/I][/COLOR]
 https://bblive-liveprodeuwest.hs.llnwd.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-1000-1_live.m3u8
 #EXTINF:-1 tvg-id="CNN.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Cnn_logo_red_background.png" group-title="NOTICIAS",[COLOR yellowgreen][I][B]CNN[/B][/I][/COLOR]
-https://1861340594.rsc.cdn77.org/ls-54548-1/tracks-v1a1/mono.m3u8
+https://1861340594.rsc.cdn77.org/ls-54548-1/tracks-v1a1/mono.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36
 #EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-logo="http://s26.postimg.org/ahwh9550p/al_jazeera_channel_qa_hd.png" group-title="NOTICIAS",[COLOR yellowgreen][I][B]Al Jazeera[/B][/I][/COLOR]
 https://english.streaming.aljazeera.net/aljazeera/english2/index1296.m3u8
 #EXTINF:-1 tvg-id="RT.us" tvg-logo="http://s26.postimg.org/q0yik02p5/5_YEHGFD.jpg" group-title="NOTICIAS",[COLOR yellowgreen][I][B]RT America[/B][/I][/COLOR]
@@ -286,7 +270,7 @@ https://nhkwtvglobal-i.akamaihd.net/hls/live/263941/nhkwtvglobal/index_1180.m3u8
 #EXTINF:-1 tvg-id="TRTWorld.uk" tvg-logo="https://www.azernews.az/media/2018/07/07/trt_world_070718.png" group-title="NOTICIAS",[COLOR yellowgreen][I][B]TRT World[/B][/I][/COLOR]
 http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
 #EXTINF:-1 tvg-id="ZeeNews.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/85/Zee_News_Logo.jpeg" group-title="NOTICIAS",[COLOR yellowgreen][I][B]Zee News[/B][/I][/COLOR]
-https://z5ams.akamaized.net/zeenews/tracks-v1a1/mono.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rte.ie/play
+https://z5ams.akamaized.net/zeenews/tracks-v1a1/mono.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36
 #EXTINF:-1 tvg-id="IndiaNews.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/49/India-news-logo.gif" group-title="NOTICIAS",[COLOR yellowgreen][I][B]India News[/B][/I][/COLOR]
 https://d8rgs2gjqo2ht.cloudfront.net/abr/ngrp:indianews_all/master.m3u8
 #EXTINF:-1 tvg-id="MSNBC.us" tvg-logo="http://s26.postimg.org/xt91og0qh/image.jpg" group-title="NOTICIAS",[COLOR yellowgreen][I][B]MSNBC[/B][/I][/COLOR]

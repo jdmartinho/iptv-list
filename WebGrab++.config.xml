@@ -67,7 +67,6 @@
   <channel update="i" site="skysiertv.com" site_id="gong" xmltv_id="Gong.fr">Gong</channel>
   <channel update="i" site="programme-television.org" site_id="524" xmltv_id="Alsace20.fr">Alsace 20</channel>
   <channel update="i" site="canalsat.fr" site_id="670" xmltv_id="FranceInfo.fr">FranceInfo:</channel>
-  <channel update="i" site="horizon.tv" site_id="CH/deu_27909159297__https://wp3-images-ch-dynamic.horizon.tv/channellogos/02/fashion_tv.png" xmltv_id="FashionTV.fr">Fashion TV</channel>
   <channel update="i" site="tv.orange.fr" site_id="l-equipe-21_CNT0000008o0yM.html" xmltv_id="LEquipe21.fr">L'Equipe 21</channel>
 
   <!-- ITALIA -->
@@ -93,11 +92,6 @@
   <channel update="i" site="cableonda.com" site_id="10447###87" xmltv_id="CookingChannel.us">The Cooking Channel</channel>
   <channel update="i" site="nos.pt" site_id="78" xmltv_id="ExtremeSports.us">Extreme Sports</channel>
 
-  <!-- XXX -->
-  <channel update="i" site="bnet.hr" site_id="112" xmltv_id="Brazzers.xxxE">Brazzers</channel>
-  <channel update="i" site="horizon.tv" site_id="CH/ita_668884519373__https://wp21-images-ch-dynamic.horizon.tv/channellogos/02/pink_o_tv.png" xmltv_id="PinkO.xxx">Pink O</channel>
-  <channel update="i" site="horizon.tv" site_id="PL/pol_627525671306__https://wp5-images-pl-dynamic.horizon.tv/Logos/4945.f.dcd032aa8af7c67b18bbbad98cca9740d2530f8a.png" xmltv_id="Private.xxx">Private</channel>
-
   <!-- NOTICIAS -->
   <channel update="i" site="nos.pt" site_id="44" xmltv_id="BloombergTV.us">Bloomberg US</channel>
   <channel update="i" site="horizon.tv" site_id="AT/deu_554823718998__https://wp16-images-at-dynamic.horizon.tv/Logos/1185.f.png" xmltv_id="BloombergEurope.uk">Bloomberg Europe</channel>
@@ -110,7 +104,8 @@
   <channel update="i" site="m.tvguide.co.uk-full" site_id="140" xmltv_id="EuroNews.uk">Euronews</channel>
   <channel update="i" site="nos.pt" site_id="46" xmltv_id="NHKWorld.jp">NHK World</channel>
   <channel update="i" site="digiturk.com.tr" site_id="468" xmltv_id="TRTWorld.uk">TRT World</channel>
-  <channel update="i" site="in.com" site_id="395" xmltv_id="ZeeNews.in">Zee News</channel>
-  <channel update="i" site="in.com" site_id="464" xmltv_id="IndiaNews.in">India News</channel>
+
+  <!-- FASHION -->
+  <channel update="i" site="horizon.tv" site_id="CH/deu_27909159297__https://wp3-images-ch-dynamic.horizon.tv/channellogos/02/fashion_tv.png" xmltv_id="FashionTV.fr">Fashion TV</channel>
   <channel update="i" site="teleguide.info" site_id="100017" xmltv_id="WorldFashion.ru">World Fashion Channel</channel>
 </settings>
