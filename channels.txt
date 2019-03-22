@@ -285,7 +285,7 @@ http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8
 #EXTINF:-1,[COLOR pink] FASHION [/COLOR]
 http://0.0.0.0:1234
 #EXTINF:-1 tvg-id="FashionTV.fr" tvg-logo="https://www.licenseindia.com/wp-content/uploads/2015/05/fashion-tv.gif" group-title="FASHION",[COLOR pink][I][B]Fashion TV[/B][/I][/COLOR]
-https://stream-04.dc3.dailymotion.com/dm/3/x3m6nld/live-2.m3u8
+https://stream-09.ix7.dailymotion.com/sec(z78NI1m0neFnRd2EIIVngKEES4cRtB6SMmJIMlk8wu0)/dm/3/x3m6nld/live.m3u8
 #EXTINF:-1 tvg-id="WorldFashion.ru" tvg-logo="https://www.akado.ru/lp/wfc/WF_logo_.jpg" group-title="FASHION",[COLOR pink][I][B]World Fashion Channel[/B][/I][/COLOR]
 https://wfc.bonus-tv.ru/cdn/wfcint/index.m3u8
 #EXTINF:-1 tvg-id="GlobalFashion.us" tvg-logo="https://s3.amazonaws.com/ctm-tm/016759516.JPG" group-title="FASHION",[COLOR pink][I][B]Global Fashion Channel[/B][/I][/COLOR]
