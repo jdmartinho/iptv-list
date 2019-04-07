@@ -192,12 +192,8 @@ https://d2jk87psbjrjdz.cloudfront.net/livehttporigin/okto/playlist.m3u8
 http://0.0.0.0:1234
 #EXTINF:-1 tvg-id="VisitX.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/visitxtv.png" group-title="XXX",[COLOR red][I][B]Visit-X TV[/B][/I][/COLOR]
 https://stream.visit-x.tv/vxtv/live/playlist.m3u8
-#EXTINF:-1 tvg-id="BungaBunga.xxx" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/tring_bunga_bunga.jpg" group-title="XXX",[COLOR red][I][B]Bunga Bunga[/B][/I][/COLOR]
-http://5.135.92.138:58143/out/u/109_1.m3u8
 #EXTINF:-1 tvg-id="Jasmin.xxx" tvg-logo="http://www.giniko.com/logos/190x110/341.png" group-title="XXX",[COLOR red][I][B]Jasmin TV[/B][/I][/COLOR]
 http://j.mp/S_JasminTVHD_sly?.m3u8
-#EXTINF:-1 tvg-id="LiveStrip.xxx" tvg-logo="" group-title="XXX",[COLOR red][I][B]Live Strip Club[/B][/I][/COLOR]
-https://5652cb24c16ee.streamlock.net/2001edge/smil:2001MS_premium.smil/playlist.m3u8
 
 #EXTINF:-1,[COLOR blue] EUA [/COLOR]
 http://0.0.0.0:1234
@@ -211,14 +207,8 @@ http://80.80.160.168/live/8/live.m3u8
 http://80.80.160.168/live/9/live.m3u8
 #EXTINF:-1 tvg-id="WeatherChannel.us" tvg-logo="https://i.imgur.com/D4vJyy9.png" group-title="EUA",[COLOR blue][I][B]The Weather Channel[/B][/I][/COLOR]
 http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
-#EXTINF:-1 tvg-id="NASA.us" tvg-logo="https://11ajin32vs0h2u2tfv193rhj-wpengine.netdna-ssl.com/wp-content/uploads/2016/04/nasa_tv.jpg" group-title="EUA",[COLOR blue][I][B]NASA TV[/B][/I][/COLOR]
-http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8
-#EXTINF:-1 tvg-id="NASAMedia.us" tvg-logo="https://11ajin32vs0h2u2tfv193rhj-wpengine.netdna-ssl.com/wp-content/uploads/2016/04/nasa_tv.jpg" group-title="EUA",[COLOR blue][I][B]NASA TV Media[/B][/I][/COLOR]
-http://iphone-streaming.ustream.tv/uhls/10414700/streams/live/iphone/playlist.m3u8
 #EXTINF:-1 tvg-id="360North.us" tvg-logo="http://1.bp.blogspot.com/-n9VkHeKYy9I/TpxlB16n3HI/AAAAAAAABFQ/GORfkU_Nus4/s400/360north_logo_coloronwhite_large%2Bcopy.jpg" group-title="EUA",[COLOR blue][I][B]360 North[/B][/I][/COLOR]
 http://wowzaprod3-i.akamaihd.net/hls/live/252236/2147483647_360north_247/playlist.m3u8
-#EXTINF:-1 tvg-id="OWN.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/OWN_2011_logo.svg/800px-OWN_2011_logo.svg.png" group-title="EUA",[COLOR blue][I][B]Oprah Winfrey Network[/B][/I][/COLOR]
-http://w3.cdn.anvato.net/live/ephemeral/3QA1gOwdRzqhnwPBUewI5VY7Yd9pnkvb/owny/2596k/index.m3u8
 #EXTINF:-1 tvg-id="CookingChannel.us" tvg-logo="https://images.bwwstatic.com/tvnetworklogos/12683D1D-0C2A-DD63-3EA5C95F3DEDA0AB.jpg" group-title="EUA",[COLOR blue][I][B]Cooking Channel[/B][/I][/COLOR]
 http://161.0.157.5/PLTV/88888888/224/3221226201/index.m3u8
 #EXTINF:-1 tvg-id="FoodTV.us" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5877ac8cb791f4eb4a140d81/featuredImage.jpg" group-title="EUA",[COLOR blue][I][B]Food TV[/B][/I][/COLOR]
@@ -237,12 +227,6 @@ https://cbssportsdc-i.akamaihd.net/hls/live/518856/dc_1/desktop.m3u8|X-Forwarded
 http://161.0.157.8/PLTV/88888888/224/3221226881/index.m3u8
 #EXTINF:-1 tvg-id="MLBNetwork.us" tvg-logo="https://i.imgur.com/G9VKlxx.png" group-title="EUA",[COLOR blue][I][B]MLB Network[/B][/I][/COLOR]
 http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
-#EXTINF:-1 tvg-id="Pac12BayArea.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/Pac-12_logo.svg/1200px-Pac-12_logo.svg.png" group-title="EUA",[COLOR blue][I][B]Pac-12 Bay Area[/B][/I][/COLOR]
-http://p12b-lh.akamaihd.net/i/bayarea_delivery@429334/master.m3u8
-#EXTINF:-1 tvg-id="FoxSportsNews.us" tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/6/6554.1489225299.png" group-title="EUA",[COLOR blue][I][B]Fox Sports News[/B][/I][/COLOR]
-https://foxsportshlsg01-lh.akamaihd.net/i//fsnewshls_0@301672/master.m3u8
-#EXTINF:-1 tvg-id="ExtremeSports.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/Extreme_Sports_Channel.svg/1200px-Extreme_Sports_Channel.svg.png" group-title="EUA",[COLOR blue][I][B]Extreme Sports[/B][/I][/COLOR]
-http://persik.by/stream/1418/252987/10309.m3u8
 
 #EXTINF:-1,[COLOR yellowgreen] NOTICIAS [/COLOR]
 http://0.0.0.0:1234
@@ -250,8 +234,6 @@ http://0.0.0.0:1234
 https://bblive-liveproduseast.hs.llnwd.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
 #EXTINF:-1 tvg-id="BloombergEurope.uk" tvg-logo="http://www.valuewalk.com/wp-content/uploads/2013/08/Bloomberg-logo.jpg" group-title="NOTICIAS",[COLOR yellowgreen][I][B]Bloomberg Europe[/B][/I][/COLOR]
 https://bblive-liveprodeuwest.hs.llnwd.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-1000-1_live.m3u8
-#EXTINF:-1 tvg-id="CNN.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Cnn_logo_red_background.png" group-title="NOTICIAS",[COLOR yellowgreen][I][B]CNN[/B][/I][/COLOR]
-https://1861340594.rsc.cdn77.org/ls-54548-1/tracks-v1a1/mono.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36
 #EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-logo="http://s26.postimg.org/ahwh9550p/al_jazeera_channel_qa_hd.png" group-title="NOTICIAS",[COLOR yellowgreen][I][B]Al Jazeera[/B][/I][/COLOR]
 https://english.streaming.aljazeera.net/aljazeera/english2/index1296.m3u8
 #EXTINF:-1 tvg-id="RT.us" tvg-logo="http://s26.postimg.org/q0yik02p5/5_YEHGFD.jpg" group-title="NOTICIAS",[COLOR yellowgreen][I][B]RT America[/B][/I][/COLOR]
@@ -260,21 +242,14 @@ https://rt-news.secure.footprint.net/1103.m3u8
 https://rt-doc.secure.footprint.net/1101-inadv-qidx-2k_v3.m3u8
 #EXTINF:-1 tvg-id="SkyNews.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Sky_News_2015_Logo.svg/800px-Sky_News_2015_Logo.svg.png" group-title="NOTICIAS",[COLOR yellowgreen][I][B]Sky News[/B][/I][/COLOR]
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
-#EXTINF:-1 tvg-id="EuroNews.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Euronews._2016_alternative_logo.png" group-title="NOTICIAS",[COLOR yellowgreen][I][B]Euronews[/B][/I][/COLOR]
-http://61.58.60.230:9000/live/129.m3u8
-#https://euronews-en-b13-cdn.hexaglobe.net/50e8b08a510d4c50e884fc2c2daf97a8/5ba7b5dd/euronews/euronews-euronews-website-web-responsive-2/ewnsabrenbkp_eng.smil/ewnsabrenbkp_eng_540p.m3u8
 #EXTINF:-1 tvg-id="France24.uk" tvg-logo="" group-title="NOTICIAS",[COLOR yellowgreen][I][B]France 24[/B][/I][/COLOR]
 http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
 #EXTINF:-1 tvg-id="NHKWorld.jp" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/41M2TiBsEnL._SY355_.png" group-title="NOTICIAS",[COLOR yellowgreen][I][B]NHK World[/B][/I][/COLOR]
 https://nhkwtvglobal-i.akamaihd.net/hls/live/263941/nhkwtvglobal/index_1180.m3u8
 #EXTINF:-1 tvg-id="TRTWorld.uk" tvg-logo="https://www.azernews.az/media/2018/07/07/trt_world_070718.png" group-title="NOTICIAS",[COLOR yellowgreen][I][B]TRT World[/B][/I][/COLOR]
 http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
-#EXTINF:-1 tvg-id="ZeeNews.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/85/Zee_News_Logo.jpeg" group-title="NOTICIAS",[COLOR yellowgreen][I][B]Zee News[/B][/I][/COLOR]
-https://z5ams.akamaized.net/zeenews/tracks-v1a1/mono.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36
 #EXTINF:-1 tvg-id="IndiaNews.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/49/India-news-logo.gif" group-title="NOTICIAS",[COLOR yellowgreen][I][B]India News[/B][/I][/COLOR]
 https://d8rgs2gjqo2ht.cloudfront.net/abr/ngrp:indianews_all/master.m3u8
-#EXTINF:-1 tvg-id="MSNBC.us" tvg-logo="http://s26.postimg.org/xt91og0qh/image.jpg" group-title="NOTICIAS",[COLOR yellowgreen][I][B]MSNBC[/B][/I][/COLOR]
-https://stream.livenewson.com/ls-54548-2-backup/tracks-v1a1/mono.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=https://www.livenewson.com/american/msnbc.html
 #EXTINF:-1 tvg-id="CBSNews.us" tvg-logo="https://cbsnews2.cbsistatic.com/hub/i/r/2013/11/08/5ba28169-5bfb-48a6-927c-9b39fec9ffb9/thumbnail/1200x630/1831cd7f24c2a77487092b7956a32bed/cbsnews-stack_1280X960.jpg" group-title="NOTICIAS",[COLOR yellowgreen][I][B]CBS News[/B][/I][/COLOR]
 https://cbsnhls-i.akamaihd.net/hls/live/264710/cbsn_hlsprod_2/master_360.m3u8
 #EXTINF:-1 tvg-id="ABCNews.us" tvg-logo="" group-title="NOTICIAS",[COLOR yellowgreen][I][B]ABC News[/B][/I][/COLOR]
@@ -293,3 +268,5 @@ https://vcnglobalfashionchannel.teleosmedia.com/stream/globalfashionchannel/glob
 #EXTINF:-1 tvg-id="Runway.us" tvg-logo="http://www.shockya.com/news/wp-content/uploads/runway-tv.png" group-title="FASHION",[COLOR pink][I][B]Runway TV[/B][/I][/COLOR]
 https://eu-all7.secdn.net/runway-live/play/smil:runway.smil/playlist.m3u8
 #http://runway.videocdn.scaleengine.net/runway-iphone/play/runway/chunklist.m3u8
+#EXTINF:-1 tvg-id="FashionTelevision.us" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mC9iGC7EpU4k5DwN-qGtyic9um6kkM0rnQfkQ=s900-mo-c-c0xffffffff-rj-k-no" group-title="FASHION",[COLOR pink][I][B]Fashion Television[/B][/I][/COLOR]
+http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
