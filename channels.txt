@@ -67,18 +67,6 @@ http://ott-cdn.ucom.am/s35/index.m3u8
 http://www.djing.com/tv/hits.m3u8
 #EXTINF:-1 tvg-id="DjingDanceFloor.pt" tvg-logo="https://djing.com/newimages/content/c01.jpg" group-title="PORTUGAL",[COLOR white][I][B]Djing Dance Floor[/B][/I][/COLOR]
 http://www.djing.com/tv/dancefloor.m3u8
-#EXTINF:-1 tvg-id="ElevenSports1.pt" tvg-logo="https://video.toggle.sg/image/9077680/16x9/947/533/753c9d2d171ad7915880e607c324fb0c/LT/eleven-sports-1.png" group-title="PORTUGAL",[COLOR white][I][B]Eleven Sports 1[/B][/I][/COLOR]
-http://89.34.237.218:8000/live/casa/1/4.m3u8
-#http://89.34.237.218:8000/live/josue/josue/4.m3u8
-#http://89.34.237.218:8000/live/josue/josue/1.m3u8
-#EXTINF:-1 tvg-id="ElevenSports2.pt" tvg-logo="https://video.toggle.sg/image/9077682/16x9/947/533/226ee02e68028ad02e0c2d8a520d515b/nt/eleven-sports-2.png" group-title="PORTUGAL",[COLOR white][I][B]Eleven Sports 2[/B][/I][/COLOR]
-http://89.34.237.218:8000/live/casa/1/5.m3u8
-#http://89.34.237.218:8000/live/josue/josue/5.m3u8
-#http://89.34.237.218:8000/live/josue/josue/2.m3u8
-#EXTINF:-1 tvg-id="ElevenSports3.pt" tvg-logo="https://cdn.uc.assets.prezly.com/3a3ee48c-c46b-47f5-bfeb-039390d01c01/-/preview/600x600/-/quality/best/" group-title="PORTUGAL",[COLOR white][I][B]Eleven Sports 3[/B][/I][/COLOR]
-http://89.34.237.218:8000/live/casa/1/6.m3u8
-#http://89.34.237.218:8000/live/josue/josue/6.m3u8
-#http://89.34.237.218:8000/live/josue/josue/3.m3u8
 
 #EXTINF:-1,[COLOR yellow] ESPANHA [/COLOR]
 http://0.0.0.0:1234
@@ -245,7 +233,7 @@ http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
 #EXTINF:-1 tvg-id="France24.uk" tvg-logo="" group-title="NOTICIAS",[COLOR yellowgreen][I][B]France 24[/B][/I][/COLOR]
 http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
 #EXTINF:-1 tvg-id="NHKWorld.jp" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/41M2TiBsEnL._SY355_.png" group-title="NOTICIAS",[COLOR yellowgreen][I][B]NHK World[/B][/I][/COLOR]
-https://nhkwtvglobal-i.akamaihd.net/hls/live/263941/nhkwtvglobal/index_1180.m3u8
+https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_1180.m3u8
 #EXTINF:-1 tvg-id="TRTWorld.uk" tvg-logo="https://www.azernews.az/media/2018/07/07/trt_world_070718.png" group-title="NOTICIAS",[COLOR yellowgreen][I][B]TRT World[/B][/I][/COLOR]
 http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
 #EXTINF:-1 tvg-id="IndiaNews.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/49/India-news-logo.gif" group-title="NOTICIAS",[COLOR yellowgreen][I][B]India News[/B][/I][/COLOR]
