@@ -119,18 +119,12 @@ http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
 
 #EXTINF:-1,[COLOR cyan] FRANCA [/COLOR]
 http://0.0.0.0:1234
-#EXTINF:-1 tvg-id="BFMParis.fr" tvg-logo="https://pbs.twimg.com/profile_images/875697565462908928/44KptPDt_400x400.jpg" group-title="FRANCA",[COLOR cyan][I][B]BFM Paris[/B][/I][/COLOR]
-http://bfmparishdslive-lh.akamaihd.net/i/DVMR_PARIS@429747/master.m3u8
 #EXTINF:-1 tvg-id="TV5Monde.fr" tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/0021/1925/brand.gif?itok=1cN-mqCa" group-title="FRANCA",[COLOR cyan][I][B]TV5 Monde[/B][/I][/COLOR]
 http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/index.m3u8
 #EXTINF:-1 tvg-id="Gong.fr" tvg-logo="http://oklivetv.com/wp-content/uploads/media/27e1d10de6de7c4cc536c77d69643ba4.jpeg" group-title="FRANCA",[COLOR cyan][I][B]Gong[/B][/I][/COLOR]
 http://ec.playmedia.fr/gong-base/live/playlist.m3u8
 #EXTINF:-1 tvg-id="Alsace20.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/67/Alsace_20_logo_2013.png/150px-Alsace_20_logo_2013.png" group-title="FRANCA",[COLOR cyan][I][B]Alsace 20[/B][/I][/COLOR]
 http://live.alsace20.fr/live/alsace20/ngrp:alsace20_all/playlist.m3u8
-#EXTINF:-1 tvg-id="i24News.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/I24NEWS_logo.svg/1200px-I24NEWS_logo.svg.png" group-title="FRANCA",[COLOR cyan][I][B]i24 News[/B][/I][/COLOR]
-https://i24alive1-a.akamaihd.net/f30e0953c49644b6bf4f6e07f6b1d8ea/eu-central-1/5377161796001/profile_3/chunklist.m3u8
-#EXTINF:-1 tvg-id="FranceInfo.fr" tvg-logo="http://www.ecouter-la-radio.fr/wp-content/uploads/2016/07/franceinfo.png" group-title="FRANCA",[COLOR cyan][I][B]FranceInfo[/B][/I][/COLOR]
-https://stream-02.nyc.dailymotion.com/39/dm/3/x4rdeu6/live-3.m3u8
 #EXTINF:-1 tvg-id="Francophonie.fr" tvg-name="" tvg-logo="http://www.streamytv.net/wp-content/uploads/2015/08/TV-Francophonie.jpg" group-title="FRANCA",[COLOR cyan][I][B]Francophonie 24[/B][/I][/COLOR]
 http://mv2.tvfrancophonie.org/live/Stream1/media_b776739_w671289549.m3u8
 #EXTINF:-1 tvg-id="LEquipe21.fr" tvg-logo="https://www.ledirect.fr/uploads/channels/2263_6872.png" group-title="FRANCA",[COLOR cyan][I][B]L'Equipe 21[/B][/I][/COLOR]
@@ -159,8 +153,6 @@ http://l1tvlive1-lh.akamaihd.net/i/p-2786_u-_l-2786_hls_a-_c-DE_e-885278_i-54845
 http://0.0.0.0:1234
 #EXTINF:-1 tvg-id="ARD.de" tvg-logo="http://www.daserste.de/specials/das-erste-logo-100~_v-varl_dabd4c.jpg" group-title="ALEMANHA",[COLOR deepskyblue][I][B]Das Erste[/B][/I][/COLOR]
 https://daserstehdint-lh.akamaihd.net/i/daserstehd_int@629195/master.m3u8
-#EXTINF:-1 tvg-id="WeltDerWunder.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/weltderwunder.png" group-title="ALEMANHA",[COLOR deepskyblue][I][B]Welt der Wunder[/B][/I][/COLOR]
-http://live.vidoo.de/live/weltderwunder/master.m3u8
 #EXTINF:-1 tvg-id="Tagesschau24.de" tvg-logo="http://www.evard.ch/digitv/logo/tagesschau24.png" group-title="ALEMANHA",[COLOR deepskyblue][I][B]Tagesschau 24[/B][/I][/COLOR]
 http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/master.m3u8
 #EXTINF:-1 tvg-id="DeutscheWelle.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Deutsche_Welle_Logo.svg/1280px-Deutsche_Welle_Logo.svg.png" group-title="ALEMANHA",[COLOR deepskyblue][I][B]DW[/B][/I][/COLOR]
@@ -173,8 +165,6 @@ http://autopilot.myowntv.org/content/33816/index.m3u8
 http://62.67.13.53:1935/HealthTV/ghtv_live_master.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="TirolTV.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/TIROL_TV_Logo.jpg" group-title="ALEMANHA",[COLOR deepskyblue][I][B]Tirol TV[/B][/I][/COLOR]
 http://lb.hd-livestream.de:1935/live/TirolTV/master.m3u8
-#EXTINF:-1 tvg-id="Okto.at" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/okto.png" group-title="ALEMANHA",[COLOR deepskyblue][I][B]Okto[/B][/I][/COLOR]
-https://d2jk87psbjrjdz.cloudfront.net/livehttporigin/okto/playlist.m3u8
 
 #EXTINF:-1,[COLOR red] XXX [/COLOR]
 http://0.0.0.0:1234
@@ -240,8 +230,6 @@ http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
 https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_1180.m3u8
 #EXTINF:-1 tvg-id="TRTWorld.uk" tvg-logo="https://www.azernews.az/media/2018/07/07/trt_world_070718.png" group-title="NOTICIAS",[COLOR yellowgreen][I][B]TRT World[/B][/I][/COLOR]
 http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
-#EXTINF:-1 tvg-id="IndiaNews.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/49/India-news-logo.gif" group-title="NOTICIAS",[COLOR yellowgreen][I][B]India News[/B][/I][/COLOR]
-https://d8rgs2gjqo2ht.cloudfront.net/abr/ngrp:indianews_all/master.m3u8
 #EXTINF:-1 tvg-id="CBSNews.us" tvg-logo="https://cbsnews2.cbsistatic.com/hub/i/r/2013/11/08/5ba28169-5bfb-48a6-927c-9b39fec9ffb9/thumbnail/1200x630/1831cd7f24c2a77487092b7956a32bed/cbsnews-stack_1280X960.jpg" group-title="NOTICIAS",[COLOR yellowgreen][I][B]CBS News[/B][/I][/COLOR]
 https://cbsnhls-i.akamaihd.net/hls/live/264710/cbsn_hlsprod_2/master_360.m3u8
 #EXTINF:-1 tvg-id="ABCNews.us" tvg-logo="" group-title="NOTICIAS",[COLOR yellowgreen][I][B]ABC News[/B][/I][/COLOR]

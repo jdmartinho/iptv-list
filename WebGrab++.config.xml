@@ -7,7 +7,7 @@
   <user-agent>Mozilla/5.0 (Windows NT 6.1; WOW64; rv:29.0) Gecko/20100101 Firefox/29.0</user-agent>
   <logging>on</logging>
   <retry time-out="5">4</retry>
-  <timespan>1</timespan>
+  <timespan>7</timespan>
   <update>i</update>
 
   <!-- IRLANDA -->
@@ -62,12 +62,10 @@
   <channel update="i" site="movistarplus.es" site_id="REALM" xmltv_id="RealMadridTV.es">Real Madrid TV</channel>
 
   <!-- FRANCA -->
-  <channel update="i" site="tv.orange.fr" site_id="bfm-tv_CNT0000008o0y3.html" xmltv_id="BFMParis.fr">BFM TV</channel>
-  <channel update="i" site="nos.pt" site_id="53" xmltv_id="TV5Monde.fr">TV5 Monde</channel>
+    <channel update="i" site="nos.pt" site_id="53" xmltv_id="TV5Monde.fr">TV5 Monde</channel>
   <channel update="i" site="skysiertv.com" site_id="gong" xmltv_id="Gong.fr">Gong</channel>
   <channel update="i" site="programme-television.org" site_id="524" xmltv_id="Alsace20.fr">Alsace 20</channel>
-  <channel update="i" site="canalsat.fr" site_id="670" xmltv_id="FranceInfo.fr">FranceInfo:</channel>
-  <channel update="i" site="tv.orange.fr" site_id="l-equipe-21_CNT0000008o0yM.html" xmltv_id="LEquipe21.fr">L'Equipe 21</channel>
+    <channel update="i" site="tv.orange.fr" site_id="l-equipe-21_CNT0000008o0yM.html" xmltv_id="LEquipe21.fr">L'Equipe 21</channel>
 
   <!-- ITALIA -->
   <channel update="i" site="raiplay.it" site_id="Rai4" xmltv_id="Rai4.it">Rai 4</channel>
@@ -80,13 +78,11 @@
 
   <!-- ALEMANHA -->
   <channel update="i" site="tvdigital.de" site_id="daserste" xmltv_id="ARD.de">Das Erste</channel>
-  <channel update="i" site="vodafone.de" site_id="23072" xmltv_id="WeltDerWunder.de">Welt der Wunder</channel>
   <channel update="i" site="tvdigital.de" site_id="tagesschau24" xmltv_id="Tagesschau24.de">Tagesschau24</channel>
   <channel update="i" site="dw.com" site_id="5_4765/1" xmltv_id="DeutscheWelle.de">DW</channel>
   <channel update="i" site="tvdigital.de" site_id="anixehdserie" xmltv_id="Anixe.de">Anixe</channel>
   <channel update="i" site="horizon.tv" site_id="DE/deu_810575911132__https://wp9-images-de-dynamic.horizon.tv/ChannelLogos/02/health_tv.png" xmltv_id="Health.de">Health TV</channel>
   <channel update="i" site="horizon.tv" site_id="AT/deu_694397991027__https://wp24-images-at-dynamic.horizon.tv/Logos/StaticConfig/TIROL_TV_colour.png" xmltv_id="TirolTV.de">Tirol TV</channel>
-  <channel update="i" site="m.tele.at" site_id="70" xmltv_id="Okto.at">Okto</channel>
 
   <!-- EUA -->
   <channel update="i" site="cableonda.com" site_id="10447###87" xmltv_id="CookingChannel.us">The Cooking Channel</channel>
