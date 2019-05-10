@@ -14,7 +14,7 @@ http://csm-e.cds1.yospace.com/csm/extlive/tv3ie01,3e-prd.m3u8
 #EXTINF:-1 tvg-id="VirginMediaThree.ie" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/09/Virgin_Media_Three_logo.png" group-title="IRLANDA",[COLOR lime][I][B]Virgin Media 3[/B][/I][/COLOR]
 http://csm-e.cds1.yospace.com/csm/extlive/tv3ie01,be3-prd.m3u8
 #EXTINF:-1 tvg-id="RTENewsNow.ie" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/db/Rtenewsnownewlogo.png" group-title="IRLANDA",[COLOR lime][I][B]RTE News Now[/B][/I][/COLOR]
-http://wmsrtsp1.rte.ie/live/android.sdp/playlist.m3u8
+https://cdn.rasset.ie/hls-live/_definst_/newsnow/newsnow-576.m3u8
 
 #EXTINF:-1,[COLOR mediumslateblue] REINO UNIDO [/COLOR]
 http://0.0.0.0:1234
@@ -73,7 +73,7 @@ http://0.0.0.0:1234
 #EXTINF:-1 tvg-id="LA1.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/TVE_La1_-_Logo_2008.png/200px-TVE_La1_-_Logo_2008.png" group-title="ESPANHA",[COLOR yellow][I][B]La 1[/B][/I][/COLOR]
 http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl7/la1_lv3_aosv4_gl7/la1_lv3_aosv4_gl7.isml/la1_lv3_aosv4_gl7-audio=128000-video=400000.m3u8
 #EXTINF:-1 tvg-id="LA2.es" tvg-logo="" group-title="ESPANHA",[COLOR yellow][I][B]La 2[/B][/I][/COLOR]
-http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/la2_lv3_aosv4_gl0/la2_lv3_aosv4_gl0.isml/la2_lv3_aosv4_gl0.m3u8
+http://hlsliveamdgl0-lh.akamaihd.net/i/hlslive_1@586367/index_1500_av-p.m3u8
 #EXTINF:-1 tvg-id="Antena3.es" tvg-logo="https://assets.fontsinuse.com/static/use-media-items/67/66342/upto-700xauto/5ad8d23f/antena3_logo_nuevo.jpeg" group-title="ESPANHA",[COLOR yellow][I][B]Antena 3[/B][/I][/COLOR]
 https://livepull1.secure.footprint.net/antena3mpp/master.m3u8
 #EXTINF:-1 tvg-id="Cuatro.es" tvg-logo="http://cadenaser00.epimg.net/ser/imagenes/2018/06/29/television/1530282364_172929_1530282507_noticia_normal.jpg" group-title="ESPANHA",[COLOR yellow][I][B]Cuatro[/B][/I][/COLOR]
@@ -189,6 +189,10 @@ http://0.0.0.0:1234
 http://live.field59.com/wwsb/ngrp:wwsb1_all/playlist.m3u8
 #EXTINF:-1 tvg-id="NBC.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/NBC_2014_Ident.svg/1200px-NBC_2014_Ident.svg.png" group-title="EUA",[COLOR blue][I][B]NBC[/B][/I][/COLOR]
 http://161.0.157.51/PLTV/88888888/224/3221227040/03.m3u8
+#EXTINF:-1, tvg-id="NASA.us" tvg-logo="https://greyareanews.com/wp-content/uploads/2017/10/nasa-logo-web-rgb_0-678x381.gif" group-title="EUA",[COLOR blue][I][B]NASA TV[/B][/I][/COLOR]
+http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8
+#EXTINF:-1, tvg-id="NASAMedia.us" tvg-logo="http://static-cdn1.ustream.tv/i/channel/picture/1/0/4/1/10414700/10414700_nasatv_media_hr_1330361951,640x360,b:1.jpg" group-title="EUA",[COLOR blue][I][B]NASA TV Media Channel[/B][/I][/COLOR]
+http://iphone-streaming.ustream.tv/uhls/10414700/streams/live/iphone/playlist.m3u8
 #EXTINF:-1 tvg-id="DiscoveryChannel.us" tvg-logo="https://images.indiegogo.com/file_attachments/592625/files/20140520123321-discovery-channel-logo-2013deadliest-catch-presents-the-captains-concert-at-sxsw-tickets-cgyauhvw.jpg?1400614401" group-title="EUA",[COLOR blue][I][B]Discovery Channel[/B][/I][/COLOR]
 http://80.80.160.168/live/8/live.m3u8
 #EXTINF:-1 tvg-id="ScienceChannel.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/Science_Channel_2016.png" group-title="EUA",[COLOR blue][I][B]Science Channel[/B][/I][/COLOR]
@@ -258,3 +262,5 @@ https://eu-all7.secdn.net/runway-live/play/smil:runway.smil/playlist.m3u8
 #http://runway.videocdn.scaleengine.net/runway-iphone/play/runway/chunklist.m3u8
 #EXTINF:-1 tvg-id="FashionTelevision.us" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mC9iGC7EpU4k5DwN-qGtyic9um6kkM0rnQfkQ=s900-mo-c-c0xffffffff-rj-k-no" group-title="FASHION",[COLOR pink][I][B]Fashion Television[/B][/I][/COLOR]
 http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
+#EXTINF:-1, tvg-logo="http://hdfashion.tv/image/og_logo.jpg" group-title="FASHION",[COLOR pink][I][B]Fashion & Lifestyle[/B][/I][/COLOR]
+http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
