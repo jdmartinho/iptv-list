@@ -74,14 +74,6 @@ http://0.0.0.0:1234
 http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl7/la1_lv3_aosv4_gl7/la1_lv3_aosv4_gl7.isml/la1_lv3_aosv4_gl7-audio=128000-video=400000.m3u8
 #EXTINF:-1 tvg-id="LA2.es" tvg-logo="" group-title="ESPANHA",[COLOR yellow][I][B]La 2[/B][/I][/COLOR]
 http://hlsliveamdgl0-lh.akamaihd.net/i/hlslive_1@586367/index_1500_av-p.m3u8
-#EXTINF:-1 tvg-id="Antena3.es" tvg-logo="https://assets.fontsinuse.com/static/use-media-items/67/66342/upto-700xauto/5ad8d23f/antena3_logo_nuevo.jpeg" group-title="ESPANHA",[COLOR yellow][I][B]Antena 3[/B][/I][/COLOR]
-https://livepull1.secure.footprint.net/antena3mpp/master.m3u8
-#EXTINF:-1 tvg-id="Cuatro.es" tvg-logo="http://cadenaser00.epimg.net/ser/imagenes/2018/06/29/television/1530282364_172929_1530282507_noticia_normal.jpg" group-title="ESPANHA",[COLOR yellow][I][B]Cuatro[/B][/I][/COLOR]
-https://dai.google.com/linear/hls/p/event/2DbwX2JMQvef-4YCGEtRkQ/stream/67c425d7-c721-4458-9bd4-ce934c57d86b:GRQ/variant/7102f3fe85d681ec1e067acdc53a510b/bandwidth/364000.m3u8
-#EXTINF:-1 tvg-id="Telecinco.es" tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/102014/telecinco_2012.png" group-title="ESPANHA",[COLOR yellow][I][B]Telecinco[/B][/I][/COLOR]
-https://dai.google.com/linear/hls/p/event/XqcS7SpLTLWIo_QetmAfnw/stream/969fc4a9-29c4-42fb-a312-802ec67d8867:GRQ/variant/19d643c32117087c5f34a50219160589/bandwidth/364000.m3u8
-#EXTINF:-1 tvg-id="LaSexta.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/La_Sexta_%28A3M%29.svg/1200px-La_Sexta_%28A3M%29.svg.png" group-title="ESPANHA",[COLOR yellow][I][B]La Sexta[/B][/I][/COLOR]
-https://livepull1.secure.footprint.net/lasextampp/master.m3u8
 #EXTINF:-1 tvg-id="BeMad.es" tvg-logo="" group-title="ESPANHA",[COLOR yellow][I][B]Be Mad[/B][/I][/COLOR]
 https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_4.m3u8
 #EXTINF:-1 tvg-id="RTVE24.es" tvg-logo="http://latelete.tv/img/24h.png" group-title="ESPANHA",[COLOR yellow][I][B]RTVE 24[/B][/I][/COLOR]
@@ -91,29 +83,25 @@ http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_mobil/play
 #EXTINF:-1 tvg-id="Trece.es" tvg-logo="http://web13tv-demo.enetres.net/apple-icon-180x180.png" group-title="ESPANHA",[COLOR yellow][I][B]Trece[/B][/I][/COLOR]
 http://streaming.enetres.net:80/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/chunklist.m3u8
 #EXTINF:-1 tvg-id="TeleMadrid.es" tvg-logo="http://latelete.tv/img/telemadrid.png" group-title="ESPANHA",[COLOR yellow][I][B]TeleMadrid[/B][/I][/COLOR]
-http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/bitrate_1.m3u8
+http://live-telemadrid.cellnextelecom.net/telemadrid/smil:telemadrid/chunklist_b796000_slesp.m3u8
 #EXTINF:-1 tvg-id="LaOtra.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/LaOtra.svg/1200px-LaOtra.svg.png" group-title="ESPANHA",[COLOR yellow][I][B]La Otra[/B][/I][/COLOR]
-http://laotrahls-live.hls.adaptive.level3.net/telemadrid/laotra1/index.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play
+http://live-laotra.cellnextelecom.net/laotra/smil:laotra/chunklist_b796000_slesp.m3u8
 #EXTINF:-1 tvg-id="CanalExtremadura.es" tvg-logo="http://www.canalextremadura.es/sites/all/themes/canalex_2016/images/canalex/logotipo@2x.png" group-title="ESPANHA",[COLOR yellow][I][B]Canal Extremadura[/B][/I][/COLOR]
 http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TVGalicia.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Televisi%C3%B3n_de_Galicia_Logo.svg/200px-Televisi%C3%B3n_de_Galicia_Logo.svg.png" group-title="ESPANHA",[COLOR yellow][I][B]TV Galicia[/B][/I][/COLOR]
 http://europa-crtvg.flumotion.com/playlist.m3u8
 #EXTINF:-1 tvg-id="TVAsturias.es" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2a/RTPA_logo.svg/200px-RTPA_logo.svg.png" group-title="ESPANHA",[COLOR yellow][I][B]TV Asturias[/B][/I][/COLOR]
-http://iphone.rtpa.stream.flumotion.com/rtpa/tv-iphone/main.m3u8
+https://cdnlive.shooowit.net/rtpalive/smil:directo.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="AragonTV.es" tvg-logo="http://3.bp.blogspot.com/-dojqxEjIWaI/TkYpA1sT-HI/AAAAAAAAAWs/5RAM_Ih6XU0/s1600/aragontvlogo.jpg" group-title="ESPANHA",[COLOR yellow][I][B]Aragon TV[/B][/I][/COLOR]
 http://aragontv.stream.flumotion.com/aragontv/hls-live/main.m3u8
-#EXTINF:-1 tvg-id="CanalAndalucia.es" tvg-logo="https://www.andorratelecom.ad/documents/33347/112493/canal+sur+andalucia-01.png" group-title="ESPANHA",[COLOR yellow][I][B]Canal Sur[/B][/I][/COLOR]
-http://canalsur-new-live.hls.adaptive.level3.net/egress/bhandler/canalsur_live/rtva_new/master.m3u8
 #EXTINF:-1 tvg-id="CanalSurCocina.es" tvg-logo="https://www.andorratelecom.ad/documents/33347/112493/canal+sur+andalucia-01.png" group-title="ESPANHA",[COLOR yellow][I][B]Canal Sur Cocina[/B][/I][/COLOR]
 https://593fa17dec176.streamlock.net/cscocina/cscocina.stream/master.m3u8
 #EXTINF:-1 tvg-id="AndorraTV.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/RTVA_logotip.png" group-title="ESPANHA",[COLOR yellow][I][B]Andorra TV[/B][/I][/COLOR]
-http://194.158.80.31:443/live/rtva/playlist.m3u8
+https://videos.rtva.ad/live/rtva/playlist.m3u8
 #EXTINF:-1 tvg-id="TV3Cat.es" tvg-logo="https://yt3.ggpht.com/a-/AN66SAz2UoIH7dmD0yzR3D4evWGRk-DE0Qu00YJusg=s900-mo-c-c0xffffffff-rj-k-no" group-title="ESPANHA",[COLOR yellow][I][B]TV3 Catalunya[/B][/I][/COLOR]
 http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3cat_web/chunklist_b1296000.m3u8
 #EXTINF:-1 tvg-id="MovistarEsports.es" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/73/Movistar_eSports.png/revision/latest?cb=20170704162248" group-title="ESPANHA",[COLOR yellow][I][B]Movistar Esports[/B][/I][/COLOR]
 https://ccma-tva-int-cellnex-live-hls.secure.footprint.net/cat/ngrp:es3_web/chunklist_b1296000_DVR.m3u8
-#EXTINF:-1 tvg-id="RealMadridTV.es" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ae/Realmadrid-TV.jpg" group-title="ESPANHA",[COLOR yellow][I][B]Real Madrid TV[/B][/I][/COLOR]
-http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
 #EXTINF:-1 tvg-id="AnimeTV.es" tvg-logo="https://thumbnailer.mixcloud.com/unsafe/300x300/extaudio/1/2/f/d/7d6f-dd5b-4be5-a9b2-e503b2c2c116.jpg" group-title="ESPANHA",[COLOR yellow][I][B]Anime TV[/B][/I][/COLOR]
 http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
 
@@ -134,8 +122,6 @@ http://ec.playmedia.fr/lequipe21/live/playlist.m3u8
 http://0.0.0.0:1234
 #EXTINF:-1 tvg-id="Rai4.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Rai_4_-_Logo_2016.svg/1280px-Rai_4_-_Logo_2016.svg.png" group-title="ITALIA",[COLOR green][I][B]Rai 4[/B][/I][/COLOR]
 http://b2everyrai-lh.akamaihd.net/i/rai4_1@181951/master.m3u8
-#EXTINF:-1 tvg-id="Rai5.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Rai_5_-_Logo_2017.svg/1200px-Rai_5_-_Logo_2017.svg.png" group-title="ITALIA",[COLOR green][I][B]Rai 5[/B][/I][/COLOR]
-https://raicinque1-live.akamaized.net/hls/live/598318/raicinque1/rai5_1200/chunklist.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="RaiPremium.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Rai_Premium_-_Logo_2017.svg/160px-Rai_Premium_-_Logo_2017.svg.png" group-title="ITALIA",[COLOR green][I][B]Rai Premium[/B][/I][/COLOR]
 http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/master.m3u8
 #EXTINF:-1 tvg-id="RaiMovie.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Rai_Movie_-_Logo_2017.svg/1200px-Rai_Movie_-_Logo_2017.svg.png" group-title="ITALIA",[COLOR green][I][B]Rai Movie[/B][/I][/COLOR]
@@ -146,8 +132,6 @@ https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/playlist.m
 http://skyianywhere2-i.akamaihd.net/hls/live/200275/tg24/playlist.m3u8
 #EXTINF:-1 tvg-id="IRCSport.it" tvg-logo="https://www.ircsporttv.it/assets/front/img/logo.png" group-title="ITALIA",[COLOR green][I][B]IRC Sport TV[/B][/I][/COLOR]
 http://wms.shared.streamshow.it/irctv/mp4:irctv/playlist.m3u8
-#EXTINF:-1 tvg-id="Sportitalia.it" tvg-logo="http://www.dailyonline.it/wp-content/uploads/2017/02/Logo-Sportitalia-HD-page-001-Copia-copia-e1486299148551.jpeg" group-title="ITALIA",[COLOR green][I][B]Sportitalia[/B][/I][/COLOR]
-http://l1tvlive1-lh.akamaihd.net/i/p-2786_u-_l-2786_hls_a-_c-DE_e-885278_i-5484528720171217122906_k-_q-_t-hds/sportitalia247_1@5383/index_1200_av-p.m3u8
 
 #EXTINF:-1,[COLOR deepskyblue] ALEMANHA [/COLOR]
 http://0.0.0.0:1234
@@ -157,8 +141,6 @@ https://daserstehdint-lh.akamaihd.net/i/daserstehd_int@629195/master.m3u8
 http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/master.m3u8
 #EXTINF:-1 tvg-id="DeutscheWelle.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Deutsche_Welle_Logo.svg/1280px-Deutsche_Welle_Logo.svg.png" group-title="ALEMANHA",[COLOR deepskyblue][I][B]DW[/B][/I][/COLOR]
 https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
-#EXTINF:-1 tvg-id="Anixe.de" tvg-logo="http://old.anixehd.tv/lib/img/fallback/logo.png" group-title="ALEMANHA",[COLOR deepskyblue][I][B]ANIXE[/B][/I][/COLOR]
-http://video1.anixehd.tv:8080/Apple/wifistream.m3u8
 #EXTINF:-1 tvg-id="BerlinMetal.de" tvg-logo="https://i.imgur.com/G9R4xyq.jpg" group-title="ALEMANHA",[COLOR deepskyblue][I][B]Berlin Metal TV[/B][/I][/COLOR]
 http://autopilot.myowntv.org/content/33816/index.m3u8
 #EXTINF:-1 tvg-id="Health.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/healthtv.png" group-title="ALEMANHA",[COLOR deepskyblue][I][B]Health TV[/B][/I][/COLOR]
@@ -239,8 +221,12 @@ http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8
 
 #EXTINF:-1,[COLOR pink] FASHION [/COLOR]
 http://0.0.0.0:1234
-#EXTINF:-1 tvg-id="FashionTV.fr" tvg-logo="https://www.licenseindia.com/wp-content/uploads/2015/05/fashion-tv.gif" group-title="FASHION",[COLOR pink][I][B]Fashion TV[/B][/I][/COLOR]
-https://stream-09.ix7.dailymotion.com/sec(z78NI1m0neFnRd2EIIVngKEES4cRtB6SMmJIMlk8wu0)/dm/3/x3m6nld/live.m3u8
+#EXTINF:-1 tvg-id="FashionTVGlobal.fr" tvg-logo="https://www.licenseindia.com/wp-content/uploads/2015/05/fashion-tv.gif" group-title="FASHION",[COLOR pink][I][B]Fashion TV Global[/B][/I][/COLOR]
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/chunklist_b2800000_t64NzIwcA==.m3u8
+#EXTINF:-1 tvg-id="FashionTV.fr" tvg-logo="https://www.licenseindia.com/wp-content/uploads/2015/05/fashion-tv.gif" group-title="FASHION",[COLOR pink][I][B]Fashion TV Paris[/B][/I][/COLOR]
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="FashionTVMidnite.fr" tvg-logo="https://www.licenseindia.com/wp-content/uploads/2015/05/fashion-tv.gif" group-title="FASHION",[COLOR pink][I][B]Fashion TV Midnight Secrets[/B][/I][/COLOR]
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="WorldFashion.ru" tvg-logo="https://www.akado.ru/lp/wfc/WF_logo_.jpg" group-title="FASHION",[COLOR pink][I][B]World Fashion Channel[/B][/I][/COLOR]
 https://wfc.bonus-tv.ru/cdn/wfcint/index.m3u8
 #EXTINF:-1 tvg-id="GlobalFashion.us" tvg-logo="https://s3.amazonaws.com/ctm-tm/016759516.JPG" group-title="FASHION",[COLOR pink][I][B]Global Fashion Channel[/B][/I][/COLOR]
@@ -250,5 +236,5 @@ https://eu-all7.secdn.net/runway-live/play/smil:runway.smil/playlist.m3u8
 #http://runway.videocdn.scaleengine.net/runway-iphone/play/runway/chunklist.m3u8
 #EXTINF:-1 tvg-id="FashionTelevision.us" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mC9iGC7EpU4k5DwN-qGtyic9um6kkM0rnQfkQ=s900-mo-c-c0xffffffff-rj-k-no" group-title="FASHION",[COLOR pink][I][B]Fashion Television[/B][/I][/COLOR]
 http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
-#EXTINF:-1, tvg-logo="http://hdfashion.tv/image/og_logo.jpg" group-title="FASHION",[COLOR pink][I][B]Fashion & Lifestyle[/B][/I][/COLOR]
+#EXTINF:-1 tvg-id="FashionLifestyle.ua" tvg-logo="http://hdfashion.tv/image/og_logo.jpg" group-title="FASHION",[COLOR pink][I][B]Fashion & Lifestyle[/B][/I][/COLOR]
 http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8

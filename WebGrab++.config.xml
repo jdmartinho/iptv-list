@@ -8,7 +8,7 @@
   <logging>on</logging>
   <retry time-out="5">4</retry>
   <timespan>7</timespan>
-  <update>i</update>
+  <update>f</update>
 
   <!-- IRLANDA -->
   <channel update="i" site="horizon.tv" site_id="IE/eng_753737255275__https://wp24-images-ie-dynamic.horizon.tv/ChannelLogos/02/RTE_One_HD.png" xmltv_id="RTEOne.ie">RTE One</channel>
@@ -44,10 +44,6 @@
   <!-- ESPANHA -->
   <channel update="i" site="movistarplus.es" site_id="TVE" xmltv_id="LA1.es">La 1</channel>
   <channel update="i" site="movistarplus.es" site_id="LA2" xmltv_id="LA2.es">La 2</channel>
-  <channel update="i" site="movistarplus.es" site_id="A3" xmltv_id="Antena3.es">Antena 3</channel>
-  <channel update="i" site="movistarplus.es" site_id="C4" xmltv_id="Cuatro.es">Cuatro</channel>
-  <channel update="i" site="movistarplus.es" site_id="T5" xmltv_id="Telecinco.es">Telecinco</channel>
-  <channel update="i" site="movistarplus.es" site_id="SEXTA" xmltv_id="LaSexta.es">La Sexta</channel>
   <channel update="i" site="movistarplus.es" site_id="BEMAD" xmltv_id="BeMad.es">BE MAD</channel>
   <channel update="i" site="movistarplus.es" site_id="24H" xmltv_id="RTVE24.es">RTVE 24</channel>
   <channel update="i" site="movistarplus.es" site_id="3_24" xmltv_id="3/24.es">3/24</channel>
@@ -56,31 +52,25 @@
   <channel update="i" site="plus.es" site_id="OTRA" xmltv_id="LaOtra.es">La Otra</channel>
   <channel update="i" site="movistarplus.es" site_id="EXTRE" xmltv_id="CanalExtremadura.es">Canal Extremadura</channel>
   <channel update="i" site="movistarplus.es" site_id="TVG" xmltv_id="TVGalicia.es">TV Galicia</channel>
-  <channel update="i" site="movistarplus.es" site_id="ARAGON" xmltv_id="AragonTV.es">Aragón TV</channel>
-  <channel update="i" site="movistarplus.es" site_id="CANSUR" xmltv_id="CanalAndalucia.es">Canal Sur</channel>
   <channel update="i" site="movistarplus.es" site_id="TVC" xmltv_id="TV3Cat.es">TV3CAT</channel>
-  <channel update="i" site="movistarplus.es" site_id="REALM" xmltv_id="RealMadridTV.es">Real Madrid TV</channel>
 
   <!-- FRANCA -->
-    <channel update="i" site="nos.pt" site_id="53" xmltv_id="TV5Monde.fr">TV5 Monde</channel>
+  <channel update="i" site="nos.pt" site_id="53" xmltv_id="TV5Monde.fr">TV5 Monde</channel>
   <channel update="i" site="skysiertv.com" site_id="gong" xmltv_id="Gong.fr">Gong</channel>
   <channel update="i" site="programme-television.org" site_id="524" xmltv_id="Alsace20.fr">Alsace 20</channel>
-    <channel update="i" site="tv.orange.fr" site_id="l-equipe-21_CNT0000008o0yM.html" xmltv_id="LEquipe21.fr">L'Equipe 21</channel>
+  <channel update="i" site="tv.orange.fr" site_id="l-equipe-21_CNT0000008o0yM.html" xmltv_id="LEquipe21.fr">L'Equipe 21</channel>
 
   <!-- ITALIA -->
   <channel update="i" site="raiplay.it" site_id="Rai4" xmltv_id="Rai4.it">Rai 4</channel>
-  <channel update="i" site="raiplay.it" site_id="Rai5" xmltv_id="Rai5.it">Rai 5</channel>
   <channel update="i" site="raiplay.it" site_id="RaiMovie" xmltv_id="RaiMovie.it">Rai Movie</channel>
   <channel update="i" site="raiplay.it" site_id="RaiPremium" xmltv_id="RaiPremium.it">Rai Premium</channel>
   <channel update="i" site="raiplay.it" site_id="RaiNews24" xmltv_id="RaiNews.it">Rai News</channel>
   <channel update="i" site="guidatv.sky.it" site_id="sky-tg24-hd" xmltv_id="SkyTG24.it">Sky TG24</channel>
-  <channel update="i" site="horizon.tv" site_id="CH/ita_822929959072__https://wp17-images-ch-dynamic.horizon.tv/channellogos/02/sportitalia.png" xmltv_id="Sportitalia.it">Sportitalia</channel>
 
   <!-- ALEMANHA -->
   <channel update="i" site="tvdigital.de" site_id="daserste" xmltv_id="ARD.de">Das Erste</channel>
   <channel update="i" site="tvdigital.de" site_id="tagesschau24" xmltv_id="Tagesschau24.de">Tagesschau24</channel>
   <channel update="i" site="dw.com" site_id="5_4765/1" xmltv_id="DeutscheWelle.de">DW</channel>
-  <channel update="i" site="tvdigital.de" site_id="anixehdserie" xmltv_id="Anixe.de">Anixe</channel>
   <channel update="i" site="horizon.tv" site_id="DE/deu_810575911132__https://wp9-images-de-dynamic.horizon.tv/ChannelLogos/02/health_tv.png" xmltv_id="Health.de">Health TV</channel>
   <channel update="i" site="horizon.tv" site_id="AT/deu_694397991027__https://wp24-images-at-dynamic.horizon.tv/Logos/StaticConfig/TIROL_TV_colour.png" xmltv_id="TirolTV.de">Tirol TV</channel>
 
