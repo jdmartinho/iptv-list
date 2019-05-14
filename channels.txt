@@ -4,7 +4,7 @@ http://0.0.0.0:1234
 #EXTINF:-1 tvg-id="RTEOne.ie" tvg-logo="http://shinawil.com/wp-content/uploads/2016/04/rte-one-logo-shinawil-300x300.png" group-title="IRLANDA",[COLOR lime][I][B]RTE One[/B][/I][/COLOR]
 http://cdn.rasset.ie/hls-live/_definst_/rte1/rte1-360.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rte.ie/play
 #EXTINF:-1 tvg-id="RTETwo.ie" tvg-logo="https://www.firstonetv.net/images/logos/ie/RTE2.png" group-title="IRLANDA",[COLOR lime][I][B]RTE 2[/B][/I][/COLOR]
-http://cdn.rasset.ie/hls-live/_definst_/rte2/rte2-270.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rte.ie/play
+http://cdn.rasset.ie/hls-live/_definst_/rte2/rte2-360.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rte.ie/play
 #EXTINF:-1 tvg-id="VirginMediaOne.ie" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c9/Virgin_Media_One_logo.png" group-title="IRLANDA",[COLOR lime][I][B]Virgin Media 1[/B][/I][/COLOR]
 http://csm-e.cds1.yospace.com/csm/extlive/tv3ie01,tv3-prd.m3u8
 #EXTINF:-1 tvg-id="TG4.ie" tvg-logo="https://media.glassdoor.com/sqll/1161918/tg4-squarelogo-1452886334240.png" group-title="IRLANDA",[COLOR lime][I][B]TG4[/B][/I][/COLOR]
