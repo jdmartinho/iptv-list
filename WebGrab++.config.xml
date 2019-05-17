@@ -75,9 +75,6 @@
   <channel update="i" site="horizon.tv" site_id="DE/deu_810575911132__https://wp9-images-de-dynamic.horizon.tv/ChannelLogos/02/health_tv.png" xmltv_id="Health.de">Health TV</channel>
   <channel update="i" site="horizon.tv" site_id="AT/deu_694397991027__https://wp24-images-at-dynamic.horizon.tv/Logos/StaticConfig/TIROL_TV_colour.png" xmltv_id="TirolTV.de">Tirol TV</channel>
 
-  <!-- EUA -->
-  <channel update="i" site="cableonda.com" site_id="10447###87" xmltv_id="CookingChannel.us">The Cooking Channel</channel>
-
   <!-- NOTICIAS -->
   <channel update="i" site="nos.pt" site_id="44" xmltv_id="BloombergTV.us">Bloomberg US</channel>
   <channel update="i" site="horizon.tv" site_id="AT/deu_554823718998__https://wp16-images-at-dynamic.horizon.tv/Logos/1185.f.png" xmltv_id="BloombergEurope.uk">Bloomberg Europe</channel>
