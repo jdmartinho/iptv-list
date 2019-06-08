@@ -118,7 +118,10 @@ http://live.alsace20.fr/live/alsace20/ngrp:alsace20_all/playlist.m3u8
 #EXTINF:-1 tvg-id="Francophonie.fr" tvg-name="" tvg-logo="http://www.streamytv.net/wp-content/uploads/2015/08/TV-Francophonie.jpg" group-title="FRANCA",[COLOR cyan][I][B]Francophonie 24[/B][/I][/COLOR]
 http://mv2.tvfrancophonie.org/live/Stream1/media_b776739_w671289549.m3u8
 #EXTINF:-1 tvg-id="LEquipe21.fr" tvg-logo="https://www.ledirect.fr/uploads/channels/2263_6872.png" group-title="FRANCA",[COLOR cyan][I][B]L'Equipe 21[/B][/I][/COLOR]
-http://ec.playmedia.fr/lequipe21/live/playlist.m3u8
+#http://ec.playmedia.fr/lequipe21/live/playlist.m3u8
+https://s2.tntendirect.com/lequipe21/live/chunks.m3u8
+https://stream-11.ix7.dailymotion.com/sec(flYDIS2TJc06LP-7DFS-ybk-wqBpxYbBWr5ty3kZ5oQ)/dm/3/x79hwqp/s/live-2.m3u8
+
 
 #EXTINF:-1,[COLOR green] ITALIA [/COLOR]
 http://0.0.0.0:1234
@@ -177,7 +180,7 @@ http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
 http://wowzaprod3-i.akamaihd.net/hls/live/252236/2147483647_360north_247/playlist.m3u8
 #EXTINF:-1 tvg-id="BYUTV.us" tvg-logo="https://www.byutv.org/content/png-logos/byutv/app/square/1280x720.png" group-title="EUA",[COLOR blue][I][B]BYU TV[/B][/I][/COLOR]
 https://byubhls-i.akamaihd.net/hls/live/267187/byutvhls/master.m3u8
-#EXTINF:-1 tvg-id="TMZ.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/TMZ_Logo.svg" group-title="EUA",[COLOR blue][I][B]TMZ[/B][/I][/COLOR]
+#EXTINF:-1 tvg-id="TMZ.us" tvg-logo="https://davidbach.com/wp-content/uploads/2016/04/TMZ-logo.jpg" group-title="EUA",[COLOR blue][I][B]TMZ[/B][/I][/COLOR]
 https://dai1.xumo.com/a7ze70ah55wn6lu4/9999243/master.m3u8
 #EXTINF:-1 tvg-id="CountryNetwork.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/dd/The_Country_Network_Logo.png" group-title="EUA",[COLOR blue][I][B]Country Network[/B][/I][/COLOR]
 https://dcunilive2-lh.akamaihd.net/i/dclive_1@390829/master.m3u8
@@ -195,7 +198,7 @@ http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.
 #EXTINF:-1,[COLOR yellowgreen] NOTICIAS [/COLOR]
 http://0.0.0.0:1234
 #EXTINF:-1 tvg-id="BloombergEurope.uk" tvg-logo="http://www.valuewalk.com/wp-content/uploads/2013/08/Bloomberg-logo.jpg" group-title="NOTICIAS",[COLOR yellowgreen][I][B]Bloomberg Europe[/B][/I][/COLOR]
-https://bblive-liveprodeuwest.hs.llnwd.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-1000-1_live.m3u8
+http://liveprodeuwest.global.ssl.fastly.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-1000-1_live.m3u8
 #EXTINF:-1, tvg-id="Cheddar.us" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5812afe1d0f0b8d55dde67fa/featuredImage.jpg" group-title="NOTICIAS",[COLOR yellowgreen][I][B]Cheddar Business[/B][/I][/COLOR]
 http://live.chdrstatic.com/cheddar/index.m3u8
 #EXTINF:-1, tvg-id="CheddarNews.us" tvg-logo="https://static-us-east-2-fastly-a.www.philo.com/images/channel_logos/CBNSTR/large_dark.png?auto=webp&format=png8" group-title="NOTICIAS",[COLOR yellowgreen][I][B]Cheddar News[/B][/I][/COLOR]
