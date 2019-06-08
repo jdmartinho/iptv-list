@@ -14,7 +14,8 @@ http://csm-e.cds1.yospace.com/csm/extlive/tv3ie01,3e-prd.m3u8
 #EXTINF:-1 tvg-id="VirginMediaThree.ie" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/09/Virgin_Media_Three_logo.png" group-title="IRLANDA",[COLOR lime][I][B]Virgin Media 3[/B][/I][/COLOR]
 http://csm-e.cds1.yospace.com/csm/extlive/tv3ie01,be3-prd.m3u8
 #EXTINF:-1 tvg-id="RTENewsNow.ie" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/db/Rtenewsnownewlogo.png" group-title="IRLANDA",[COLOR lime][I][B]RTE News Now[/B][/I][/COLOR]
-http://cdn.rasset.ie/hls-live/_definst_/newsnow/newsnow-576.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rte.ie/play
+#http://cdn.rasset.ie/hls-live/_definst_/newsnow/newsnow-576.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rte.ie/play
+http://wmsv1.rte.ie/live/smil:iphone.smil/playlist.m3u8
 
 #EXTINF:-1,[COLOR mediumslateblue] REINO UNIDO [/COLOR]
 http://0.0.0.0:1234
@@ -120,7 +121,7 @@ http://mv2.tvfrancophonie.org/live/Stream1/media_b776739_w671289549.m3u8
 #EXTINF:-1 tvg-id="LEquipe21.fr" tvg-logo="https://www.ledirect.fr/uploads/channels/2263_6872.png" group-title="FRANCA",[COLOR cyan][I][B]L'Equipe 21[/B][/I][/COLOR]
 #http://ec.playmedia.fr/lequipe21/live/playlist.m3u8
 https://s2.tntendirect.com/lequipe21/live/chunks.m3u8
-https://stream-11.ix7.dailymotion.com/sec(flYDIS2TJc06LP-7DFS-ybk-wqBpxYbBWr5ty3kZ5oQ)/dm/3/x79hwqp/s/live-2.m3u8
+#https://stream-11.ix7.dailymotion.com/sec(flYDIS2TJc06LP-7DFS-ybk-wqBpxYbBWr5ty3kZ5oQ)/dm/3/x79hwqp/s/live-2.m3u8
 
 
 #EXTINF:-1,[COLOR green] ITALIA [/COLOR]
