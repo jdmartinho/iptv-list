@@ -121,8 +121,6 @@ http://mv2.tvfrancophonie.org/live/Stream1/media_b776739_w671289549.m3u8
 #EXTINF:-1 tvg-id="LEquipe21.fr" tvg-logo="https://www.ledirect.fr/uploads/channels/2263_6872.png" group-title="FRANCA",[COLOR cyan][I][B]L'Equipe 21[/B][/I][/COLOR]
 #http://ec.playmedia.fr/lequipe21/live/playlist.m3u8
 https://s2.tntendirect.com/lequipe21/live/chunks.m3u8
-#https://stream-11.ix7.dailymotion.com/sec(flYDIS2TJc06LP-7DFS-ybk-wqBpxYbBWr5ty3kZ5oQ)/dm/3/x79hwqp/s/live-2.m3u8
-
 
 #EXTINF:-1,[COLOR green] ITALIA [/COLOR]
 http://0.0.0.0:1234
@@ -175,6 +173,8 @@ http://iphone-streaming.ustream.tv/uhls/10414700/streams/live/iphone/playlist.m3
 http://80.80.160.168/live/8/live.m3u8
 #EXTINF:-1 tvg-id="ScienceChannel.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/Science_Channel_2016.png" group-title="EUA",[COLOR blue][I][B]Science Channel[/B][/I][/COLOR]
 http://80.80.160.168/live/9/live.m3u8
+#EXTINF:-1 tvg-id="AnimalPlanet.us" tvg-logo="https://s3-eu-central-1.amazonaws.com/centaur-wp/designweek/prod/content/uploads/2018/10/25115647/AnimalPlanet_Vertical_OneLineLarge_RGB-002.jpg" group-title="EUA",[COLOR blue][I][B]Animal Planet[/B][/I][/COLOR]
+http://80.80.160.168/live/1/live.m3u8
 #EXTINF:-1 tvg-id="WeatherChannel.us" tvg-logo="https://i.imgur.com/D4vJyy9.png" group-title="EUA",[COLOR blue][I][B]The Weather Channel[/B][/I][/COLOR]
 http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
 #EXTINF:-1 tvg-id="360North.us" tvg-logo="http://1.bp.blogspot.com/-n9VkHeKYy9I/TpxlB16n3HI/AAAAAAAABFQ/GORfkU_Nus4/s400/360north_logo_coloronwhite_large%2Bcopy.jpg" group-title="EUA",[COLOR blue][I][B]360 North[/B][/I][/COLOR]
@@ -187,8 +187,16 @@ https://dai1.xumo.com/a7ze70ah55wn6lu4/9999243/master.m3u8
 https://dcunilive2-lh.akamaihd.net/i/dclive_1@390829/master.m3u8
 #EXTINF:-1 tvg-id="TBD.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c6/TBD_logo_2016.png" group-title="EUA",[COLOR blue][I][B]TBD[/B][/I][/COLOR]
 http://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8
+#EXTINF:-1 tvg-id="AdultSwim.us" tvg-logo="https://fontmeme.com/images/adult-swim-media-logo.png" group-title="EUA",[COLOR blue][I][B]Adult Swim[/B][/I][/COLOR]
+http://adultswimhls-i.akamaihd.net/hls/live/238460/adultswim/main/1/master.m3u8
 #EXTINF:-1 tvg-id="RetroTV.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/retro_tv.png" group-title="EUA",[COLOR blue][I][B]Retro TV[/B][/I][/COLOR]
 http://247retrotv.com:1935/live/smil:247retro.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AmericanHorrors.us" tvg-logo="http://www.americanhorrors.com/wp-content/uploads/2017/04/logo.png" group-title="EUA",[COLOR blue][I][B]American Horrors[/B][/I][/COLOR]
+http://170.178.189.66:1935/live/Stream1/playlist.m3u8
+#EXTINF:-1 tvg-id="Showtime.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/1200px-Showtime.svg.png" group-title="EUA",[COLOR blue][I][B]Showtime[/B][/I][/COLOR]
+http://80.80.160.168/live/7/live.m3u8
+#EXTINF:-1 tvg-id="ClassicArtsShowcase.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Artschannel.png" group-title="EUA",[COLOR blue][I][B]Classic Arts Showcase[/B][/I][/COLOR]
+https://classicarts.global.ssl.fastly.net/live/cas/master_3000k.m3u8
 #EXTINF:-1 tvg-id="CookingChannel.us" tvg-logo="https://images.bwwstatic.com/tvnetworklogos/12683D1D-0C2A-DD63-3EA5C95F3DEDA0AB.jpg" group-title="EUA",[COLOR blue][I][B]Cooking Channel[/B][/I][/COLOR]
 http://161.0.157.5/PLTV/88888888/224/3221226201/index.m3u8
 #EXTINF:-1 tvg-id="ESPN2.us" tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/0012/1398/brand.gif?itok=qK15mOWo" group-title="EUA",[COLOR blue][I][B]ESPN 2[/B][/I][/COLOR]
