@@ -1,10 +1,6 @@
 #EXTM3U
 #EXTINF:-1,[COLOR lime] IRLANDA [/COLOR]
 http://0.0.0.0:1234
-#EXTINF:-1 tvg-id="RTEOne.ie" tvg-logo="http://shinawil.com/wp-content/uploads/2016/04/rte-one-logo-shinawil-300x300.png" group-title="IRLANDA",[COLOR lime][I][B]RTE One[/B][/I][/COLOR]
-http://cdn.rasset.ie/hls-live/_definst_/rte1/rte1-360.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rte.ie/play
-#EXTINF:-1 tvg-id="RTETwo.ie" tvg-logo="https://www.firstonetv.net/images/logos/ie/RTE2.png" group-title="IRLANDA",[COLOR lime][I][B]RTE 2[/B][/I][/COLOR]
-http://cdn.rasset.ie/hls-live/_definst_/rte2/rte2-360.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rte.ie/play
 #EXTINF:-1 tvg-id="VirginMediaOne.ie" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c9/Virgin_Media_One_logo.png" group-title="IRLANDA",[COLOR lime][I][B]Virgin Media 1[/B][/I][/COLOR]
 http://csm-e.cds1.yospace.com/csm/extlive/tv3ie01,tv3-prd.m3u8
 #EXTINF:-1 tvg-id="TG4.ie" tvg-logo="https://media.glassdoor.com/sqll/1161918/tg4-squarelogo-1452886334240.png" group-title="IRLANDA",[COLOR lime][I][B]TG4[/B][/I][/COLOR]
@@ -13,9 +9,6 @@ http://csm-e.cds1.yospace.com/csm/live/74246540.m3u8
 http://csm-e.cds1.yospace.com/csm/extlive/tv3ie01,3e-prd.m3u8
 #EXTINF:-1 tvg-id="VirginMediaThree.ie" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/09/Virgin_Media_Three_logo.png" group-title="IRLANDA",[COLOR lime][I][B]Virgin Media 3[/B][/I][/COLOR]
 http://csm-e.cds1.yospace.com/csm/extlive/tv3ie01,be3-prd.m3u8
-#EXTINF:-1 tvg-id="RTENewsNow.ie" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/db/Rtenewsnownewlogo.png" group-title="IRLANDA",[COLOR lime][I][B]RTE News Now[/B][/I][/COLOR]
-#http://cdn.rasset.ie/hls-live/_definst_/newsnow/newsnow-576.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rte.ie/play
-http://wmsv1.rte.ie/live/smil:iphone.smil/playlist.m3u8
 
 #EXTINF:-1,[COLOR mediumslateblue] REINO UNIDO [/COLOR]
 http://0.0.0.0:1234
@@ -193,14 +186,8 @@ http://adultswimhls-i.akamaihd.net/hls/live/238460/adultswim/main/1/master.m3u8
 http://247retrotv.com:1935/live/smil:247retro.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="AmericanHorrors.us" tvg-logo="http://www.americanhorrors.com/wp-content/uploads/2017/04/logo.png" group-title="EUA",[COLOR blue][I][B]American Horrors[/B][/I][/COLOR]
 http://170.178.189.66:1935/live/Stream1/playlist.m3u8
-#EXTINF:-1 tvg-id="Showtime.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/1200px-Showtime.svg.png" group-title="EUA",[COLOR blue][I][B]Showtime[/B][/I][/COLOR]
-http://80.80.160.168/live/7/live.m3u8
 #EXTINF:-1 tvg-id="ClassicArtsShowcase.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Artschannel.png" group-title="EUA",[COLOR blue][I][B]Classic Arts Showcase[/B][/I][/COLOR]
 https://classicarts.global.ssl.fastly.net/live/cas/master_3000k.m3u8
-#EXTINF:-1 tvg-id="CookingChannel.us" tvg-logo="https://images.bwwstatic.com/tvnetworklogos/12683D1D-0C2A-DD63-3EA5C95F3DEDA0AB.jpg" group-title="EUA",[COLOR blue][I][B]Cooking Channel[/B][/I][/COLOR]
-http://161.0.157.5/PLTV/88888888/224/3221226201/index.m3u8
-#EXTINF:-1 tvg-id="ESPN2.us" tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/0012/1398/brand.gif?itok=qK15mOWo" group-title="EUA",[COLOR blue][I][B]ESPN 2[/B][/I][/COLOR]
-http://161.0.157.8/PLTV/88888888/224/3221226881/index.m3u8
 #EXTINF:-1 tvg-id="MLBNetwork.us" tvg-logo="https://i.imgur.com/G9VKlxx.png" group-title="EUA",[COLOR blue][I][B]MLB Network[/B][/I][/COLOR]
 http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
 

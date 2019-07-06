@@ -11,13 +11,10 @@
   <update>f</update>
 
   <!-- IRLANDA -->
-  <channel update="i" site="horizon.tv" site_id="IE/eng_753737255275__https://wp24-images-ie-dynamic.horizon.tv/ChannelLogos/02/RTE_One_HD.png" xmltv_id="RTEOne.ie">RTE One</channel>
-  <channel update="i" site="horizon.tv" site_id="IE/eng_753737255272__https://wp1-images-ie-dynamic.horizon.tv/ChannelLogos/02/RTE2_HD.png" xmltv_id="RTETwo.ie">RTE2</channel>
   <channel update="i" site="horizon.tv" site_id="IE/eng_753737255359__https://wp7-images-ie-dynamic.horizon.tv/ChannelLogos/02/TV3_HD.png" xmltv_id="VirginMediaOne.ie">Virgin Media 1</channel>
   <channel update="i" site="horizon.tv" site_id="IE/eng_753737255278__https://wp3-images-ie-dynamic.horizon.tv/ChannelLogos/02/TG4_HD.png" xmltv_id="TG4.ie">TG4</channel>
   <channel update="i" site="horizon.tv" site_id="IE/eng_770396711194__https://wp2-images-ie-dynamic.horizon.tv/ChannelLogos/02/3e_HD.png" xmltv_id="VirginMediaTwo.ie">Virgin Media 2</channel>
   <channel update="i" site="horizon.tv" site_id="IE/eng_753737255257__https://wp13-images-ie-dynamic.horizon.tv/ChannelLogos/02/be3_HD.png" xmltv_id="VirginMediaThree.ie">Virgin Media 3</channel>
-  <channel update="i" site="horizon.tv" site_id="IE/eng_753737255354__https://wp3-images-ie-dynamic.horizon.tv/ChannelLogos/02/RTE_News_Now.png" xmltv_id="RTENewsNow.ie">RTE News Now</channel>
 
   <!-- REINO UNIDO -->
   <channel update="i" site="horizon.tv" site_id="IE/eng_753737255280__https://wp10-images-ie-dynamic.horizon.tv/ChannelLogos/02/Sky_News.png" xmltv_id="SkyNews.uk">Sky News</channel>
