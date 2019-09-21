@@ -16,3 +16,5 @@
 5. Configure crontab to run every day at 5AM
 >crontab -e
 >0 5 * * * /home/osmc/ip-tv/update_epg.sh
+6. Add environment to the script
+>PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/home/osmc/iptv-list
