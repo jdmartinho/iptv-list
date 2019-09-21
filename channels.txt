@@ -73,8 +73,16 @@ http://0.0.0.0:1234
 http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8
 #EXTINF:-1 tvg-id="LA2.es" tvg-logo="" group-title="ESPANHA",[COLOR yellow][I][B]La 2[/B][/I][/COLOR]
 http://hlsliveamdgl0-lh.akamaihd.net/i/hlslive_1@586367/index_1500_av-p.m3u8
+#EXTINF:-1 tvg-id="Antena3.es" tvg-logo="https://assets.fontsinuse.com/static/use-media-items/67/66342/upto-700xauto/5ad8d23f/antena3_logo_nuevo.jpeg" group-title="ESPANHA",[COLOR yellow][I][B]Antena 3[/B][/I][/COLOR]
+https://livestartover-i.akamaized.net/antena3/master.m3u8
+#EXTINF:-1 tvg-id="Cuatro.es" tvg-logo="http://cadenaser00.epimg.net/ser/imagenes/2018/06/29/television/1530282364_172929_1530282507_noticia_normal.jpg" group-title="ESPANHA",[COLOR yellow][I][B]Cuatro[/B][/I][/COLOR]
+https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_2.m3u8
+#EXTINF:-1 tvg-id="Telecinco.es" tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/102014/telecinco_2012.png" group-title="ESPANHA",[COLOR yellow][I][B]Telecinco[/B][/I][/COLOR]
+https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_2.m3u8
+#EXTINF:-1 tvg-id="LaSexta.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/La_Sexta_%28A3M%29.svg/1200px-La_Sexta_%28A3M%29.svg.png" group-title="ESPANHA",[COLOR yellow][I][B]La Sexta[/B][/I][/COLOR]
+https://livestartover-i.akamaized.net/lasexta/master.m3u8
 #EXTINF:-1 tvg-id="BeMad.es" tvg-logo="" group-title="ESPANHA",[COLOR yellow][I][B]Be Mad[/B][/I][/COLOR]
-https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_4.m3u8
+https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_2.m3u8
 #EXTINF:-1 tvg-id="RTVE24.es" tvg-logo="http://latelete.tv/img/24h.png" group-title="ESPANHA",[COLOR yellow][I][B]RTVE 24[/B][/I][/COLOR]
 http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl8/24h_onlydash_lv3_aosv4_gl8/24h_onlydash_lv3_aosv4_gl8.isml/24h_onlydash_lv3_aosv4_gl8.m3u8
 #EXTINF:-1 tvg-id="3/24.es" tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/d/dc/Canal3-24_logo2014.png/revision/latest?cb=20140121145440" group-title="ESPANHA",[COLOR yellow][I][B]3/24[/B][/I][/COLOR]
@@ -93,8 +101,12 @@ http://europa-crtvg.flumotion.com/playlist.m3u8
 https://cdnlive.shooowit.net/rtpalive/smil:directo.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="AragonTV.es" tvg-logo="http://3.bp.blogspot.com/-dojqxEjIWaI/TkYpA1sT-HI/AAAAAAAAAWs/5RAM_Ih6XU0/s1600/aragontvlogo.jpg" group-title="ESPANHA",[COLOR yellow][I][B]Aragon TV[/B][/I][/COLOR]
 http://aragontv.stream.flumotion.com/aragontv/hls-live/main.m3u8
-#EXTINF:-1 tvg-id="CanalSurCocina.es" tvg-logo="https://www.andorratelecom.ad/documents/33347/112493/canal+sur+andalucia-01.png" group-title="ESPANHA",[COLOR yellow][I][B]Canal Sur Cocina[/B][/I][/COLOR]
+#EXTINF:-1 tvg-id="CanalSur.es" tvg-logo="https://www.andorratelecom.ad/documents/33347/112493/canal+sur+andalucia-01.png" group-title="ESPANHA",[COLOR yellow][I][B]Canal Sur[/B][/I][/COLOR]
+http://canalsur-pair302-live.hls.adaptive.level3.net/egress/bhandler/sandetel/rtva/manifest.m3u8
+#EXTINF:-1 tvg-id="CanalSurCocina.es" tvg-logo="http://www.canalsur.es/resources/archivos_offline/2018/6/20/1529521803377Canal_Andalucia_Cocina_3-01-01-01-01.svg" group-title="ESPANHA",[COLOR yellow][I][B]Canal Sur Cocina[/B][/I][/COLOR]
 https://593fa17dec176.streamlock.net/cscocina/cscocina.stream/master.m3u8
+#EXTINF:-1 tvg-id="CanalSurTurismo.es" tvg-logo="http://vod.streamingconnect.tv/csturismo/admin/Uploads/medias/logo.png" group-title="ESPANHA",[COLOR yellow][I][B]Canal Sur Turismo[/B][/I][/COLOR]
+https://593fa17dec176.streamlock.net/csturismo/csturismo.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="AndorraTV.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/RTVA_logotip.png" group-title="ESPANHA",[COLOR yellow][I][B]Andorra TV[/B][/I][/COLOR]
 https://videos.rtva.ad/live/rtva/playlist.m3u8
 #EXTINF:-1 tvg-id="TV3Cat.es" tvg-logo="https://yt3.ggpht.com/a-/AN66SAz2UoIH7dmD0yzR3D4evWGRk-DE0Qu00YJusg=s900-mo-c-c0xffffffff-rj-k-no" group-title="ESPANHA",[COLOR yellow][I][B]TV3 Catalunya[/B][/I][/COLOR]
