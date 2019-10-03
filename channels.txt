@@ -15,10 +15,14 @@ http://wmsv1.rte.ie/live/smil:iphone.smil/playlist.m3u8|User-Agent=Mozilla/5.0 (
 
 #EXTINF:-1,[COLOR mediumslateblue] REINO UNIDO [/COLOR]
 http://0.0.0.0:1234
+#EXTINF:-1 tvg-id="BBCNews.uk" tvg-logo="https://i.imgur.com/YDYXsqf.png" group-title="REINO UNIDO",[COLOR mediumslateblue][I][B]BBC News[/B][/I][/COLOR]
+https://streamingserver003.viewtvgroup.com:443/kapanglocal-playout-master/index.m3u8
 #EXTINF:-1 tvg-id="SkyNews.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Sky_News_2015_Logo.svg/800px-Sky_News_2015_Logo.svg.png" group-title="REINO UNIDO",[COLOR mediumslateblue][I][B]Sky News[/B][/I][/COLOR]
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
 #EXTINF:-1 tvg-id="CreateCraft.uk" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/createandcraft.png" group-title="REINO UNIDO",[COLOR mediumslateblue][I][B]Create & Craft[/B][/I][/COLOR]
 https://live-craftuk.simplestreamcdn.com/craftuk/3/prog_index.m3u8
+#EXTINF:-1 tvg-id="VenusTV.uk" tvg-logo="https://i.imgur.com/K1AW9O1.png" group-title="REINO UNIDO",[COLOR mediumslateblue][I][B]Venus TV[/B][/I][/COLOR]
+https://a.jsrdn.com/rtmp/22690/index.m3u8
 
 #EXTINF:-1,[COLOR white] PORTUGAL [/COLOR]
 http://0.0.0.0:1234
@@ -53,6 +57,8 @@ https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/chunklist_b64000
 https://streaming-live.rtp.pt/liverepeater/smil:rtpacores.smil/chunklist_b640000_slpt.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play
 #EXTINF:-1 tvg-id="Porto.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Logo_Porto_Canal.jpg/200px-Logo_Porto_Canal.jpg" group-title="PORTUGAL",[COLOR white][I][B]Porto Canal[/B][/I][/COLOR]
 https://streamer-b02.videos.sapo.pt/live/portocanal/playlist.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://rd3.videos.sapo.pt/playhtml?file=http://rd3.videos.sapo.pt/4JUGzdDcLt2yiCPPUZnm/mov/24&relatedVideos=none&autoStart=1
+#EXTINF:-1 tvg-id="TVIReality.pt" tvg-logo="https://i.imgur.com/yM3G8nv.jpg" group-title="PORTUGAL",[COLOR white][I][B]TVI Reality[/B][/I][/COLOR]
+http://video-auth8.iol.pt:80/live_tvi_direct/live_tvi_direct-3/playlist.m3u8
 #EXTINF:-1 tvg-id="SicRadical.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Logosicradical.png/200px-Logosicradical.png" group-title="PORTUGAL",[COLOR white][I][B]SIC Radical[/B][/I][/COLOR]
 http://live.impresa.pt/live/sicrad/sicrad.m3u8
 #http://live.impresa.pt/live/sicrad/sicrad540p.m3u8
@@ -111,68 +117,21 @@ https://593fa17dec176.streamlock.net/csturismo/csturismo.stream/playlist.m3u8
 https://videos.rtva.ad/live/rtva/playlist.m3u8
 #EXTINF:-1 tvg-id="TV3Cat.es" tvg-logo="https://yt3.ggpht.com/a-/AN66SAz2UoIH7dmD0yzR3D4evWGRk-DE0Qu00YJusg=s900-mo-c-c0xffffffff-rj-k-no" group-title="ESPANHA",[COLOR yellow][I][B]TV3 Catalunya[/B][/I][/COLOR]
 http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3cat_web/chunklist_b1296000.m3u8
-#EXTINF:-1 tvg-id="MovistarEsports.es" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/73/Movistar_eSports.png/revision/latest?cb=20170704162248" group-title="ESPANHA",[COLOR yellow][I][B]Movistar Esports[/B][/I][/COLOR]
-https://ccma-tva-int-cellnex-live-hls.secure.footprint.net/cat/ngrp:es3_web/chunklist_b1296000_DVR.m3u8
-#EXTINF:-1 tvg-id="AnimeTV.es" tvg-logo="https://thumbnailer.mixcloud.com/unsafe/300x300/extaudio/1/2/f/d/7d6f-dd5b-4be5-a9b2-e503b2c2c116.jpg" group-title="ESPANHA",[COLOR yellow][I][B]Anime TV[/B][/I][/COLOR]
-http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
-
-#EXTINF:-1,[COLOR cyan] FRANCA [/COLOR]
-http://0.0.0.0:1234
-#EXTINF:-1 tvg-id="TV5Monde.fr" tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/0021/1925/brand.gif?itok=1cN-mqCa" group-title="FRANCA",[COLOR cyan][I][B]TV5 Monde[/B][/I][/COLOR]
-http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/index.m3u8
-#EXTINF:-1 tvg-id="Gong.fr" tvg-logo="http://oklivetv.com/wp-content/uploads/media/27e1d10de6de7c4cc536c77d69643ba4.jpeg" group-title="FRANCA",[COLOR cyan][I][B]Gong[/B][/I][/COLOR]
-http://ec.playmedia.fr/gong-base/live/playlist.m3u8
-#EXTINF:-1 tvg-id="Alsace20.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/67/Alsace_20_logo_2013.png/150px-Alsace_20_logo_2013.png" group-title="FRANCA",[COLOR cyan][I][B]Alsace 20[/B][/I][/COLOR]
-http://live.alsace20.fr/live/alsace20/ngrp:alsace20_all/playlist.m3u8
-#EXTINF:-1 tvg-id="Francophonie.fr" tvg-name="" tvg-logo="http://www.streamytv.net/wp-content/uploads/2015/08/TV-Francophonie.jpg" group-title="FRANCA",[COLOR cyan][I][B]Francophonie 24[/B][/I][/COLOR]
-http://mv2.tvfrancophonie.org/live/Stream1/media_b776739_w671289549.m3u8
-#EXTINF:-1 tvg-id="LEquipe21.fr" tvg-logo="https://www.ledirect.fr/uploads/channels/2263_6872.png" group-title="FRANCA",[COLOR cyan][I][B]L'Equipe 21[/B][/I][/COLOR]
-#http://ec.playmedia.fr/lequipe21/live/playlist.m3u8
-https://s2.tntendirect.com/lequipe21/live/chunks.m3u8
-
-#EXTINF:-1,[COLOR green] ITALIA [/COLOR]
-http://0.0.0.0:1234
-#EXTINF:-1 tvg-id="Rai4.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Rai_4_-_Logo_2016.svg/1280px-Rai_4_-_Logo_2016.svg.png" group-title="ITALIA",[COLOR green][I][B]Rai 4[/B][/I][/COLOR]
-http://b2everyrai-lh.akamaihd.net/i/rai4_1@181951/master.m3u8
-#EXTINF:-1 tvg-id="RaiPremium.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Rai_Premium_-_Logo_2017.svg/160px-Rai_Premium_-_Logo_2017.svg.png" group-title="ITALIA",[COLOR green][I][B]Rai Premium[/B][/I][/COLOR]
-http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/master.m3u8
-#EXTINF:-1 tvg-id="RaiMovie.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Rai_Movie_-_Logo_2017.svg/1200px-Rai_Movie_-_Logo_2017.svg.png" group-title="ITALIA",[COLOR green][I][B]Rai Movie[/B][/I][/COLOR]
-http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
-#EXTINF:-1 tvg-id="RaiNews.it" tvg-logo="http://www.dennisredmont.com/site/wp-content/uploads/2014/07/rainews24.jpg" group-title="ITALIA",[COLOR green][I][B]Rai News 24[/B][/I][/COLOR]
-https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/playlist.m3u8?hdnea=st=1537713618~exp=1537713768~acl=|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=https://www.raiplay.it
-#EXTINF:-1 tvg-id="SkyTG24.it" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/91/SKY_TG24.png" group-title="ITALIA",[COLOR green][I][B]Sky TG24[/B][/I][/COLOR]
-http://skyianywhere2-i.akamaihd.net/hls/live/200275/tg24/playlist.m3u8
-#EXTINF:-1 tvg-id="IRCSport.it" tvg-logo="https://www.ircsporttv.it/assets/front/img/logo.png" group-title="ITALIA",[COLOR green][I][B]IRC Sport TV[/B][/I][/COLOR]
-http://wms.shared.streamshow.it/irctv/mp4:irctv/playlist.m3u8
-
-#EXTINF:-1,[COLOR deepskyblue] ALEMANHA [/COLOR]
-http://0.0.0.0:1234
-#EXTINF:-1 tvg-id="ARD.de" tvg-logo="http://www.daserste.de/specials/das-erste-logo-100~_v-varl_dabd4c.jpg" group-title="ALEMANHA",[COLOR deepskyblue][I][B]Das Erste[/B][/I][/COLOR]
-https://daserstehdint-lh.akamaihd.net/i/daserstehd_int@629195/master.m3u8
-#EXTINF:-1 tvg-id="Tagesschau24.de" tvg-logo="http://www.evard.ch/digitv/logo/tagesschau24.png" group-title="ALEMANHA",[COLOR deepskyblue][I][B]Tagesschau 24[/B][/I][/COLOR]
-http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/master.m3u8
-#EXTINF:-1 tvg-id="DeutscheWelle.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Deutsche_Welle_Logo.svg/1280px-Deutsche_Welle_Logo.svg.png" group-title="ALEMANHA",[COLOR deepskyblue][I][B]DW[/B][/I][/COLOR]
-https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
-#EXTINF:-1 tvg-id="BerlinMetal.de" tvg-logo="https://i.imgur.com/G9R4xyq.jpg" group-title="ALEMANHA",[COLOR deepskyblue][I][B]Berlin Metal TV[/B][/I][/COLOR]
-http://autopilot.myowntv.org/content/33816/index.m3u8
-#EXTINF:-1 tvg-id="Health.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/healthtv.png" group-title="ALEMANHA",[COLOR deepskyblue][I][B]Health TV[/B][/I][/COLOR]
-http://62.67.13.53:1935/HealthTV/ghtv_live_master.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="TirolTV.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/TIROL_TV_Logo.jpg" group-title="ALEMANHA",[COLOR deepskyblue][I][B]Tirol TV[/B][/I][/COLOR]
-http://lb.hd-livestream.de:1935/live/TirolTV/master.m3u8
 
 #EXTINF:-1,[COLOR red] XXX [/COLOR]
 http://0.0.0.0:1234
 #EXTINF:-1 tvg-id="VisitX.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/visitxtv.png" group-title="XXX",[COLOR red][I][B]Visit-X TV[/B][/I][/COLOR]
 https://stream.visit-x.tv/vxtv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="Jasmin.xxx" tvg-logo="http://www.giniko.com/logos/190x110/341.png" group-title="XXX",[COLOR red][I][B]Jasmin TV[/B][/I][/COLOR]
-http://j.mp/S_JasminTVHD_sly?.m3u8
+#http://j.mp/S_JasminTVHD_sly?.m3u8
+http://109.71.162.112:1935/live/hd.jasminchannel.stream/chunklist_w815880410.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ikorRe8.png" group-title="XXX",A3BIKINI TV
+https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/seglist_720p.m3u8
 
 #EXTINF:-1,[COLOR blue] EUA [/COLOR]
 http://0.0.0.0:1234
 #EXTINF:-1 tvg-id="ABC.us" tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/0009/9467/brand.gif?itok=DsfQC3P8" group-title="EUA",[COLOR blue][I][B]ABC[/B][/I][/COLOR]
 http://live.field59.com/wwsb/ngrp:wwsb1_all/playlist.m3u8
-#EXTINF:-1 tvg-id="NBC.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/NBC_2014_Ident.svg/1200px-NBC_2014_Ident.svg.png" group-title="EUA",[COLOR blue][I][B]NBC[/B][/I][/COLOR]
-http://161.0.157.51/PLTV/88888888/224/3221227040/03.m3u8
 #EXTINF:-1, tvg-id="NASA.us" tvg-logo="https://greyareanews.com/wp-content/uploads/2017/10/nasa-logo-web-rgb_0-678x381.gif" group-title="EUA",[COLOR blue][I][B]NASA TV[/B][/I][/COLOR]
 http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8
 #EXTINF:-1, tvg-id="NASAMedia.us" tvg-logo="http://static-cdn1.ustream.tv/i/channel/picture/1/0/4/1/10414700/10414700_nasatv_media_hr_1330361951,640x360,b:1.jpg" group-title="EUA",[COLOR blue][I][B]NASA TV Media Channel[/B][/I][/COLOR]
@@ -185,26 +144,40 @@ http://80.80.160.168/live/9/live.m3u8
 http://80.80.160.168/live/1/live.m3u8
 #EXTINF:-1 tvg-id="WeatherChannel.us" tvg-logo="https://i.imgur.com/D4vJyy9.png" group-title="EUA",[COLOR blue][I][B]The Weather Channel[/B][/I][/COLOR]
 http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
-#EXTINF:-1 tvg-id="360North.us" tvg-logo="http://1.bp.blogspot.com/-n9VkHeKYy9I/TpxlB16n3HI/AAAAAAAABFQ/GORfkU_Nus4/s400/360north_logo_coloronwhite_large%2Bcopy.jpg" group-title="EUA",[COLOR blue][I][B]360 North[/B][/I][/COLOR]
-http://wowzaprod3-i.akamaihd.net/hls/live/252236/2147483647_360north_247/playlist.m3u8
-#EXTINF:-1 tvg-id="BYUTV.us" tvg-logo="https://www.byutv.org/content/png-logos/byutv/app/square/1280x720.png" group-title="EUA",[COLOR blue][I][B]BYU TV[/B][/I][/COLOR]
-https://byubhls-i.akamaihd.net/hls/live/267187/byutvhls/master.m3u8
-#EXTINF:-1 tvg-id="TMZ.us" tvg-logo="https://davidbach.com/wp-content/uploads/2016/04/TMZ-logo.jpg" group-title="EUA",[COLOR blue][I][B]TMZ[/B][/I][/COLOR]
-https://dai1.xumo.com/a7ze70ah55wn6lu4/9999243/master.m3u8
 #EXTINF:-1 tvg-id="CountryNetwork.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/dd/The_Country_Network_Logo.png" group-title="EUA",[COLOR blue][I][B]Country Network[/B][/I][/COLOR]
 https://dcunilive2-lh.akamaihd.net/i/dclive_1@390829/master.m3u8
 #EXTINF:-1 tvg-id="TBD.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c6/TBD_logo_2016.png" group-title="EUA",[COLOR blue][I][B]TBD[/B][/I][/COLOR]
 http://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8
-#EXTINF:-1 tvg-id="AdultSwim.us" tvg-logo="https://fontmeme.com/images/adult-swim-media-logo.png" group-title="EUA",[COLOR blue][I][B]Adult Swim[/B][/I][/COLOR]
-http://adultswimhls-i.akamaihd.net/hls/live/238460/adultswim/main/1/master.m3u8
 #EXTINF:-1 tvg-id="RetroTV.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/retro_tv.png" group-title="EUA",[COLOR blue][I][B]Retro TV[/B][/I][/COLOR]
-http://247retrotv.com:1935/live/smil:247retro.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="AmericanHorrors.us" tvg-logo="http://www.americanhorrors.com/wp-content/uploads/2017/04/logo.png" group-title="EUA",[COLOR blue][I][B]American Horrors[/B][/I][/COLOR]
-http://170.178.189.66:1935/live/Stream1/playlist.m3u8
+http://247retrotv.com:1935/live/smil:247retro.smil/playlist.m3u8?wowzatokenstarttime=0&wowzatokenendtime=1570377852&wowzatokenCustomParameter=myParameter&wowzatokenhash=QpeMk14yWVGJAq8K3aTwE1uyh_Ebsq6VBz0ZN6M3gVs=
 #EXTINF:-1 tvg-id="ClassicArtsShowcase.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Artschannel.png" group-title="EUA",[COLOR blue][I][B]Classic Arts Showcase[/B][/I][/COLOR]
 https://classicarts.global.ssl.fastly.net/live/cas/master_3000k.m3u8
+
 #EXTINF:-1 tvg-id="MLBNetwork.us" tvg-logo="https://i.imgur.com/G9VKlxx.png" group-title="EUA",[COLOR blue][I][B]MLB Network[/B][/I][/COLOR]
 http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
+#EXTINF:-1 tvg-id="IRCSport.it" tvg-logo="https://www.ircsporttv.it/assets/front/img/logo.png" group-title="ITALIA",[COLOR green][I][B]IRC Sport TV[/B][/I][/COLOR]
+#http://wms.shared.streamshow.it/irctv/mp4:irctv/playlist.m3u8
+https://59d7d6f47d7fc.streamlock.net/irctv/irctv/chunklist_w808668903.m3u8
+#EXTINF:-1 tvg-id="LEquipe21.fr" tvg-logo="https://www.ledirect.fr/uploads/channels/2263_6872.png" group-title="FRANCA",[COLOR cyan][I][B]L'Equipe 21[/B][/I][/COLOR]
+#http://ec.playmedia.fr/lequipe21/live/playlist.m3u8
+https://s2.tntendirect.com/lequipe21/live/chunks.m3u8
+#EXTINF:-1 tvg-id="SportTV1.pt" tvg-logo="https://i.imgur.com/hVmWVHj.png" group-title="Portugal",SPORT TV 1
+https://sportbar.biz/lba/123/g6/tv1pt.m3u8
+#EXTINF:-1 tvg-id="HorizonSports.uk" tvg-name="" tvg-logo="https://i.imgur.com/jt6g1Jt.png" group-title="Sport",Horizon Sports
+https://a.jsrdn.com/broadcast/22705/+0000/hi/c.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.bestappletv.com/wp-content/uploads/2017/10/STADIUM_LOGO-620x350_2-620x350.jpg" group-title="",Stadium
+https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/8H7zWLH.jpg" group-title="Sport",Eurosport 1 Russia
+https://sportbar.biz/lba/123/g5/eurosport1rus.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/DMJ9Epc.png" group-title="Sport",Eurosport 2 Russia
+https://sportbar.biz/lba/123/g2/ruseuro2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/smyvTHD.jpg" group-title="Sport",World Of Free Sports TV
+https://a.jsrdn.com/broadcast/22723/+0000/hi/c.m3u8
+
+#EXTINF:-1 tvg-id="food-network" tvg-name="Food Network" tvg-logo="https://i.imgur.com/isBnRCu.png" group-title="Food",Food Network
+http://ott-cdn.ucom.am/s18/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Food",Foodie Channel
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:foodiee/playlist.m3u8
 
 #EXTINF:-1,[COLOR yellowgreen] NOTICIAS [/COLOR]
 http://0.0.0.0:1234
@@ -219,19 +192,19 @@ https://english.streaming.aljazeera.net/aljazeera/english2/index1296.m3u8
 #EXTINF:-1 tvg-id="RT.us" tvg-logo="http://s26.postimg.org/q0yik02p5/5_YEHGFD.jpg" group-title="NOTICIAS",[COLOR yellowgreen][I][B]RT America[/B][/I][/COLOR]
 https://rt-news.secure.footprint.net/1103.m3u8
 #EXTINF:-1 tvg-id="RTDoc.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/RTD-TV-logo.png/220px-RTD-TV-logo.png" group-title="NOTICIAS",[COLOR yellowgreen][I][B]RT Documentary[/B][/I][/COLOR]
-https://rt-doc.secure.footprint.net/1101-inadv-qidx-2k_v3.m3u8
+https://rt-doc-gd.secure2.footprint.net/1101_1600Kb.m3u8
 #EXTINF:-1 tvg-id="CGTN.cn" tvg-logo="http://singteltv.com.sg/_channels/pic_ch211.jpg" group-title="NOTICIAS",[COLOR yellowgreen][I][B]CGTN Documentary[/B][/I][/COLOR]
 https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
 #EXTINF:-1 tvg-id="France24.uk" tvg-logo="" group-title="NOTICIAS",[COLOR yellowgreen][I][B]France 24[/B][/I][/COLOR]
-http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
+https://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
+#EXTINF:-1 tvg-id="DeutscheWelle.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Deutsche_Welle_Logo.svg/1280px-Deutsche_Welle_Logo.svg.png" group-title="NOTICIAS",[COLOR yellowgreen][I][B]DW[/B][/I][/COLOR]
+https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
 #EXTINF:-1 tvg-id="NHKWorld.jp" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/41M2TiBsEnL._SY355_.png" group-title="NOTICIAS",[COLOR yellowgreen][I][B]NHK World[/B][/I][/COLOR]
 https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_1180.m3u8
 #EXTINF:-1 tvg-id="TRTWorld.uk" tvg-logo="https://www.azernews.az/media/2018/07/07/trt_world_070718.png" group-title="NOTICIAS",[COLOR yellowgreen][I][B]TRT World[/B][/I][/COLOR]
 http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
 #EXTINF:-1 tvg-id="CBSNews.us" tvg-logo="https://cbsnews2.cbsistatic.com/hub/i/r/2013/11/08/5ba28169-5bfb-48a6-927c-9b39fec9ffb9/thumbnail/1200x630/1831cd7f24c2a77487092b7956a32bed/cbsnews-stack_1280X960.jpg" group-title="NOTICIAS",[COLOR yellowgreen][I][B]CBS News[/B][/I][/COLOR]
 https://cbsnhls-i.akamaihd.net/hls/live/264710/cbsn_hlsprod_2/master_360.m3u8
-#EXTINF:-1 tvg-id="ABCNews.us" tvg-logo="https://www.maryville.edu/wp-content/uploads/2017/08/Abc-news-logo.png" group-title="NOTICIAS",[COLOR yellowgreen][I][B]ABC News[/B][/I][/COLOR]
-http://abclive2-lh.akamaihd.net/i/abc_live11@423404/master.m3u8
 #EXTINF:-1, tvg-id="VOA.us" tvg-logo="https://freebeacon.com/wp-content/uploads/2013/09/VOA.jpg" group-title="NOTICIAS",[COLOR yellowgreen][I][B]Voice of America[/B][/I][/COLOR]
 https://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/master.m3u8
 #EXTINF:-1 tvg-id="WGN9Chicago.us" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/9/90/Wgn9newsopen.jpg/revision/latest?cb=20151210042859" group-title="NOTICIAS",[COLOR yellowgreen][I][B]WGN 9 Chicago[/B][/I][/COLOR]
@@ -255,6 +228,6 @@ https://eu-all7.secdn.net/runway-live/play/smil:runway.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="FashionTelevision.us" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mC9iGC7EpU4k5DwN-qGtyic9um6kkM0rnQfkQ=s900-mo-c-c0xffffffff-rj-k-no" group-title="FASHION",[COLOR pink][I][B]Fashion Television[/B][/I][/COLOR]
 http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
 #EXTINF:-1 tvg-id="FashionLifestyle.ua" tvg-logo="http://hdfashion.tv/image/og_logo.jpg" group-title="FASHION",[COLOR pink][I][B]Fashion & Lifestyle[/B][/I][/COLOR]
-http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
+http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8?xtreamiptv.m3u8
 #EXTINF:-1 tvg-id="IDFashion.ua" tvg-logo="http://ik.imagekit.io/ulangotv/image/upload/3783508_logo_id_fashion.png" group-title="FASHION",[COLOR pink][I][B]ID Fashion[/B][/I][/COLOR]
-http://idfashion-hls1.cosmonova.net.ua/hls/idfashion_ua_low/index.m3u8
+http://idfashion-hls1.cosmonova.net.ua/hls/idfashion_ua_hi/index.m3u8
