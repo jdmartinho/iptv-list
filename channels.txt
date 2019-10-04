@@ -151,8 +151,14 @@ https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
 https://sportbar.biz/lba/123/g5/eurosport1rus.m3u8
 #EXTINF:-1 tvg-id="Eurosport2.ru" tvg-logo="https://i.imgur.com/DMJ9Epc.png" group-title="DESPORTO",[COLOR orange]Eurosport 2 Russia[/COLOR]
 https://sportbar.biz/lba/123/g2/ruseuro2.m3u8
-#EXTINF:-1 tvg-id="WorldOfFreeSports.uk" tvg-name="" tvg-logo="https://i.imgur.com/smyvTHD.jpg" group-title="DESPORTO",[COLOR orange]World Of Free Sports TV[/COLOR]
+#EXTINF:-1 tvg-id="WorldOfFreeSports.uk" tvg-logo="https://i.imgur.com/smyvTHD.jpg" group-title="DESPORTO",[COLOR orange]World Of Free Sports TV[/COLOR]
 https://a.jsrdn.com/broadcast/22723/+0000/hi/c.m3u8
+#EXTINF:-1 tvg-id="Sportskool.uk" tvg-logo="http://www.sportskool.com/site_images/logo_sportskool.png" group-title="DESPORTO",[COLOR orange]Sportskool[/COLOR]
+https://a.jsrdn.com/broadcast/22697/+0000/hi/c.m3u8
+#EXTINF:-1 tvg-id="OutsideTV.uk" tvg-logo="http://www.outsidetv.com/img/ico/og_image_v2.png" group-title="DESPORTO",[COLOR orange]Outside TV[/COLOR]
+#https://a.jsrdn.com/broadcast/3gT64sH/3000.m3u8
+#https://a.jsrdn.com/broadcast/3gT64sH/1200.m3u8
+https://a.jsrdn.com/broadcast/3gT64sH/2000.m3u8
 
 #EXTINF:-1 tvg-id="FoodNetwork.ru" tvg-logo="https://i.imgur.com/isBnRCu.png" group-title="Food",[COLOR cyan]Food Network[/COLOR]
 http://ott-cdn.ucom.am/s18/index.m3u8
@@ -213,5 +219,5 @@ https://eu-all7.secdn.net/runway-live/play/smil:runway.smil/playlist.m3u8
 http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
 #EXTINF:-1 tvg-id="FashionLifestyle.ua" tvg-logo="http://hdfashion.tv/image/og_logo.jpg" group-title="FASHION",[COLOR pink]Fashion & Lifestyle[/COLOR]
 http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8?xtreamiptv.m3u8
-#EXTINF:-1 tvg-id="IDFashion.ua" tvg-logo="http://ik.imagekit.io/ulangotv/image/upload/3783508_logo_id_fashion.png" group-title="FASHION",[COLOR pink][I][B]ID Fashion[/COLOR]
+#EXTINF:-1 tvg-id="IDFashion.ua" tvg-logo="http://ik.imagekit.io/ulangotv/image/upload/3783508_logo_id_fashion.png" group-title="FASHION",[COLOR pink]ID Fashion[/COLOR]
 http://idfashion-hls1.cosmonova.net.ua/hls/idfashion_ua_hi/index.m3u8
