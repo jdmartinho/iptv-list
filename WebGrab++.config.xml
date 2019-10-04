@@ -18,6 +18,7 @@
   <channel update="i" site="horizon.tv" site_id="IE/eng_753737255354__https://wp3-images-ie-dynamic.horizon.tv/ChannelLogos/02/RTE_News_Now.png" xmltv_id="RTENewsNow.ie">RTE News Now</channel>
 
   <!-- REINO UNIDO -->
+  <channel update="i" site="horizon.tv" site_id="IE/eng_753737255237__https://wp4-images-ie-dynamic.horizon.tv/ChannelLogos/02/BBC_News_24.png" xmltv_id="BBCNews.uk">BBC News</channel>
   <channel update="i" site="horizon.tv" site_id="IE/eng_753737255280__https://wp10-images-ie-dynamic.horizon.tv/ChannelLogos/02/Sky_News.png" xmltv_id="SkyNews.uk">Sky News</channel>
   <channel update="i" site="m.tvguide.co.uk-full" site_id="586" xmltv_id="CreateCraft.uk">Create and Craft</channel>
 
@@ -36,6 +37,7 @@
   <channel update="i" site="rpt.pt" site_id="3" xmltv_id="RtpAcores.pt">RTP Açores</channel>
   <channel update="i" site="nos.pt" site_id="105" xmltv_id="Porto.pt">Porto Canal</channel>
   <channel update="i" site="nos.pt" site_id="61" xmltv_id="SicRadical.pt">SIC Radical</channel>
+  <channel update="i" site="tvi.iol.pt" site_id="programacao/tvireality" xmltv_id="TVIReality.pt">TVI Reality</channel>
   <channel update="i" site="nos.pt" site_id="129" xmltv_id="CacaPesca.pt">Caca e Pesca</channel>
   <channel update="i" site="nos.pt" site_id="58" xmltv_id="Canal180.pt">Canal 180</channel>
   <channel update="i" site="nos.pt" site_id="50" xmltv_id="Mezzo.pt">Mezzo</channel>
@@ -58,25 +60,14 @@
   <channel update="i" site="movistarplus.es" site_id="TVC" xmltv_id="TV3Cat.es">TV3CAT</channel>
   <channel update="i" site="sincroguia.tv" site_id="30" xmltv_id="CanalSur.es">Canal Sur</channel>
 
-  <!-- FRANCA -->
-  <channel update="i" site="nos.pt" site_id="53" xmltv_id="TV5Monde.fr">TV5 Monde</channel>
-  <channel update="i" site="skysiertv.com" site_id="gong" xmltv_id="Gong.fr">Gong</channel>
-  <channel update="i" site="programme-television.org" site_id="524" xmltv_id="Alsace20.fr">Alsace 20</channel>
-  <channel update="i" site="tv.orange.fr" site_id="l-equipe-21_CNT0000008o0yM.html" xmltv_id="LEquipe21.fr">L'Equipe 21</channel>
 
-  <!-- ITALIA -->
-  <channel update="i" site="raiplay.it" site_id="Rai4" xmltv_id="Rai4.it">Rai 4</channel>
-  <channel update="i" site="raiplay.it" site_id="RaiMovie" xmltv_id="RaiMovie.it">Rai Movie</channel>
-  <channel update="i" site="raiplay.it" site_id="RaiPremium" xmltv_id="RaiPremium.it">Rai Premium</channel>
-  <channel update="i" site="raiplay.it" site_id="RaiNews24" xmltv_id="RaiNews.it">Rai News</channel>
-  <channel update="i" site="guidatv.sky.it" site_id="sky-tg24-hd" xmltv_id="SkyTG24.it">Sky TG24</channel>
+  <!-- DESPORTO -->
+  <channel update="i" site="cabovisao.pt" site_id="sport_tv11_thumb" xmltv_id="SportTV1.pt">Sport TV1</channel>
+  <channel update="i" site="horizon.tv" site_id="RO/ron_552441895098__https://wp16-images-ro-dynamic.horizon.tv/RO/Logos/focused/38_10063_c_058e27acf183803cc0fdb8d185850f63.png" xmltv_id="Eurosport1.ru">Eurosport 1 Russia</channel>
+  <channel update="i" site="horizon.tv" site_id="RO/ron_552441895248__https://wp27-images-ro-dynamic.horizon.tv/RO/Logos/focused/38_10065_c_ff09b5a5a99fb3043043d1e4f6c1b350.png" xmltv_id="Eurosport2.ru">Eurosport 2 Russia</channel>
+  <channel update="i" site="streamingtvguides.com.E" site_id="STADIUM" xmltv_id="Stadium.us">Stadium</channel>
 
-  <!-- ALEMANHA -->
-  <channel update="i" site="tvdigital.de" site_id="daserste" xmltv_id="ARD.de">Das Erste</channel>
-  <channel update="i" site="tvdigital.de" site_id="tagesschau24" xmltv_id="Tagesschau24.de">Tagesschau24</channel>
-  <channel update="i" site="dw.com" site_id="5_4765/1" xmltv_id="DeutscheWelle.de">DW</channel>
-  <channel update="i" site="horizon.tv" site_id="DE/deu_810575911132__https://wp9-images-de-dynamic.horizon.tv/ChannelLogos/02/health_tv.png" xmltv_id="Health.de">Health TV</channel>
-  <channel update="i" site="horizon.tv" site_id="AT/deu_694397991027__https://wp24-images-at-dynamic.horizon.tv/Logos/StaticConfig/TIROL_TV_colour.png" xmltv_id="TirolTV.de">Tirol TV</channel>
+  <channel update="i" site="jkt.firstmedia.com" site_id="foodie" xmltv_id="Foodie.id">Foodie</channel>
 
   <!-- NOTICIAS -->
   <channel update="i" site="horizon.tv" site_id="AT/deu_554823718998__https://wp16-images-at-dynamic.horizon.tv/Logos/1185.f.png" xmltv_id="BloombergEurope.uk">Bloomberg Europe</channel>
@@ -84,6 +75,7 @@
   <channel update="i" site="nos.pt" site_id="165" xmltv_id="RT.us">RT</channel>
   <channel update="i" site="guidatv.sky.it" site_id="rt-doc-hd" xmltv_id="RTDoc.us">RT Documentary</channel>
   <channel update="i" site="nos.pt" site_id="109" xmltv_id="France24.uk">France 24</channel>
+  <channel update="i" site="dw.com" site_id="5_4765/1" xmltv_id="DeutscheWelle.de">DW</channel>
   <channel update="i" site="nos.pt" site_id="46" xmltv_id="NHKWorld.jp">NHK World</channel>
   <channel update="i" site="digiturk.com.tr" site_id="468" xmltv_id="TRTWorld.uk">TRT World</channel>
 
