@@ -2,7 +2,8 @@
 #EXTINF:-1 tvg-id="VirginMediaOne.ie" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c9/Virgin_Media_One_logo.png" group-title="IRLANDA",[COLOR lime]Virgin Media 1[/COLOR]
 http://csm-e.cds1.yospace.com/csm/extlive/tv3ie01,tv3-prd.m3u8
 #EXTINF:-1 tvg-id="TG4.ie" tvg-logo="https://media.glassdoor.com/sqll/1161918/tg4-squarelogo-1452886334240.png" group-title="IRLANDA",[COLOR lime]TG4[/COLOR]
-http://csm-e.cds1.yospace.com/csm/live/74246540.m3u8
+#http://csm-e.cds1.yospace.com/csm/live/74246540.m3u8
+http://csm-e.cds1.yospace.com/csm/live/74246610.m3u8
 #EXTINF:-1 tvg-id="VirginMediaTwo.ie" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4f/Virgin_Media_Two_logo.png" group-title="IRLANDA",[COLOR lime]Virgin Media 2[/COLOR]
 http://csm-e.cds1.yospace.com/csm/extlive/tv3ie01,3e-prd.m3u8
 #EXTINF:-1 tvg-id="VirginMediaThree.ie" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/09/Virgin_Media_Three_logo.png" group-title="IRLANDA",[COLOR lime]Virgin Media 3[/COLOR]
@@ -69,7 +70,7 @@ http://www.djing.com/tv/dancefloor.m3u8
 
 #EXTINF:-1 tvg-id="LA1.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/TVE_La1_-_Logo_2008.png/200px-TVE_La1_-_Logo_2008.png" group-title="ESPANHA",[COLOR yellow]La 1[/COLOR]
 http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8
-#EXTINF:-1 tvg-id="LA2.es" tvg-logo="" group-title="ESPANHA",[COLOR yellow]La 2[/COLOR]
+#EXTINF:-1 tvg-id="LA2.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/Logo_TVE-2.svg" group-title="ESPANHA",[COLOR yellow]La 2[/COLOR]
 http://hlsliveamdgl0-lh.akamaihd.net/i/hlslive_1@586367/index_1500_av-p.m3u8
 #EXTINF:-1 tvg-id="Antena3.es" tvg-logo="https://assets.fontsinuse.com/static/use-media-items/67/66342/upto-700xauto/5ad8d23f/antena3_logo_nuevo.jpeg" group-title="ESPANHA",[COLOR yellow]Antena 3[/COLOR]
 https://livestartover-i.akamaized.net/antena3/master.m3u8
@@ -79,7 +80,7 @@ https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_2.m3u8
 https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_2.m3u8
 #EXTINF:-1 tvg-id="LaSexta.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/La_Sexta_%28A3M%29.svg/1200px-La_Sexta_%28A3M%29.svg.png" group-title="ESPANHA",[COLOR yellow]La Sexta[/COLOR]
 https://livestartover-i.akamaized.net/lasexta/master.m3u8
-#EXTINF:-1 tvg-id="BeMad.es" tvg-logo="" group-title="ESPANHA",[COLOR yellow]Be Mad[/COLOR]
+#EXTINF:-1 tvg-id="BeMad.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/Be_Mad_TV.svg" group-title="ESPANHA",[COLOR yellow]Be Mad[/COLOR]
 https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_2.m3u8
 #EXTINF:-1 tvg-id="RTVE24.es" tvg-logo="http://latelete.tv/img/24h.png" group-title="ESPANHA",[COLOR yellow]RTVE 24[/COLOR]
 http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl8/24h_onlydash_lv3_aosv4_gl8/24h_onlydash_lv3_aosv4_gl8.isml/24h_onlydash_lv3_aosv4_gl8.m3u8
