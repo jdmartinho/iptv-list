@@ -13,11 +13,15 @@ http://csm-e.cds1.yospace.com/csm/extlive/tv3ie01,be3-prd.m3u8
 http://wmsv1.rte.ie/live/smil:iphone.smil/playlist.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rte.ie/play
 
 #EXTINF:-1 tvg-id="BBCNews.uk" tvg-logo="https://i.imgur.com/YDYXsqf.png" group-title="REINO UNIDO",[COLOR mediumslateblue]BBC News[/COLOR]
-https://streamingserver003.viewtvgroup.com:443/kapanglocal-playout-master/index.m3u8
+https://streamingserver001.viewtvgroup.com/kapanglivetv-uksat-bbcnews/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="BBCWorldNews.uk" tvg-logo="https://i.pinimg.com/originals/83/73/f2/8373f25627f4b30ddf209051d92c32ce.jpg" group-title="REINO UNIDO",[COLOR mediumslateblue]BBC World News[/COLOR]
+http://ott-cdn.ucom.am/s24/04.m3u8
 #EXTINF:-1 tvg-id="SkyNews.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Sky_News_2015_Logo.svg/800px-Sky_News_2015_Logo.svg.png" group-title="REINO UNIDO",[COLOR mediumslateblue]Sky News[/COLOR]
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
 #EXTINF:-1 tvg-id="CreateCraft.uk" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/createandcraft.png" group-title="REINO UNIDO",[COLOR mediumslateblue]Create & Craft[/COLOR]
 https://live-craftuk.simplestreamcdn.com/craftuk/3/prog_index.m3u8
+#EXTINF:-1 tvg-id="ViewTVBerkshire.uk" tvg-logo="https://2ztp623067el53wfyaf7sj1d-wpengine.netdna-ssl.com/berkshire/wp-content/uploads/sites/14/2019/10/ViewTVLocal_Berkshire_WebLogo_White_331x93px-1.png" group-title="REINO UNIDO",[COLOR mediumslateblue]View TV Berkshire[/COLOR]
+https://streamingserver003.viewtvgroup.com/kapanglocal-playout-master/index.m3u8
 #EXTINF:-1 tvg-id="VenusTV.uk" tvg-logo="https://i.imgur.com/K1AW9O1.png" group-title="REINO UNIDO",[COLOR mediumslateblue]Venus TV[/COLOR]
 https://a.jsrdn.com/rtmp/22690/index.m3u8
 
@@ -144,6 +148,8 @@ https://59d7d6f47d7fc.streamlock.net/irctv/irctv/chunklist_w808668903.m3u8
 https://s2.tntendirect.com/lequipe21/live/chunks.m3u8
 #EXTINF:-1 tvg-id="SportTV1.pt" tvg-logo="https://i.imgur.com/hVmWVHj.png" group-title="DESPORTO",[COLOR orange]Sport TV 1[/COLOR]
 https://sportbar.biz/lba/123/g6/tv1pt.m3u8
+#EXTINF:-1 tvg-id="SportTV2.pt" tvg-logo="https://i.imgur.com/hVmWVHj.png" group-title="DESPORTO",[COLOR orange]Sport TV 2[/COLOR]
+https://sportbar.biz/lba/123/g1/sport2port.m3u8
 #EXTINF:-1 tvg-id="HorizonSports.uk" tvg-name="" tvg-logo="https://i.imgur.com/jt6g1Jt.png" group-title="DESPORTO",[COLOR orange]Horizon Sports[/COLOR]
 https://a.jsrdn.com/broadcast/22705/+0000/hi/c.m3u8
 #EXTINF:-1 tvg-id="Stadium.us" tvg-logo="https://www.bestappletv.com/wp-content/uploads/2017/10/STADIUM_LOGO-620x350_2-620x350.jpg" group-title="DESPORTO",[COLOR orange]Stadium[/COLOR]

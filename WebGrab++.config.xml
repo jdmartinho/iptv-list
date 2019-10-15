@@ -43,29 +43,29 @@
   <channel update="i" site="nos.pt" site_id="50" xmltv_id="Mezzo.pt">Mezzo</channel>
 
   <!-- ESPANHA -->
-  <channel update="i" site="movistarplus.es" site_id="TVE" xmltv_id="LA1.es">La 1</channel>
-  <channel update="i" site="movistarplus.es" site_id="LA2" xmltv_id="LA2.es">La 2</channel>
-  <channel update="i" site="movistarplus.es" site_id="A3" xmltv_id="Antena3.es">Antena 3</channel>
-  <channel update="i" site="movistarplus.es" site_id="C4" xmltv_id="Cuatro.es">Cuatro</channel>
-  <channel update="i" site="movistarplus.es" site_id="T5" xmltv_id="Telecinco.es">Telecinco</channel>
-  <channel update="i" site="movistarplus.es" site_id="SEXTA" xmltv_id="LaSexta.es">La Sexta</channel>
-  <channel update="i" site="movistarplus.es" site_id="BEMAD" xmltv_id="BeMad.es">BE MAD</channel>
-  <channel update="i" site="movistarplus.es" site_id="24H" xmltv_id="RTVE24.es">RTVE 24</channel>
-  <channel update="i" site="movistarplus.es" site_id="3_24" xmltv_id="3/24.es">3/24</channel>
-  <channel update="i" site="movistarplus.es" site_id="13TV" xmltv_id="Trece.es">Trece</channel>
-  <channel update="i" site="movistarplus.es" site_id="TELMAD" xmltv_id="TeleMadrid.es">Telemadrid</channel>
+  <channel update="i" site="sincroguia.tv.2d" site_id="la-1" xmltv_id="LA1.es">La 1</channel>
+  <channel update="i" site="sincroguia.tv.2d" site_id="la-2" xmltv_id="LA2.es">La 2</channel>
+  <channel update="i" site="sincroguia.tv.2d" site_id="antena-3" xmltv_id="Antena3.es">Antena 3</channel>
+  <channel update="i" site="sincroguia.tv.2d" site_id="cuatro" xmltv_id="Cuatro.es">Cuatro</channel>
+  <channel update="i" site="sincroguia.tv.2d" site_id="telecinco" xmltv_id="Telecinco.es">Telecinco</channel>
+  <channel update="i" site="sincroguia.tv.2d" site_id="lasexta" xmltv_id="LaSexta.es">La Sexta</channel>
+  <channel update="i" site="sincroguia.tv.2d" site_id="be-mad" xmltv_id="BeMad.es">BE MAD</channel>
+  <channel update="i" site="sincroguia.tv.2d" site_id="canal-24-horas" xmltv_id="RTVE24.es">RTVE 24</channel>
+  <channel update="i" site="sincroguia.tv.2d" site_id="324" xmltv_id="3/24.es">3/24</channel>
+  <channel update="i" site="sincroguia.tv.2d" site_id="13tv" xmltv_id="Trece.es">Trece</channel>
+  <channel update="i" site="sincroguia.tv.2d" site_id="telemadrid" xmltv_id="TeleMadrid.es">Telemadrid</channel>
   <channel update="i" site="plus.es" site_id="OTRA" xmltv_id="LaOtra.es">La Otra</channel>
-  <channel update="i" site="movistarplus.es" site_id="EXTRE" xmltv_id="CanalExtremadura.es">Canal Extremadura</channel>
-  <channel update="i" site="movistarplus.es" site_id="TVG" xmltv_id="TVGalicia.es">TV Galicia</channel>
-  <channel update="i" site="movistarplus.es" site_id="TVC" xmltv_id="TV3Cat.es">TV3CAT</channel>
-  <channel update="i" site="sincroguia.tv" site_id="30" xmltv_id="CanalSur.es">Canal Sur</channel>
+  <channel update="i" site="sincroguia.tv.2d" site_id="canal-extremadura-tv" xmltv_id="CanalExtremadura.es">Canal Extremadura</channel>
+  <channel update="i" site="sincroguia.tv.2d" site_id="galicia-tv" xmltv_id="TVGalicia.es">TV Galicia</channel>
+  <channel update="i" site="sincroguia.tv.2d" site_id="tv3cat" xmltv_id="TV3Cat.es">TV3CAT</channel>
+  <channel update="i" site="sincroguia.tv.2d" site_id="canal-sur-andalucia" xmltv_id="CanalSur.es">Canal Sur</channel>
 
 
   <!-- DESPORTO -->
-  <channel update="i" site="cabovisao.pt" site_id="sport_tv11_thumb" xmltv_id="SportTV1.pt">Sport TV1</channel>
-  <channel update="i" site="horizon.tv" site_id="RO/ron_552441895098__https://wp16-images-ro-dynamic.horizon.tv/RO/Logos/focused/38_10063_c_058e27acf183803cc0fdb8d185850f63.png" xmltv_id="Eurosport1.ru">Eurosport 1 Russia</channel>
-  <channel update="i" site="horizon.tv" site_id="RO/ron_552441895248__https://wp27-images-ro-dynamic.horizon.tv/RO/Logos/focused/38_10065_c_ff09b5a5a99fb3043043d1e4f6c1b350.png" xmltv_id="Eurosport2.ru">Eurosport 2 Russia</channel>
-  <channel update="i" site="streamingtvguides.com.E" site_id="STADIUM" xmltv_id="Stadium.us">Stadium</channel>
+  <channel update="i" site="nowo.pt" site_id="sport_tv11_" xmltv_id="SportTV1.pt">Sport TV1</channel>
+  <channel update="i" site="nowo.pt" site_id="sport_tv21_" xmltv_id="SportTV2.pt">Sport TV2</channel>
+  <channel update="i" site="nos.pt" site_id="10" xmltv_id="Eurosport1.ru">Eurosport 1 Russia</channel>
+  <channel update="i" site="nos.pt" site_id="128" xmltv_id="Eurosport2.ru">Eurosport 2 Russia</channel>
 
   <channel update="i" site="jkt.firstmedia.com" site_id="foodie" xmltv_id="Foodie.id">Foodie</channel>
 
