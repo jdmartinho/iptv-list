@@ -140,25 +140,17 @@ https://classicarts.global.ssl.fastly.net/live/cas/master_3000k.m3u8
 
 #EXTINF:-1 tvg-id="MLBNetwork.us" tvg-logo="https://i.imgur.com/G9VKlxx.png" group-title="DESPORTO",[COLOR orange]MLB Network[/COLOR]
 http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
+#EXTINF:-1 tvg-id="Stadium.us" tvg-logo="https://www.bestappletv.com/wp-content/uploads/2017/10/STADIUM_LOGO-620x350_2-620x350.jpg" group-title="DESPORTO",[COLOR orange]Stadium[/COLOR]
+https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
+#EXTINF:-1 tvg-id="ESPN.us" tvg-logo="https://i.imgur.com/zQSTKzm.png" group-title="DESPORTO",[COLOR orange]ESPN[/COLOR]
+https://cvtv.cvalley.net/hls/ESPNHD/ESPNHD.m3u8
+#EXTINF:-1 tvg-id="ESPN2.us" tvg-logo="https://i.imgur.com/JtSSvss.png" group-title="DESPORTO",[COLOR orange]ESPN 2[/COLOR]
+https://cvtv.cvalley.net/hls/ESPN2HD/ESPN2HD.m3u8
 #EXTINF:-1 tvg-id="IRCSport.it" tvg-logo="https://www.ircsporttv.it/assets/front/img/logo.png" group-title="DESPORTO",[COLOR orange]IRC Sport TV[/COLOR]
 #http://wms.shared.streamshow.it/irctv/mp4:irctv/playlist.m3u8
 https://59d7d6f47d7fc.streamlock.net/irctv/irctv/chunklist_w808668903.m3u8
-#EXTINF:-1 tvg-id="LEquipe21.fr" tvg-logo="https://www.ledirect.fr/uploads/channels/2263_6872.png" group-title="DESPORTO",[COLOR orange]L'Equipe 21[/COLOR]
-#http://ec.playmedia.fr/lequipe21/live/playlist.m3u8
-https://s2.tntendirect.com/lequipe21/live/chunks.m3u8
-#EXTINF:-1 tvg-id="SportTV1.pt" tvg-logo="https://i.imgur.com/hVmWVHj.png" group-title="DESPORTO",[COLOR orange]Sport TV 1[/COLOR]
-https://sportbar.biz/lba/123/g6/tv1pt.m3u8
-#EXTINF:-1 tvg-id="SportTV2.pt" tvg-logo="https://i.imgur.com/hVmWVHj.png" group-title="DESPORTO",[COLOR orange]Sport TV 2[/COLOR]
-https://sportbar.biz/lba/123/g1/sport2port.m3u8
 #EXTINF:-1 tvg-id="HorizonSports.uk" tvg-name="" tvg-logo="https://i.imgur.com/jt6g1Jt.png" group-title="DESPORTO",[COLOR orange]Horizon Sports[/COLOR]
 https://a.jsrdn.com/broadcast/22705/+0000/hi/c.m3u8
-#EXTINF:-1 tvg-id="Stadium.us" tvg-logo="https://www.bestappletv.com/wp-content/uploads/2017/10/STADIUM_LOGO-620x350_2-620x350.jpg" group-title="DESPORTO",[COLOR orange]Stadium[/COLOR]
-https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
-#EXTINF:-1 tvg-id="Eurosport1.ru" tvg-logo="https://i.imgur.com/8H7zWLH.jpg" group-title="DESPORTO",[COLOR orange]Eurosport 1[/COLOR]
-https://tv.si/ts/EUROSPORT/stream_multi.m3u8|User-Agent=AppleCoreMedia/1.0.0.8C148 (iPad; U; CPU OS 4_2_1 like Mac OS X; en_us)&mode=12"
-#http://telesfor.kartoshkaka.ru/iptv/GLDUAPK7AMTDMX/141/index.m3u8
-#EXTINF:-1 tvg-id="Eurosport2.ru" tvg-logo="https://i.imgur.com/DMJ9Epc.png" group-title="DESPORTO",[COLOR orange]Eurosport 2 Russia[/COLOR]
-http://9cc8074b.melpakomn.ru/iptv/64M42VMW5MMUVN/234/index.m3u8
 #EXTINF:-1 tvg-id="WorldOfFreeSports.uk" tvg-logo="https://i.imgur.com/smyvTHD.jpg" group-title="DESPORTO",[COLOR orange]World Of Free Sports TV[/COLOR]
 https://a.jsrdn.com/broadcast/22723/+0000/hi/c.m3u8
 #EXTINF:-1 tvg-id="Sportskool.uk" tvg-logo="http://www.sportskool.com/site_images/logo_sportskool.png" group-title="DESPORTO",[COLOR orange]Sportskool[/COLOR]
@@ -167,6 +159,20 @@ https://a.jsrdn.com/broadcast/22697/+0000/hi/c.m3u8
 #https://a.jsrdn.com/broadcast/3gT64sH/3000.m3u8
 #https://a.jsrdn.com/broadcast/3gT64sH/1200.m3u8
 https://a.jsrdn.com/broadcast/3gT64sH/2000.m3u8
+#EXTINF:-1 tvg-id="LEquipe21.fr" tvg-logo="https://www.ledirect.fr/uploads/channels/2263_6872.png" group-title="DESPORTO",[COLOR orange]L'Equipe 21[/COLOR]
+#http://ec.playmedia.fr/lequipe21/live/playlist.m3u8
+https://s2.tntendirect.com/lequipe21/live/chunks.m3u8
+#EXTINF:-1 tvg-id="SportTV1.pt" tvg-logo="https://i.imgur.com/hVmWVHj.png" group-title="DESPORTO",[COLOR orange]Sport TV 1[/COLOR]
+https://sportbar.biz/lba/123/g6/tv1pt.m3u8
+#EXTINF:-1 tvg-id="SportTV2.pt" tvg-logo="https://i.imgur.com/hVmWVHj.png" group-title="DESPORTO",[COLOR orange]Sport TV 2[/COLOR]
+https://sportbar.biz/lba/123/g1/sport2port.m3u8
+#EXTINF:-1 tvg-id="Eurosport1.ru" tvg-logo="https://i.imgur.com/8H7zWLH.jpg" group-title="DESPORTO",[COLOR orange]Eurosport 1[/COLOR]
+https://tv.si/ts/EUROSPORT/stream_multi.m3u8|User-Agent=AppleCoreMedia/1.0.0.8C148 (iPad; U; CPU OS 4_2_1 like Mac OS X; en_us)&mode=12"
+#http://telesfor.kartoshkaka.ru/iptv/GLDUAPK7AMTDMX/141/index.m3u8
+#EXTINF:-1 tvg-id="Eurosport2.ru" tvg-logo="https://i.imgur.com/DMJ9Epc.png" group-title="DESPORTO",[COLOR orange]Eurosport 2 Russia[/COLOR]
+http://9cc8074b.melpakomn.ru/iptv/64M42VMW5MMUVN/234/index.m3u8
+#EXTINF:-1 tvg-id="GolTV.us" tvg-logo="https://i.imgur.com/OxIKeaX.jpg" group-title="SpDESPORTOort",[COLOR orange]Gol TV[/COLOR]
+http://trinity-lh.akamaihd.net/i/GolTVModel4A_d@422865/index_500_av-p.m3u8
 
 #EXTINF:-1 tvg-id="FoodNetwork.ru" tvg-logo="https://i.imgur.com/isBnRCu.png" group-title="Food",[COLOR cyan]Food Network[/COLOR]
 http://ott-cdn.ucom.am/s18/index.m3u8

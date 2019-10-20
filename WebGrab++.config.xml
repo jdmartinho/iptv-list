@@ -6,7 +6,7 @@
   <postprocess grab="y" run="n">mdb</postprocess>
   <user-agent>Mozilla/5.0 (Windows NT 6.1; WOW64; rv:29.0) Gecko/20100101 Firefox/29.0</user-agent>
   <logging>on</logging>
-  <retry time-out="5">4</retry>
+  <retry time-out="5">2</retry>
   <timespan>7</timespan>
   <update>f</update>
 
@@ -19,6 +19,7 @@
 
   <!-- REINO UNIDO -->
   <channel update="i" site="horizon.tv" site_id="IE/eng_753737255237__https://wp4-images-ie-dynamic.horizon.tv/ChannelLogos/02/BBC_News_24.png" xmltv_id="BBCNews.uk">BBC News</channel>
+  <channel update="i" site="horizon.tv" site_id="IE/eng_753737255288__https://wp20-images-ie-dynamic.horizon.tv/ChannelLogos/02/BBC_World.png" xmltv_id="BBCWorldNews.uk">BBC World News</channel>
   <channel update="i" site="horizon.tv" site_id="IE/eng_753737255280__https://wp10-images-ie-dynamic.horizon.tv/ChannelLogos/02/Sky_News.png" xmltv_id="SkyNews.uk">Sky News</channel>
   <channel update="i" site="m.tvguide.co.uk-full" site_id="586" xmltv_id="CreateCraft.uk">Create and Craft</channel>
 
@@ -62,12 +63,10 @@
 
 
   <!-- DESPORTO -->
-  <channel update="i" site="nowo.pt" site_id="sport_tv11_" xmltv_id="SportTV1.pt">Sport TV1</channel>
-  <channel update="i" site="nowo.pt" site_id="sport_tv21_" xmltv_id="SportTV2.pt">Sport TV2</channel>
-  <channel update="i" site="nos.pt" site_id="10" xmltv_id="Eurosport1.ru">Eurosport 1 Russia</channel>
-  <channel update="i" site="nos.pt" site_id="128" xmltv_id="Eurosport2.ru">Eurosport 2 Russia</channel>
-
-  <channel update="i" site="jkt.firstmedia.com" site_id="foodie" xmltv_id="Foodie.id">Foodie</channel>
+  <!--<channel update="i" site="nowo.pt" site_id="sport_tv11_" xmltv_id="SportTV1.pt">Sport TV1</channel>
+  <channel update="i" site="nowo.pt" site_id="sport_tv21_" xmltv_id="SportTV2.pt">Sport TV2</channel>-->
+  <channel update="i" site="nos.pt" site_id="10" xmltv_id="Eurosport1.ru">Eurosport 1</channel>
+  <channel update="i" site="nos.pt" site_id="128" xmltv_id="Eurosport2.ru">Eurosport 2</channel>
 
   <!-- NOTICIAS -->
   <channel update="i" site="horizon.tv" site_id="AT/deu_554823718998__https://wp16-images-at-dynamic.horizon.tv/Logos/1185.f.png" xmltv_id="BloombergEurope.uk">Bloomberg Europe</channel>
