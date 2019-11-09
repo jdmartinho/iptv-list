@@ -8,12 +8,7 @@ http://csm-e.cds1.yospace.com/csm/live/74246610.m3u8
 http://csm-e.cds1.yospace.com/csm/extlive/tv3ie01,3e-prd.m3u8
 #EXTINF:-1 tvg-id="VirginMediaThree.ie" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/09/Virgin_Media_Three_logo.png" group-title="IRLANDA",[COLOR lime]Virgin Media 3[/COLOR]
 http://csm-e.cds1.yospace.com/csm/extlive/tv3ie01,be3-prd.m3u8
-#EXTINF:-1 tvg-id="RTENewsNow.ie" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/db/Rtenewsnownewlogo.png" group-title="IRLANDA",[COLOR lime]RTE News Now[/COLOR]
-#http://cdn.rasset.ie/hls-live/_definst_/newsnow/newsnow-576.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rte.ie/play
-http://wmsv1.rte.ie/live/smil:iphone.smil/playlist.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rte.ie/play
 
-#EXTINF:-1 tvg-id="BBCNews.uk" tvg-logo="https://i.imgur.com/YDYXsqf.png" group-title="REINO UNIDO",[COLOR mediumslateblue]BBC News[/COLOR]
-https://streamingserver001.viewtvgroup.com/kapanglivetv-uksat-bbcnews/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="BBCWorldNews.uk" tvg-logo="https://i.pinimg.com/originals/83/73/f2/8373f25627f4b30ddf209051d92c32ce.jpg" group-title="REINO UNIDO",[COLOR mediumslateblue]BBC World News[/COLOR]
 http://ott-cdn.ucom.am/s24/04.m3u8
 #EXTINF:-1 tvg-id="SkyNews.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Sky_News_2015_Logo.svg/800px-Sky_News_2015_Logo.svg.png" group-title="REINO UNIDO",[COLOR mediumslateblue]Sky News[/COLOR]
@@ -22,8 +17,6 @@ http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
 https://live-craftuk.simplestreamcdn.com/craftuk/3/prog_index.m3u8
 #EXTINF:-1 tvg-id="ViewTVBerkshire.uk" tvg-logo="https://2ztp623067el53wfyaf7sj1d-wpengine.netdna-ssl.com/berkshire/wp-content/uploads/sites/14/2019/10/ViewTVLocal_Berkshire_WebLogo_White_331x93px-1.png" group-title="REINO UNIDO",[COLOR mediumslateblue]View TV Berkshire[/COLOR]
 https://streamingserver003.viewtvgroup.com/kapanglocal-playout-master/index.m3u8
-#EXTINF:-1 tvg-id="VenusTV.uk" tvg-logo="https://i.imgur.com/K1AW9O1.png" group-title="REINO UNIDO",[COLOR mediumslateblue]Venus TV[/COLOR]
-https://a.jsrdn.com/rtmp/22690/index.m3u8
 
 #EXTINF:-1 tvg-id="Rtp1.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/RTP1_2016.png/200px-RTP1_2016.png" group-title="PORTUGAL",[COLOR white]RTP 1[/COLOR]
 http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtp1_5ch5h264.stream/playlist.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36
@@ -117,16 +110,16 @@ http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3cat_web/chu
 
 #EXTINF:-1 tvg-id="ABC.us" tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/0009/9467/brand.gif?itok=DsfQC3P8" group-title="EUA",[COLOR blue]ABC[/COLOR]
 http://live.field59.com/wwsb/ngrp:wwsb1_all/playlist.m3u8
+#EXTINF:-1 tvg-id="ABCLosAngeles.us" tvg-logo="https://i.imgur.com/mz3b5QW.png" group-title="EUA",[COLOR blue]ABC 7 Los Angeles CA (KABC-TV)[/COLOR]
+https://content-ausc1.uplynk.com/channel/7f4366ed88e344da86947eb0fa080ec2/f.m3u8?exp=1527750966&ct=c&cid=7f4366ed88e344da86947eb0fa080ec2&sig=37af99214f85e55b1dfbec4030d06a8dee848131f8be1421ef36fbbae30e5387&pbs=cc5c74a2900d47b48ce4ec207b247a2d
+#EXTINF:-1 tvg-id="NBCSanJose.us" tvg-logo="https://i.imgur.com/jrWg5qE.jpg" group-title="EUA",[COLOR blue]NBC San Jose CA (KNTV)[/COLOR]
+https://kntvlive-f.akamaihd.net/i/kntvb2_1@15530/master.m3u8
+#EXTINF:-1 tvg-id="CBSKansasCity.us" tvg-logo="https://i.imgur.com/QqQbJaN.png" group-title="EUA",[COLOR blue]CBS 5 Kansas City MO (KCTV)[/COLOR]
+https://cvtv.cvalley.net/hls/KCTVCBS/KCTVCBS.m3u8
+#EXTINF:-1 tvg-id="FOXBoston.us" tvg-logo="https://media.myfoxbostoncom.cmgdigital.com/photo/2018/07/19/logo-main-wfxt_1532037842427_12380292_ver1.0.png" group-title="EUA",[COLOR blue]Boston 25 News (WFXT)[/COLOR]
+http://svc-lvanvato-cxtv-wfxt.cmgvideo.com:80/wfxt/2564k/index.m3u8
 #EXTINF:-1, tvg-id="NASA.us" tvg-logo="https://greyareanews.com/wp-content/uploads/2017/10/nasa-logo-web-rgb_0-678x381.gif" group-title="EUA",[COLOR blue]NASA TV[/COLOR]
-http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8
-#EXTINF:-1, tvg-id="NASAMedia.us" tvg-logo="http://static-cdn1.ustream.tv/i/channel/picture/1/0/4/1/10414700/10414700_nasatv_media_hr_1330361951,640x360,b:1.jpg" group-title="EUA",[COLOR blue]NASA TV Media Channel[/COLOR]
-http://iphone-streaming.ustream.tv/uhls/10414700/streams/live/iphone/playlist.m3u8
-#EXTINF:-1 tvg-id="DiscoveryChannel.us" tvg-logo="https://images.indiegogo.com/file_attachments/592625/files/20140520123321-discovery-channel-logo-2013deadliest-catch-presents-the-captains-concert-at-sxsw-tickets-cgyauhvw.jpg?1400614401" group-title="EUA",[COLOR blue]Discovery Channel[/COLOR]
-http://80.80.160.168/live/8/live.m3u8
-#EXTINF:-1 tvg-id="ScienceChannel.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/Science_Channel_2016.png" group-title="EUA",[COLOR blue]Science Channel[/COLOR]
-http://80.80.160.168/live/9/live.m3u8
-#EXTINF:-1 tvg-id="AnimalPlanet.us" tvg-logo="https://s3-eu-central-1.amazonaws.com/centaur-wp/designweek/prod/content/uploads/2018/10/25115647/AnimalPlanet_Vertical_OneLineLarge_RGB-002.jpg" group-title="EUA",[COLOR blue]Animal Planet[/COLOR]
-http://80.80.160.168/live/1/live.m3u8
+https://hls.ums.ustream.tv/playlist/directhls/channel/6540154/playlist.m3u8?sgn=31d0dfb847c358d4cedcd2256dc4e1c42a7f13a7
 #EXTINF:-1 tvg-id="WeatherChannel.us" tvg-logo="https://i.imgur.com/D4vJyy9.png" group-title="EUA",[COLOR blue]The Weather Channel[/COLOR]
 http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
 #EXTINF:-1 tvg-id="CountryNetwork.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/dd/The_Country_Network_Logo.png" group-title="EUA",[COLOR blue]Country Network[/COLOR]
@@ -191,6 +184,8 @@ https://english.streaming.aljazeera.net/aljazeera/english2/index1296.m3u8
 https://rt-news.secure.footprint.net/1103.m3u8
 #EXTINF:-1 tvg-id="RTDoc.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/RTD-TV-logo.png/220px-RTD-TV-logo.png" group-title="NOTICIAS",[COLOR yellowgreen]RT Documentary[/COLOR]
 https://rt-doc-gd.secure2.footprint.net/1101_1600Kb.m3u8
+#EXTINF:-1 tvg-id="Arte.fr" tvg-logo="https://i.imgur.com/zthzjPs.png" group-title="NOTICIAS",[COLOR yellowgreen]Arte[/COLOR]
+https://s1.tntendirect.com/arte/live/playlist.m3u8
 #EXTINF:-1 tvg-id="CGTN.cn" tvg-logo="http://singteltv.com.sg/_channels/pic_ch211.jpg" group-title="NOTICIAS",[COLOR yellowgreen]CGTN Documentary[/COLOR]
 https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
 #EXTINF:-1 tvg-id="France24.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/1200px-FRANCE_24_logo.svg.png" group-title="NOTICIAS",[COLOR yellowgreen]France 24[/COLOR]

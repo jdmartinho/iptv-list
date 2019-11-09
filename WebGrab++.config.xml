@@ -15,10 +15,8 @@
   <channel update="i" site="horizon.tv" site_id="IE/eng_753737255278__https://wp3-images-ie-dynamic.horizon.tv/ChannelLogos/02/TG4_HD.png" xmltv_id="TG4.ie">TG4</channel>
   <channel update="i" site="horizon.tv" site_id="IE/eng_770396711194__https://wp2-images-ie-dynamic.horizon.tv/ChannelLogos/02/3e_HD.png" xmltv_id="VirginMediaTwo.ie">Virgin Media 2</channel>
   <channel update="i" site="horizon.tv" site_id="IE/eng_753737255257__https://wp13-images-ie-dynamic.horizon.tv/ChannelLogos/02/be3_HD.png" xmltv_id="VirginMediaThree.ie">Virgin Media 3</channel>
-  <channel update="i" site="horizon.tv" site_id="IE/eng_753737255354__https://wp3-images-ie-dynamic.horizon.tv/ChannelLogos/02/RTE_News_Now.png" xmltv_id="RTENewsNow.ie">RTE News Now</channel>
 
   <!-- REINO UNIDO -->
-  <channel update="i" site="horizon.tv" site_id="IE/eng_753737255237__https://wp4-images-ie-dynamic.horizon.tv/ChannelLogos/02/BBC_News_24.png" xmltv_id="BBCNews.uk">BBC News</channel>
   <channel update="i" site="horizon.tv" site_id="IE/eng_753737255288__https://wp20-images-ie-dynamic.horizon.tv/ChannelLogos/02/BBC_World.png" xmltv_id="BBCWorldNews.uk">BBC World News</channel>
   <channel update="i" site="horizon.tv" site_id="IE/eng_753737255280__https://wp10-images-ie-dynamic.horizon.tv/ChannelLogos/02/Sky_News.png" xmltv_id="SkyNews.uk">Sky News</channel>
   <channel update="i" site="m.tvguide.co.uk-full" site_id="586" xmltv_id="CreateCraft.uk">Create and Craft</channel>
@@ -38,7 +36,7 @@
   <channel update="i" site="rpt.pt" site_id="3" xmltv_id="RtpAcores.pt">RTP Açores</channel>
   <channel update="i" site="nos.pt" site_id="105" xmltv_id="Porto.pt">Porto Canal</channel>
   <channel update="i" site="nos.pt" site_id="61" xmltv_id="SicRadical.pt">SIC Radical</channel>
-  <channel update="i" site="tvi.iol.pt" site_id="programacao/tvireality" xmltv_id="TVIReality.pt">TVI Reality</channel>
+  <channel update="i" site="nos.pt" site_id="382" xmltv_id="TVIReality.pt">TVI Reality</channel>
   <channel update="i" site="nos.pt" site_id="129" xmltv_id="CacaPesca.pt">Caca e Pesca</channel>
   <channel update="i" site="nos.pt" site_id="58" xmltv_id="Canal180.pt">Canal 180</channel>
   <channel update="i" site="nos.pt" site_id="50" xmltv_id="Mezzo.pt">Mezzo</channel>
@@ -51,34 +49,33 @@
   <channel update="i" site="sincroguia.tv.2d" site_id="telecinco" xmltv_id="Telecinco.es">Telecinco</channel>
   <channel update="i" site="sincroguia.tv.2d" site_id="lasexta" xmltv_id="LaSexta.es">La Sexta</channel>
   <channel update="i" site="sincroguia.tv.2d" site_id="be-mad" xmltv_id="BeMad.es">BE MAD</channel>
-  <channel update="i" site="sincroguia.tv.2d" site_id="canal-24-horas" xmltv_id="RTVE24.es">RTVE 24</channel>
+  <channel update="i" site="nos.pt" site_id="172" xmltv_id="RTVE24.es">RTVE 24</channel>
   <channel update="i" site="sincroguia.tv.2d" site_id="324" xmltv_id="3/24.es">3/24</channel>
   <channel update="i" site="sincroguia.tv.2d" site_id="13tv" xmltv_id="Trece.es">Trece</channel>
   <channel update="i" site="sincroguia.tv.2d" site_id="telemadrid" xmltv_id="TeleMadrid.es">Telemadrid</channel>
   <channel update="i" site="plus.es" site_id="OTRA" xmltv_id="LaOtra.es">La Otra</channel>
   <channel update="i" site="sincroguia.tv.2d" site_id="canal-extremadura-tv" xmltv_id="CanalExtremadura.es">Canal Extremadura</channel>
-  <channel update="i" site="sincroguia.tv.2d" site_id="galicia-tv" xmltv_id="TVGalicia.es">TV Galicia</channel>
+  <channel update="i" site="nos.pt" site_id="54" xmltv_id="TVGalicia.es">TV Galicia</channel>
   <channel update="i" site="sincroguia.tv.2d" site_id="tv3cat" xmltv_id="TV3Cat.es">TV3CAT</channel>
   <channel update="i" site="sincroguia.tv.2d" site_id="canal-sur-andalucia" xmltv_id="CanalSur.es">Canal Sur</channel>
 
 
   <!-- DESPORTO -->
-  <!--<channel update="i" site="nowo.pt" site_id="sport_tv11_" xmltv_id="SportTV1.pt">Sport TV1</channel>
-  <channel update="i" site="nowo.pt" site_id="sport_tv21_" xmltv_id="SportTV2.pt">Sport TV2</channel>-->
+  <channel update="i" site="nos.pt" site_id="17" xmltv_id="SportTV1.pt">Sport TV 1</channel>
+  <channel update="i" site="nos.pt" site_id="95" xmltv_id="SportTV2.pt">Sport TV 2</channel>
   <channel update="i" site="nos.pt" site_id="10" xmltv_id="Eurosport1.ru">Eurosport 1</channel>
   <channel update="i" site="nos.pt" site_id="128" xmltv_id="Eurosport2.ru">Eurosport 2</channel>
 
   <!-- NOTICIAS -->
-  <channel update="i" site="horizon.tv" site_id="AT/deu_554823718998__https://wp16-images-at-dynamic.horizon.tv/Logos/1185.f.png" xmltv_id="BloombergEurope.uk">Bloomberg Europe</channel>
+  <!--<channel update="i" site="horizon.tv" site_id="AT/deu_554823718998__https://wp16-images-at-dynamic.horizon.tv/Logos/1185.f.png" xmltv_id="BloombergEurope.uk">Bloomberg Europe</channel>-->
+  <channel update="i" site="nos.pt" site_id="44" xmltv_id="BloombergEurope.uk">Bloomberg Europe</channel>
   <channel update="i" site="nos.pt" site_id="108" xmltv_id="AlJazeeraEnglish.qa">Al Jazeera</channel>
   <channel update="i" site="nos.pt" site_id="165" xmltv_id="RT.us">RT</channel>
   <channel update="i" site="guidatv.sky.it" site_id="rt-doc-hd" xmltv_id="RTDoc.us">RT Documentary</channel>
+  <channel update="i" site="nos.pt" site_id="41" xmltv_id="Arte.fr">Arte</channel>
   <channel update="i" site="nos.pt" site_id="109" xmltv_id="France24.uk">France 24</channel>
-  <channel update="i" site="dw.com" site_id="5_4765/1" xmltv_id="DeutscheWelle.de">DW</channel>
+  <!--<channel update="i" site="dw.com" site_id="5_4765/1" xmltv_id="DeutscheWelle.de">DW</channel>-->
+  <channel update="i" site="nos.pt" site_id="115" xmltv_id="DeutscheWelle.de">DW</channel>
   <channel update="i" site="nos.pt" site_id="46" xmltv_id="NHKWorld.jp">NHK World</channel>
   <channel update="i" site="digiturk.com.tr" site_id="468" xmltv_id="TRTWorld.uk">TRT World</channel>
-
-  <!-- FASHION -->
-  <channel update="i" site="horizon.tv" site_id="CH/deu_27909159297__https://wp3-images-ch-dynamic.horizon.tv/channellogos/02/fashion_tv.png" xmltv_id="FashionTV.fr">Fashion TV</channel>
-  <channel update="i" site="teleguide.info" site_id="100017" xmltv_id="WorldFashion.ru">World Fashion Channel</channel>
 </settings>
