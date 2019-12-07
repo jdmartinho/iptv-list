@@ -144,18 +144,17 @@ https://a.jsrdn.com/broadcast/22697/+0000/hi/c.m3u8
 https://a.jsrdn.com/broadcast/3gT64sH/2000.m3u8
 #EXTINF:-1 tvg-id="LEquipe21.fr" tvg-logo="https://www.ledirect.fr/uploads/channels/2263_6872.png" group-title="DESPORTO",[COLOR orange]L'Equipe 21[/COLOR]
 #http://ec.playmedia.fr/lequipe21/live/playlist.m3u8
-https://s2.tntendirect.com/lequipe21/live/chunks.m3u8
+#https://s2.tntendirect.com/lequipe21/live/chunks.m3u8
+https://s1.tntendirect.com/lequipe21/live/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvOC8yMDE5IDEyOjA4OjQ1IFBNJmhhc2hfdmFsdWU9UWlVRUZ4WWZ2amt2Ny9paVlnSzJjZz09JnZhbGlkbWludXRlcz0zMA==
 #EXTINF:-1 tvg-id="SportTV1.pt" tvg-logo="https://i.imgur.com/hVmWVHj.png" group-title="DESPORTO",[COLOR orange]Sport TV 1[/COLOR]
 https://sportbar.biz/lba/123/g6/tv1pt.m3u8
 #EXTINF:-1 tvg-id="SportTV2.pt" tvg-logo="https://i.imgur.com/hVmWVHj.png" group-title="DESPORTO",[COLOR orange]Sport TV 2[/COLOR]
 https://sportbar.biz/lba/123/g1/sport2port.m3u8
+#EXTINF:-1 tvg-id="SportTV3.pt" tvg-logo="https://i.imgur.com/hVmWVHj.png" group-title="DESPORTO",[COLOR orange]Sport TV 3[/COLOR]
+https://sportbar.biz/lba/123/g2/pt3sport.m3u8
 #EXTINF:-1 tvg-id="Eurosport1.ru" tvg-logo="https://i.imgur.com/8H7zWLH.jpg" group-title="DESPORTO",[COLOR orange]Eurosport 1[/COLOR]
 https://tv.si/ts/EUROSPORT/stream_multi.m3u8|User-Agent=AppleCoreMedia/1.0.0.8C148 (iPad; U; CPU OS 4_2_1 like Mac OS X; en_us)&mode=12"
 #http://telesfor.kartoshkaka.ru/iptv/GLDUAPK7AMTDMX/141/index.m3u8
-#EXTINF:-1 tvg-id="Eurosport2.ru" tvg-logo="https://i.imgur.com/DMJ9Epc.png" group-title="DESPORTO",[COLOR orange]Eurosport 2 Russia[/COLOR]
-http://9cc8074b.melpakomn.ru/iptv/64M42VMW5MMUVN/234/index.m3u8
-#EXTINF:-1 tvg-id="GolTV.us" tvg-logo="https://i.imgur.com/OxIKeaX.jpg" group-title="SpDESPORTOort",[COLOR orange]Gol TV[/COLOR]
-http://trinity-lh.akamaihd.net/i/GolTVModel4A_d@422865/index_500_av-p.m3u8
 
 #EXTINF:-1 tvg-id="FoodNetwork.ru" tvg-logo="https://i.imgur.com/isBnRCu.png" group-title="Food",[COLOR cyan]Food Network[/COLOR]
 http://ott-cdn.ucom.am/s18/index.m3u8
@@ -175,15 +174,15 @@ https://rt-news.secure.footprint.net/1103.m3u8
 #EXTINF:-1 tvg-id="RTDoc.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/RTD-TV-logo.png/220px-RTD-TV-logo.png" group-title="NOTICIAS",[COLOR yellowgreen]RT Documentary[/COLOR]
 https://rt-doc-gd.secure2.footprint.net/1101_1600Kb.m3u8
 #EXTINF:-1 tvg-id="Arte.fr" tvg-logo="https://i.imgur.com/zthzjPs.png" group-title="NOTICIAS",[COLOR yellowgreen]Arte[/COLOR]
-https://s1.tntendirect.com/arte/live/playlist.m3u8
-#EXTINF:-1 tvg-id="CGTN.cn" tvg-logo="http://singteltv.com.sg/_channels/pic_ch211.jpg" group-title="NOTICIAS",[COLOR yellowgreen]CGTN Documentary[/COLOR]
-https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
+https://s7.tntendirect.com/arte/live/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvOC8yMDE5IDEyOjA3OjE2IFBNJmhhc2hfdmFsdWU9eVBpcVBUYWJEVnlYNTFDZlZEMnF3QT09JnZhbGlkbWludXRlcz0zMA==
 #EXTINF:-1 tvg-id="France24.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/1200px-FRANCE_24_logo.svg.png" group-title="NOTICIAS",[COLOR yellowgreen]France 24[/COLOR]
 https://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
 #EXTINF:-1 tvg-id="DeutscheWelle.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Deutsche_Welle_Logo.svg/1280px-Deutsche_Welle_Logo.svg.png" group-title="NOTICIAS",[COLOR yellowgreen]DW[/COLOR]
 https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
 #EXTINF:-1 tvg-id="NHKWorld.jp" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/41M2TiBsEnL._SY355_.png" group-title="NOTICIAS",[COLOR yellowgreen]NHK World[/COLOR]
 https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_1180.m3u8
+#EXTINF:-1 tvg-id="CGTN.cn" tvg-logo="http://singteltv.com.sg/_channels/pic_ch211.jpg" group-title="NOTICIAS",[COLOR yellowgreen]CGTN Documentary[/COLOR]
+https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
 #EXTINF:-1 tvg-id="TRTWorld.uk" tvg-logo="https://www.azernews.az/media/2018/07/07/trt_world_070718.png" group-title="NOTICIAS",[COLOR yellowgreen]TRT World[/COLOR]
 http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
 #EXTINF:-1 tvg-id="CBSNews.us" tvg-logo="https://cbsnews2.cbsistatic.com/hub/i/r/2013/11/08/5ba28169-5bfb-48a6-927c-9b39fec9ffb9/thumbnail/1200x630/1831cd7f24c2a77487092b7956a32bed/cbsnews-stack_1280X960.jpg" group-title="NOTICIAS",[COLOR yellowgreen]CBS News[/COLOR]
@@ -210,13 +209,14 @@ https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_mi
 #EXTINF:-1 tvg-id="WorldFashion.ru" tvg-logo="https://www.akado.ru/lp/wfc/WF_logo_.jpg" group-title="FASHION",[COLOR pink]World Fashion Channel[/COLOR]
 https://wfc.bonus-tv.ru/cdn/wfcint/index.m3u8
 #EXTINF:-1 tvg-id="GlobalFashion.us" tvg-logo="https://s3.amazonaws.com/ctm-tm/016759516.JPG" group-title="FASHION",[COLOR pink]Global Fashion Channel[/COLOR]
-https://vcnglobalfashionchannel.teleosmedia.com/stream/globalfashionchannel/globalfashionchannel/seglist_540p.m3u8
+#https://vcnglobalfashionchannel.teleosmedia.com/stream/globalfashionchannel/globalfashionchannel/seglist_540p.m3u8
+https://gfc-ms-elb.adsparx.net/hlslive/globalfashionchannel2/1/globalfashionchannel2.m3u8?profID=2&n=1&ctype=0&userParams=gdpr%3D0%26device_type%3DDT%26VPI%3DMP4%26content_page_url%3Dhttp%3A%2F%2Fportal.globalfashionchannel.com%26player_width%3D1920%26player_height%3D1080%26pod%5Bsize%5D%3D3&adsid=AW7gZESHjSmd1K0ARV-4&chname=globalfashionchannel2&pub=d06c55fd-9d68-42fc-a9ce-4b6b7c646c2d&acsurl=gfc-tass-elb.adsparx.net&mcdn=gfc-ms-elb.adsparx.net
 #EXTINF:-1 tvg-id="Runway.us" tvg-logo="http://www.shockya.com/news/wp-content/uploads/runway-tv.png" group-title="FASHION",[COLOR pink]Runway TV[/COLOR]
 https://eu-all7.secdn.net/runway-live/play/smil:runway.smil/playlist.m3u8
 #http://runway.videocdn.scaleengine.net/runway-iphone/play/runway/chunklist.m3u8
 #EXTINF:-1 tvg-id="FashionTelevision.us" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mC9iGC7EpU4k5DwN-qGtyic9um6kkM0rnQfkQ=s900-mo-c-c0xffffffff-rj-k-no" group-title="FASHION",[COLOR pink]Fashion Television[/COLOR]
 http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
 #EXTINF:-1 tvg-id="FashionLifestyle.ua" tvg-logo="http://hdfashion.tv/image/og_logo.jpg" group-title="FASHION",[COLOR pink]Fashion & Lifestyle[/COLOR]
-http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8?xtreamiptv.m3u8
+http://95.67.47.114/hls/hdfashion_ua_hi/index.m3u8
 #EXTINF:-1 tvg-id="IDFashion.ua" tvg-logo="http://ik.imagekit.io/ulangotv/image/upload/3783508_logo_id_fashion.png" group-title="FASHION",[COLOR pink]ID Fashion[/COLOR]
-http://idfashion-hls1.cosmonova.net.ua/hls/idfashion_ua_hi/index.m3u8
+https://idfashion-hls3.cosmonova.net.ua/hls/idfashion_ua_hi/index.m3u8
