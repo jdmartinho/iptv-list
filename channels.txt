@@ -173,6 +173,8 @@ https://english.streaming.aljazeera.net/aljazeera/english2/index1296.m3u8
 https://rt-news.secure.footprint.net/1103.m3u8
 #EXTINF:-1 tvg-id="RTDoc.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/RTD-TV-logo.png/220px-RTD-TV-logo.png" group-title="NOTICIAS",[COLOR yellowgreen]RT Documentary[/COLOR]
 https://rt-doc-gd.secure2.footprint.net/1101_1600Kb.m3u8
+#EXTINF:-1 tvg-id="TV5Monde.fr" tvg-logo="https://europe.tv5monde.com/sites/tv5_locaux/files/2019-07/europe.png" group-title="NOTICIAS",[COLOR yellowgreen]TV5 Monde[/COLOR]
+https://tv5monde-europe-live.akamaized.net/live/fs/crw02/ch11/fs-crw02-11/8757fafc-0f27-0c0c-d135-8980d3fccd1d/live.isml/live.m3u8
 #EXTINF:-1 tvg-id="Arte.fr" tvg-logo="https://i.imgur.com/zthzjPs.png" group-title="NOTICIAS",[COLOR yellowgreen]Arte[/COLOR]
 https://s7.tntendirect.com/arte/live/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvOC8yMDE5IDEyOjA3OjE2IFBNJmhhc2hfdmFsdWU9eVBpcVBUYWJEVnlYNTFDZlZEMnF3QT09JnZhbGlkbWludXRlcz0zMA==
 #EXTINF:-1 tvg-id="France24.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/1200px-FRANCE_24_logo.svg.png" group-title="NOTICIAS",[COLOR yellowgreen]France 24[/COLOR]
