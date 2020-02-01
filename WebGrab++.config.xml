@@ -15,27 +15,22 @@
   <channel update="i" site="horizon.tv" site_id="IE/eng_753737255278__https://wp3-images-ie-dynamic.horizon.tv/ChannelLogos/02/TG4_HD.png" xmltv_id="TG4.ie">TG4</channel>
   <channel update="i" site="horizon.tv" site_id="IE/eng_770396711194__https://wp2-images-ie-dynamic.horizon.tv/ChannelLogos/02/3e_HD.png" xmltv_id="VirginMediaTwo.ie">Virgin Media 2</channel>
   <channel update="i" site="horizon.tv" site_id="IE/eng_753737255257__https://wp13-images-ie-dynamic.horizon.tv/ChannelLogos/02/be3_HD.png" xmltv_id="VirginMediaThree.ie">Virgin Media 3</channel>
+  <channel update="i" site="horizon.tv" site_id="IE/eng_753737255354__https://wp3-images-ie-dynamic.horizon.tv/ChannelLogos/02/RTE_News_Now.png" xmltv_id="RTENewsNow.ie">RTE News Now</channel>
 
   <!-- REINO UNIDO -->
   <channel update="i" site="horizon.tv" site_id="IE/eng_753737255288__https://wp20-images-ie-dynamic.horizon.tv/ChannelLogos/02/BBC_World.png" xmltv_id="BBCWorldNews.uk">BBC World News</channel>
-  <channel update="i" site="horizon.tv" site_id="IE/eng_753737255280__https://wp10-images-ie-dynamic.horizon.tv/ChannelLogos/02/Sky_News.png" xmltv_id="SkyNews.uk">Sky News</channel>
-  <channel update="i" site="m.tvguide.co.uk-full" site_id="586" xmltv_id="CreateCraft.uk">Create and Craft</channel>
+  <channel update="i" site="horizon.tv" site_id="IE/eng_753737255280__https://wp10-images-ie-dynamic.horizon.tv/ChannelLogos/02/Sky_News.png" xmltv_id="SkyNews.uk">Sky News</channel>  
 
   <!-- PORTUGAL -->
   <channel update="i" site="rpt.pt" site_id="1" xmltv_id="Rtp1.pt">RTP 1</channel>
-  <channel update="i" site="rpt.pt" site_id="8" xmltv_id="Rtp2.pt">RTP 2</channel>
-  <channel update="i" site="nos.pt" site_id="7" xmltv_id="Sic.pt">SIC</channel>
-  <channel update="i" site="nos.pt" site_id="8" xmltv_id="Tvi.pt">TVI</channel>
-  <channel update="i" site="rpt.pt" site_id="7" xmltv_id="Rtp3.pt">RTP 3</channel>
-  <channel update="i" site="nos.pt" site_id="9" xmltv_id="SicNoticias.pt">SIC Noticias</channel>
-  <channel update="i" site="nos.pt" site_id="160" xmltv_id="Tvi24.pt">TVI24</channel>
+  <channel update="i" site="rpt.pt" site_id="8" xmltv_id="Rtp2.pt">RTP 2</channel>  
+  <channel update="i" site="rpt.pt" site_id="7" xmltv_id="Rtp3.pt">RTP 3</channel>  
   <channel update="i" site="rpt.pt" site_id="9" xmltv_id="RtpMemoria.pt">RTP Memória</channel>
   <channel update="i" site="rpt.pt" site_id="5" xmltv_id="RTPInternacional.pt">RTP Internacional</channel>
   <channel update="i" site="rpt.pt" site_id="6" xmltv_id="RtpAfrica.pt">RTP África</channel>
   <channel update="i" site="rpt.pt" site_id="4" xmltv_id="RtpMadeira.pt">RTP Madeira</channel>
   <channel update="i" site="rpt.pt" site_id="3" xmltv_id="RtpAcores.pt">RTP Açores</channel>
-  <channel update="i" site="nos.pt" site_id="105" xmltv_id="Porto.pt">Porto Canal</channel>
-  <channel update="i" site="nos.pt" site_id="61" xmltv_id="SicRadical.pt">SIC Radical</channel>
+  <channel update="i" site="nos.pt" site_id="105" xmltv_id="Porto.pt">Porto Canal</channel>  
   <channel update="i" site="nos.pt" site_id="382" xmltv_id="TVIReality.pt">TVI Reality</channel>
   <channel update="i" site="nos.pt" site_id="129" xmltv_id="CacaPesca.pt">Caca e Pesca</channel>
   <channel update="i" site="nos.pt" site_id="58" xmltv_id="Canal180.pt">Canal 180</channel>
@@ -50,31 +45,24 @@
   <channel update="i" site="movistarplus.es" site_id="SEXTA" xmltv_id="LaSexta.es">La Sexta</channel>
   <channel update="i" site="movistarplus.es" site_id="BEMAD" xmltv_id="BeMad.es">BE MAD</channel>
   <channel update="i" site="movistarplus.es" site_id="3_24" xmltv_id="3/24.es">3/24</channel>
-  <channel update="i" site="movistarplus.es" site_id="13TV" xmltv_id="Trece.es">Trece</channel>
-  <channel update="i" site="movistarplus.es" site_id="TELMAD" xmltv_id="TeleMadrid.es">Telemadrid</channel>
-  <channel update="i" site="plus.es" site_id="OTRA" xmltv_id="LaOtra.es">La Otra</channel>
-  <channel update="i" site="movistarplus.es" site_id="EXTRE" xmltv_id="CanalExtremadura.es">Canal Extremadura</channel>
-  <channel update="i" site="movistarplus.es" site_id="TVC" xmltv_id="TV3Cat.es">TV3CAT</channel>
-  <channel update="i" site="sincroguia.tv.2d" site_id="canal-sur-andalucia" xmltv_id="CanalSur.es">Canal Sur</channel> -->
+  <channel update="i" site="movistarplus.es" site_id="13TV" xmltv_id="Trece.es">Trece</channel>  
+  <channel update="i" site="movistarplus.es" site_id="EXTRE" xmltv_id="CanalExtremadura.es">Canal Extremadura</channel>-->
   <channel update="i" site="nos.pt" site_id="172" xmltv_id="RTVE24.es">RTVE 24</channel>
   <channel update="i" site="nos.pt" site_id="54" xmltv_id="TVGalicia.es">TV Galicia</channel>
 
 
   <!-- DESPORTO -->
-  <channel update="i" site="nos.pt" site_id="17" xmltv_id="SportTV1.pt">Sport TV 1</channel>
+  <!--<channel update="i" site="nos.pt" site_id="17" xmltv_id="SportTV1.pt">Sport TV 1</channel>
   <channel update="i" site="nos.pt" site_id="95" xmltv_id="SportTV2.pt">Sport TV 2</channel>
-  <channel update="i" site="nos.pt" site_id="136" xmltv_id="SportTV3.pt">Sport TV 3</channel>
+  <channel update="i" site="nos.pt" site_id="136" xmltv_id="SportTV3.pt">Sport TV 3</channel>-->
   <channel update="i" site="nos.pt" site_id="10" xmltv_id="Eurosport1.ru">Eurosport 1</channel>
   
-  <!-- NOTICIAS -->
-  <!--<channel update="i" site="horizon.tv" site_id="AT/deu_554823718998__https://wp16-images-at-dynamic.horizon.tv/Logos/1185.f.png" xmltv_id="BloombergEurope.uk">Bloomberg Europe</channel>-->
+  <!-- NOTICIAS -->  
   <channel update="i" site="nos.pt" site_id="44" xmltv_id="BloombergEurope.uk">Bloomberg Europe</channel>
   <channel update="i" site="nos.pt" site_id="108" xmltv_id="AlJazeeraEnglish.qa">Al Jazeera</channel>
   <channel update="i" site="nos.pt" site_id="165" xmltv_id="RT.us">RT</channel>
   <channel update="i" site="filmon.com" site_id="1981" xmltv_id="RTDoc.us">RT Documentary</channel>
-  <channel update="i" site="nos.pt" site_id="41" xmltv_id="Arte.fr">Arte</channel>
-  <channel update="i" site="nos.pt" site_id="109" xmltv_id="France24.uk">France 24</channel>
-  <!--<channel update="i" site="dw.com" site_id="5_4765/1" xmltv_id="DeutscheWelle.de">DW</channel>-->
+  <channel update="i" site="nos.pt" site_id="109" xmltv_id="France24.uk">France 24</channel>  
   <channel update="i" site="nos.pt" site_id="115" xmltv_id="DeutscheWelle.de">DW</channel>
   <channel update="i" site="nos.pt" site_id="46" xmltv_id="NHKWorld.jp">NHK World</channel>
   <channel update="i" site="digiturk.com.tr" site_id="468" xmltv_id="TRTWorld.uk">TRT World</channel>
