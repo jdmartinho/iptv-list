@@ -119,12 +119,6 @@ https://a.jsrdn.com/broadcast/22697/+0000/hi/c.m3u8
 #https://a.jsrdn.com/broadcast/3gT64sH/3000.m3u8
 #https://a.jsrdn.com/broadcast/3gT64sH/1200.m3u8
 https://a.jsrdn.com/broadcast/3gT64sH/2000.m3u8
-#EXTINF:-1 tvg-id="SportTV1.pt" tvg-logo="https://i.imgur.com/hVmWVHj.png" group-title="DESPORTO",[COLOR orange]Sport TV 1[/COLOR]
-https://sportbar.biz/lba/123/g6/tv1pt.m3u8
-#EXTINF:-1 tvg-id="SportTV2.pt" tvg-logo="https://i.imgur.com/hVmWVHj.png" group-title="DESPORTO",[COLOR orange]Sport TV 2[/COLOR]
-https://sportbar.biz/lba/123/g1/sport2port.m3u8
-#EXTINF:-1 tvg-id="SportTV3.pt" tvg-logo="https://i.imgur.com/hVmWVHj.png" group-title="DESPORTO",[COLOR orange]Sport TV 3[/COLOR]
-https://sportbar.biz/lba/123/g2/pt3sport.m3u8
 #EXTINF:-1 tvg-id="Eurosport1.ru" tvg-logo="https://i.imgur.com/8H7zWLH.jpg" group-title="DESPORTO",[COLOR orange]Eurosport 1[/COLOR]
 https://tv.si/ts/EUROSPORT/stream_multi.m3u8|User-Agent=AppleCoreMedia/1.0.0.8C148 (iPad; U; CPU OS 4_2_1 like Mac OS X; en_us)&mode=12"
 #http://telesfor.kartoshkaka.ru/iptv/GLDUAPK7AMTDMX/141/index.m3u8
