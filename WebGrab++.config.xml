@@ -60,6 +60,7 @@
   
   <!-- NOTICIAS -->  
   <channel update="i" site="nos.pt" site_id="44" xmltv_id="BloombergEurope.uk">Bloomberg Europe</channel>
+  <channel update="i" site="nos.pt" site_id="26" xmltv_id="CNN.us">CNN</channel>
   <channel update="i" site="nos.pt" site_id="108" xmltv_id="AlJazeeraEnglish.qa">Al Jazeera</channel>
   <channel update="i" site="nos.pt" site_id="165" xmltv_id="RT.us">RT</channel>
   <channel update="i" site="filmon.com" site_id="1981" xmltv_id="RTDoc.us">RT Documentary</channel>

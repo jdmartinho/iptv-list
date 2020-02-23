@@ -106,6 +106,14 @@ http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
 http://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8
 #EXTINF:-1 tvg-id="ClassicArtsShowcase.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Artschannel.png" group-title="EUA",[COLOR blue]Classic Arts Showcase[/COLOR]
 https://classicarts.global.ssl.fastly.net/live/cas/master_3000k.m3u8
+#EXTINF:-1 tvg-id="ID.us" tvg-logo="https://static.iptv-epg.com/us/InvestigationDiscovery.us.png" group-title="EUA",[COLOR blue]ID[/COLOR]
+http://ott.artmott.com/ID/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Syfy.us" tvg-logo="https://static.iptv-epg.com/hr/SciFi.hr.png" group-title="EUA",[COLOR blue]Syfy[/COLOR]
+http://ott.artmott.com/sci-fi/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="AMC.us" tvg-logo="https://static.iptv-epg.com/co/AMC.co.png" group-title="EUA",[COLOR blue]AMC[/COLOR]
+http://ott.artmott.com/AMC/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="E.us" tvg-logo="http://logok.org/wp-content/uploads/2014/05/E-Logo_Black.png" group-title="EUA",[COLOR blue]E![/COLOR]
+http://ott.artmott.com/E!/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Stadium.us" tvg-logo="https://www.bestappletv.com/wp-content/uploads/2017/10/STADIUM_LOGO-620x350_2-620x350.jpg" group-title="DESPORTO",[COLOR orange]Stadium[/COLOR]
 https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
@@ -119,6 +127,8 @@ https://a.jsrdn.com/broadcast/22697/+0000/hi/c.m3u8
 #https://a.jsrdn.com/broadcast/3gT64sH/3000.m3u8
 #https://a.jsrdn.com/broadcast/3gT64sH/1200.m3u8
 https://a.jsrdn.com/broadcast/3gT64sH/2000.m3u8
+#EXTINF:-1 tvg-id="OlympicChannel.us" tvg-logo="https://static.iptv-epg.com/us/OlympicChannel.us.png" group-title="DESPORTO",[COLOR orange]Olympic Channel[/COLOR]
+https://ott-live.olympicchannel.com/out/u/OC1_1.m3u8
 #EXTINF:-1 tvg-id="Eurosport1.uk" tvg-logo="https://i.imgur.com/8H7zWLH.jpg" group-title="DESPORTO",[COLOR orange]Eurosport 1[/COLOR]
 https://tv.si/ts/EUROSPORT/stream_multi.m3u8|User-Agent=AppleCoreMedia/1.0.0.8C148 (iPad; U; CPU OS 4_2_1 like Mac OS X; en_us)&mode=12"
 #http://ott.artmott.com/eurosport1/playlist.m3u8
@@ -135,6 +145,8 @@ http://liveprodeuwest.global.ssl.fastly.net/eu1/Channel-EUTVqvs-AWS-ireland-1/So
 http://live.chdrstatic.com/cheddar/index.m3u8
 #EXTINF:-1, tvg-id="CheddarNews.us" tvg-logo="https://static-us-east-2-fastly-a.www.philo.com/images/channel_logos/CBNSTR/large_dark.png?auto=webp&format=png8" group-title="NOTICIAS",[COLOR yellowgreen]Cheddar News[/COLOR]
 http://live.chdrstatic.com/cbn/primary/4.m3u8
+#EXTINF:-1 tvg-id="CNN.us" tvg-logo="https://static.iptv-epg.com/gb/CNN.uk.png" group-title="NOTICIAS",[COLOR yellowgreen]CNN[/COLOR]
+http://ott.artmott.com/CNN/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-logo="http://s26.postimg.org/ahwh9550p/al_jazeera_channel_qa_hd.png" group-title="NOTICIAS",[COLOR yellowgreen]Al Jazeera[/COLOR]
 https://english.streaming.aljazeera.net/aljazeera/english2/index1296.m3u8
 #EXTINF:-1 tvg-id="RT.us" tvg-logo="http://s26.postimg.org/q0yik02p5/5_YEHGFD.jpg" group-title="NOTICIAS",[COLOR yellowgreen]RT America[/COLOR]
