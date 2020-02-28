@@ -65,7 +65,7 @@ http://www.djing.com/tv/dancefloor.m3u8
 
 #EXTINF:-1 tvg-id="LA1.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/TVE_La1_-_Logo_2008.png/200px-TVE_La1_-_Logo_2008.png" group-title="ESPANHA",[COLOR yellow]La 1[/COLOR]
 http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8
-#EXTINF:-1 tvg-id="LA2.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/Logo_TVE-2.svg" group-title="ESPANHA",[COLOR yellow]La 2[/COLOR]
+#EXTINF:-1 tvg-id="LA2.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/1900px-Logo_TVE-2.svg.png" group-title="ESPANHA",[COLOR yellow]La 2[/COLOR]
 http://hlsliveamdgl0-lh.akamaihd.net/i/hlslive_1@586367/index_1500_av-p.m3u8
 #EXTINF:-1 tvg-id="Antena3.es" tvg-logo="https://assets.fontsinuse.com/static/use-media-items/67/66342/upto-700xauto/5ad8d23f/antena3_logo_nuevo.jpeg" group-title="ESPANHA",[COLOR yellow]Antena 3[/COLOR]
 https://livestartover-i.akamaized.net/antena3/master.m3u8
@@ -89,7 +89,7 @@ https://cdnlive.shooowit.net/canalextremaduralive/smil:channel1DVR.smil/playlist
 http://europa-crtvg.flumotion.com/playlist.m3u8
 #EXTINF:-1 tvg-id="TVAsturias.es" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2a/RTPA_logo.svg/200px-RTPA_logo.svg.png" group-title="ESPANHA",[COLOR yellow]TV Asturias[/COLOR]
 https://cdnlive.shooowit.net/rtpalive/smil:directo.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="CanalSurCocina.es" tvg-logo="http://www.canalsur.es/resources/archivos_offline/2018/6/20/1529521803377Canal_Andalucia_Cocina_3-01-01-01-01.svg" group-title="ESPANHA",[COLOR yellow]Canal Sur Cocina[/COLOR]
+#EXTINF:-1 tvg-id="CanalSurCocina.es" tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/canal-sur-png-5.png" group-title="ESPANHA",[COLOR yellow]Canal Sur Cocina[/COLOR]
 https://593fa17dec176.streamlock.net/cscocina/cscocina.stream/master.m3u8
 #EXTINF:-1 tvg-id="CanalSurTurismo.es" tvg-logo="http://vod.streamingconnect.tv/csturismo/admin/Uploads/medias/logo.png" group-title="ESPANHA",[COLOR yellow]Canal Sur Turismo[/COLOR]
 https://593fa17dec176.streamlock.net/csturismo/csturismo.stream/playlist.m3u8
@@ -104,7 +104,7 @@ http://svc-lvanvato-cxtv-wpxi.cmgvideo.com/wpxi/2564k/index.m3u8
 http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
 #EXTINF:-1 tvg-id="TBD.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c6/TBD_logo_2016.png" group-title="EUA",[COLOR blue]TBD[/COLOR]
 http://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8
-#EXTINF:-1 tvg-id="ClassicArtsShowcase.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Artschannel.png" group-title="EUA",[COLOR blue]Classic Arts Showcase[/COLOR]
+#EXTINF:-1 tvg-id="ClassicArtsShowcase.us" tvg-logo="https://enacademic.com/pictures/enwiki/67/Classic_Arts_Showcase.png" group-title="EUA",[COLOR blue]Classic Arts Showcase[/COLOR]
 https://classicarts.global.ssl.fastly.net/live/cas/master_3000k.m3u8
 #EXTINF:-1 tvg-id="ID.us" tvg-logo="https://static.iptv-epg.com/us/InvestigationDiscovery.us.png" group-title="EUA",[COLOR blue]ID[/COLOR]
 http://ott.artmott.com/ID/tracks-v1a1/mono.m3u8
@@ -112,7 +112,7 @@ http://ott.artmott.com/ID/tracks-v1a1/mono.m3u8
 http://ott.artmott.com/sci-fi/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="AMC.us" tvg-logo="https://static.iptv-epg.com/co/AMC.co.png" group-title="EUA",[COLOR blue]AMC[/COLOR]
 http://ott.artmott.com/AMC/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="E.us" tvg-logo="http://logok.org/wp-content/uploads/2014/05/E-Logo_Black.png" group-title="EUA",[COLOR blue]E![/COLOR]
+#EXTINF:-1 tvg-id="E.us" tvg-logo="https://www.logolynx.com/images/logolynx/79/79966091a6992aa1549083c044e792bc.jpeg" group-title="EUA",[COLOR blue]E![/COLOR]
 http://ott.artmott.com/E!/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Stadium.us" tvg-logo="https://www.bestappletv.com/wp-content/uploads/2017/10/STADIUM_LOGO-620x350_2-620x350.jpg" group-title="DESPORTO",[COLOR orange]Stadium[/COLOR]
@@ -180,11 +180,11 @@ http://109.71.162.112:1935/live/hd.jasminchannel.stream/chunklist_w815880410.m3u
 #EXTINF:-1 tvg-id="A3BIKINI.xxx" tvg-logo="https://i.imgur.com/ikorRe8.png" group-title="XXX",[COLOR red]A3BIKINI TV[/COLOR]
 https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/seglist_720p.m3u8
 
-#EXTINF:-1 tvg-id="FashionTVGlobal.fr" tvg-logo="https://www.licenseindia.com/wp-content/uploads/2015/05/fashion-tv.gif" group-title="FASHION",[COLOR pink]Fashion TV Global[/COLOR]
+#EXTINF:-1 tvg-id="FashionTVGlobal.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/1200px-Fashion_TV_logo.svg.png" group-title="FASHION",[COLOR pink]Fashion TV Global[/COLOR]
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/chunklist_b2800000_t64NzIwcA==.m3u8
-#EXTINF:-1 tvg-id="FashionTV.fr" tvg-logo="https://www.licenseindia.com/wp-content/uploads/2015/05/fashion-tv.gif" group-title="FASHION",[COLOR pink]Fashion TV Paris[/COLOR]
+#EXTINF:-1 tvg-id="FashionTV.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/1200px-Fashion_TV_logo.svg.png" group-title="FASHION",[COLOR pink]Fashion TV Paris[/COLOR]
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="FashionTVMidnite.fr" tvg-logo="https://www.licenseindia.com/wp-content/uploads/2015/05/fashion-tv.gif" group-title="FASHION",[COLOR pink]Fashion TV Midnight Secrets[/COLOR]
+#EXTINF:-1 tvg-id="FashionTVMidnite.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/1200px-Fashion_TV_logo.svg.png" group-title="FASHION",[COLOR pink]Fashion TV Midnight Secrets[/COLOR]
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="WorldFashion.ru" tvg-logo="https://www.akado.ru/lp/wfc/WF_logo_.jpg" group-title="FASHION",[COLOR pink]World Fashion Channel[/COLOR]
 https://wfc.bonus-tv.ru/cdn/wfcint/index.m3u8
