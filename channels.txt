@@ -134,7 +134,8 @@ https://tv.si/ts/EUROSPORT/stream_multi.m3u8|User-Agent=AppleCoreMedia/1.0.0.8C1
 #http://ott.artmott.com/eurosport1/playlist.m3u8
 #http://telesfor.kartoshkaka.ru/iptv/GLDUAPK7AMTDMX/141/index.m3u8
 #EXTINF:-1 tvg-id="Eurosport2.uk" tvg-logo="https://i.imgur.com/DMJ9Epc.png" group-title="DESPORTO",[COLOR orange]Eurosport 2[/COLOR]
-http://ott.artmott.com/eurosport2/playlist.m3u8
+#http://ott.artmott.com/eurosport2/playlist.m3u8
+https://rt-cache1.peers.tv/streaming/eurosport2/16/tvrecw/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Foodie.id" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/3c/Foodie.png/revision/latest?cb=20190207074112" group-title="Food",[COLOR cyan]Foodie[/COLOR]
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:foodiee/playlist.m3u8
