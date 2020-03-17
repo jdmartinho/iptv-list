@@ -2,7 +2,6 @@
 #EXTINF:-1 tvg-id="VirginMediaOne.ie" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c9/Virgin_Media_One_logo.png" group-title="IRLANDA",[COLOR lime]Virgin Media 1[/COLOR]
 http://csm-e.cds1.yospace.com/csm/extlive/tv3ie01,tv3-prd.m3u8
 #EXTINF:-1 tvg-id="TG4.ie" tvg-logo="https://media.glassdoor.com/sqll/1161918/tg4-squarelogo-1452886334240.png" group-title="IRLANDA",[COLOR lime]TG4[/COLOR]
-#http://csm-e.cds1.yospace.com/csm/live/74246540.m3u8
 http://csm-e.cds1.yospace.com/csm/live/74246610.m3u8
 #EXTINF:-1 tvg-id="VirginMediaTwo.ie" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4f/Virgin_Media_Two_logo.png" group-title="IRLANDA",[COLOR lime]Virgin Media 2[/COLOR]
 http://csm-e.cds1.yospace.com/csm/extlive/tv3ie01,3e-prd.m3u8
@@ -17,47 +16,25 @@ http://ott-cdn.ucom.am/s24/04.m3u8
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
 
 #EXTINF:-1 tvg-id="Rtp1.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/RTP1_2016.png/200px-RTP1_2016.png" group-title="PORTUGAL",[COLOR white]RTP 1[/COLOR]
-#http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtp1_5ch5h264.stream/playlist.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36
-#http://rtp-pull-live-h1bnxvdk2-proprtp-app-wrtp.hls.adaptive.level3.net:80/liverepeater/rtp1_5ch5h264.stream/playlist.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36
-#https://streaming-live.rtp.pt/liverepeater/smil:rtp8.smil/playlist.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play
-#https://streaming-live.rtp.pt/liverepeater/smil:rtp1.smil/chunklist_b640000_slpt.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play
 https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36
 #EXTINF:-1 tvg-id="Rtp2.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4d/Rtp2_2016_logo.png/250px-Rtp2_2016_logo.png" group-title="PORTUGAL",[COLOR white]RTP 2[/COLOR]
-#https://streaming-live.rtp.pt/liverepeater/smil:rtp2.smil/chunklist_b640000_slpt.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play
-#https://streaming-live.rtp.pt/liverepeater/smil:rtp2.smil/chunklist_b1290000_slpt.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36
-#http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtp2_5ch3h264.stream/playlist.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36
 https://streaming-live.rtp.pt/liverepeater/smil:rtp2.smil/chunklist_b1290000_slpt.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36
 #EXTINF:-1 tvg-id="Rtp3.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Rtp3.png/200px-Rtp3.png" group-title="PORTUGAL",[COLOR white]RTP 3[/COLOR]
-#https://streaming-live.rtp.pt/liverepeater/smil:rtpn.smil/chunklist_b640000_slpt.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play
-#https://streaming-live.rtp.pt/livetvhlsDVR/rtpndvr.smil/chunklist_b1290000_DVR_slpt.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36
-#http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpn_5ch64h264.stream/playlist.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36
 https://streaming-live.rtp.pt/livetvhlsDVR/rtpndvr.smil/chunklist_b1290000_DVR_slpt.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36
 #EXTINF:-1 tvg-id="RtpMemoria.pt"tvg-logo="http://www.tvtuga.com/wp-content/uploads/2011/01/rtp-memoria.jpg" group-title="PORTUGAL",[COLOR white]RTP Memoria[/COLOR]
-#https://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/chunklist_b640000_slpt.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36
 http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpmem_5ch80h264.stream/playlist.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36
 #EXTINF:-1 tvg-id="RTPInternacional.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/RTP_Internacional_2016_%28Reduced_Version%29.svg/219px-RTP_Internacional_2016_%28Reduced_Version%29.svg.png" group-title="PORTUGAL",[COLOR white]RTP Internacional[/COLOR]
-#https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/chunklist_b640000_slpt.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play
-#http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net:80/liverepeater/rtpi_5ch120h264.stream/playlist.pt.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36
 https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/chunklist_b1290000_slpt.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36
 #EXTINF:-1 tvg-id="RtpAfrica.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/c/cf/RTP%C3%81frica.png/250px-RTP%C3%81frica.png" group-title="PORTUGAL",[COLOR white]RTP Africa[/COLOR]
 https://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/chunklist_b640000_slpt.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36
-#http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpafrica_5ch27h264.stream/playlist.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36
 #EXTINF:-1 tvg-id="RtpMadeira.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Futuro_log%C3%B3tipo_da_RTP_Madeira.jpg/220px-Futuro_log%C3%B3tipo_da_RTP_Madeira.jpg" group-title="PORTUGAL",[COLOR white]RTP Madeira[/COLOR]
 https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/chunklist_b640000_slpt.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36
-#http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpmadeira_5ch1016h264H14.stream/playlist.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36
 #EXTINF:-1 tvg-id="RtpAcores.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/RTP_A%C3%A7ores_2016_%28Reduced_Version%29.svg/220px-RTP_A%C3%A7ores_2016_%28Reduced_Version%29.svg.png" group-title="PORTUGAL",[COLOR white]RTP Acores[/COLOR]
 https://streaming-live.rtp.pt/liverepeater/smil:rtpacores.smil/chunklist_b640000_slpt.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36
-#http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpacores_5rtpacores.stream/playlist.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36
 #EXTINF:-1 tvg-id="Porto.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Logo_Porto_Canal.jpg/200px-Logo_Porto_Canal.jpg" group-title="PORTUGAL",[COLOR white]Porto Canal[/COLOR]
 https://streamer-b02.videos.sapo.pt/live/portocanal/playlist.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://rd3.videos.sapo.pt/playhtml?file=http://rd3.videos.sapo.pt/4JUGzdDcLt2yiCPPUZnm/mov/24&relatedVideos=none&autoStart=1
-#EXTINF:-1 tvg-id="TVIReality.pt" tvg-logo="https://i.imgur.com/yM3G8nv.jpg" group-title="PORTUGAL",[COLOR white]TVI Reality[/COLOR]
-http://video-auth8.iol.pt:80/live_tvi_direct/live_tvi_direct-3/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal180.pt" tvg-logo="https://yt3.ggpht.com/a-/AN66SAwCWEacPHGtQukEPw2xn1U8wJP6hOv8sESddg=s900-mo-c-c0xffffffff-rj-k-no" group-title="PORTUGAL",[COLOR white]Canal 180[/COLOR]
-http://noscdne.entrprise.tv:1935/live/canal180.stream/livestream.m3u8
 #EXTINF:-1 tvg-id="CacaPesca.pt" tvg-logo="https://portalnacional.com.pt/images/icons/tv/CACAP.png" group-title="PORTUGAL",[COLOR white]Caca & Pesca[/COLOR]
 https://cdn039.fractalmedia.es/hls/caz_pt_high.m3u8
-#EXTINF:-1 tvg-id="Mezzo.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Mezzo_Logo.svg/1280px-Mezzo_Logo.svg.png" group-title="PORTUGAL",[COLOR white]Mezzo[/COLOR]
-http://ott-cdn.ucom.am/s35/index.m3u8
 #EXTINF:-1 tvg-id="Djing.pt" tvg-logo="https://djing.com/newimages/content/c01.jpg" group-title="PORTUGAL",[COLOR white]Djing[/COLOR]
 http://www.djing.com/tv/hits.m3u8
 #EXTINF:-1 tvg-id="DjingDanceFloor.pt" tvg-logo="https://djing.com/newimages/content/c01.jpg" group-title="PORTUGAL",[COLOR white]Djing Dance Floor[/COLOR]
@@ -95,8 +72,6 @@ https://593fa17dec176.streamlock.net/cscocina/cscocina.stream/master.m3u8
 https://593fa17dec176.streamlock.net/csturismo/csturismo.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="AndorraTV.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/RTVA_logotip.png" group-title="ESPANHA",[COLOR yellow]Andorra TV[/COLOR]
 https://videos.rtva.ad/live/rtva/playlist.m3u8
-#EXTINF:-1 tvg-id="TV3Cat.es" tvg-logo="https://yt3.ggpht.com/a-/AN66SAz2UoIH7dmD0yzR3D4evWGRk-DE0Qu00YJusg=s900-mo-c-c0xffffffff-rj-k-no" group-title="ESPANHA",[COLOR yellow]TV3 Catalunya[/COLOR]
-http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3cat_web/chunklist_b1296000.m3u8
 
 #EXTINF:-1 tvg-id="NBCPittsburgh.us" tvg-logo="https://i.imgur.com/jrWg5qE.jpg" group-title="EUA",[COLOR blue]NBC 11 Pittsburgh PA (WPXI-HD)[/COLOR]
 http://svc-lvanvato-cxtv-wpxi.cmgvideo.com/wpxi/2564k/index.m3u8
@@ -108,12 +83,14 @@ http://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8
 https://classicarts.global.ssl.fastly.net/live/cas/master_3000k.m3u8
 #EXTINF:-1 tvg-id="ID.us" tvg-logo="https://static.iptv-epg.com/us/InvestigationDiscovery.us.png" group-title="EUA",[COLOR blue]ID[/COLOR]
 http://ott.artmott.com/ID/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Syfy.us" tvg-logo="https://static.iptv-epg.com/hr/SciFi.hr.png" group-title="EUA",[COLOR blue]Syfy[/COLOR]
-http://ott.artmott.com/sci-fi/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="AMC.us" tvg-logo="https://static.iptv-epg.com/co/AMC.co.png" group-title="EUA",[COLOR blue]AMC[/COLOR]
 http://ott.artmott.com/AMC/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="E.us" tvg-logo="https://www.logolynx.com/images/logolynx/79/79966091a6992aa1549083c044e792bc.jpeg" group-title="EUA",[COLOR blue]E![/COLOR]
 http://ott.artmott.com/E!/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="DABL.us" tvg-logo="https://www.broadcastingcable.com/.image/c_fit%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_620/MTY0NzgzNDU3MzQ2NTI4NTcw/dabl-herologo.jpg" group-title="EUA",[COLOR blue]DABL[/COLOR]
+https://cbsta49f-dabl68fc.global.ssl.fastly.net/out/v1/dfecb53fbf434b6bbbfd91d8a2549381/manifest_21.m3u8
+#EXTINF:-1 tvg-id="PetCollective.us" tvg-logo="https://commodusprod.hooq.tv/cdnimagesprod/assets/feed/34c6ccfc44fa.png" group-title="EUA",[COLOR blue]The Pet Collective[/COLOR]
+https://livetvhooq.akamaized.net/b31c750a9bbe45fcbe58d72534e6b8f6/ap-southeast-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1577080744~exp=9007200831821735~acl=/b31c750a9bbe45fcbe58d72534e6b8f6/*/profile_2/chunklist.m3u8*~hmac=baa54452db02d00d42b3b34565dd2c7ac10da7fdec56bbe1e717ce4fccaba918
 
 #EXTINF:-1 tvg-id="Stadium.us" tvg-logo="https://www.bestappletv.com/wp-content/uploads/2017/10/STADIUM_LOGO-620x350_2-620x350.jpg" group-title="DESPORTO",[COLOR orange]Stadium[/COLOR]
 https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
@@ -140,17 +117,12 @@ https://tv.si/ts/EUROSPORT/stream_multi.m3u8|User-Agent=AppleCoreMedia/1.0.0.8C1
 https://rt-cache1.peers.tv/streaming/eurosport2/16/tvrecw/playlist.m3u8
 #http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/47549.m3u8
 
-#EXTINF:-1 tvg-id="Foodie.id" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/3c/Foodie.png/revision/latest?cb=20190207074112" group-title="Food",[COLOR cyan]Foodie[/COLOR]
-http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:foodiee/playlist.m3u8
-
 #EXTINF:-1 tvg-id="BloombergEurope.uk" tvg-logo="http://www.valuewalk.com/wp-content/uploads/2013/08/Bloomberg-logo.jpg" group-title="NOTICIAS",[COLOR yellowgreen]Bloomberg Europe[/COLOR]
 http://liveprodeuwest.global.ssl.fastly.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-1000-1_live.m3u8
 #EXTINF:-1, tvg-id="Cheddar.us" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5812afe1d0f0b8d55dde67fa/featuredImage.jpg" group-title="NOTICIAS",[COLOR yellowgreen]Cheddar Business[/COLOR]
 http://live.chdrstatic.com/cheddar/index.m3u8
 #EXTINF:-1, tvg-id="CheddarNews.us" tvg-logo="https://static-us-east-2-fastly-a.www.philo.com/images/channel_logos/CBNSTR/large_dark.png?auto=webp&format=png8" group-title="NOTICIAS",[COLOR yellowgreen]Cheddar News[/COLOR]
 http://live.chdrstatic.com/cbn/primary/4.m3u8
-#EXTINF:-1 tvg-id="CNN.us" tvg-logo="https://static.iptv-epg.com/gb/CNN.uk.png" group-title="NOTICIAS",[COLOR yellowgreen]CNN[/COLOR]
-http://ott.artmott.com/CNN/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-logo="http://s26.postimg.org/ahwh9550p/al_jazeera_channel_qa_hd.png" group-title="NOTICIAS",[COLOR yellowgreen]Al Jazeera[/COLOR]
 https://english.streaming.aljazeera.net/aljazeera/english2/index1296.m3u8
 #EXTINF:-1 tvg-id="RT.us" tvg-logo="http://s26.postimg.org/q0yik02p5/5_YEHGFD.jpg" group-title="NOTICIAS",[COLOR yellowgreen]RT America[/COLOR]
@@ -168,7 +140,7 @@ https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_1M.m3u8
 #EXTINF:-1 tvg-id="CGTN.cn" tvg-logo="http://singteltv.com.sg/_channels/pic_ch211.jpg" group-title="NOTICIAS",[COLOR yellowgreen]CGTN Documentary[/COLOR]
 https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
 #EXTINF:-1 tvg-id="TRTWorld.uk" tvg-logo="https://www.azernews.az/media/2018/07/07/trt_world_070718.png" group-title="NOTICIAS",[COLOR yellowgreen]TRT World[/COLOR]
-http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
+https://tv-trtworld.live.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="CBSNews.us" tvg-logo="https://cbsnews2.cbsistatic.com/hub/i/r/2013/11/08/5ba28169-5bfb-48a6-927c-9b39fec9ffb9/thumbnail/1200x630/1831cd7f24c2a77487092b7956a32bed/cbsnews-stack_1280X960.jpg" group-title="NOTICIAS",[COLOR yellowgreen]CBS News[/COLOR]
 https://dai.google.com/linear/hls/event/TxSbNMu4R5anKrjV02VOBg/master.m3u8?iu=/4128/CBS.LA.OTT
 #EXTINF:-1, tvg-id="VOA.us" tvg-logo="https://freebeacon.com/wp-content/uploads/2013/09/VOA.jpg" group-title="NOTICIAS",[COLOR yellowgreen]Voice of America[/COLOR]
@@ -203,3 +175,5 @@ http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
 http://95.67.47.114/hls/hdfashion_ua_hi/index.m3u8
 #EXTINF:-1 tvg-id="IDFashion.ua" tvg-logo="http://ik.imagekit.io/ulangotv/image/upload/3783508_logo_id_fashion.png" group-title="FASHION",[COLOR pink]ID Fashion[/COLOR]
 https://idfashion-hls3.cosmonova.net.ua/hls/idfashion_ua_hi/index.m3u8
+#EXTINF:-1 tvg-id="FashionChannel.it" tvg-logo="http://www.fashionchannel.it/images/logo.png" group-title="FASHION",[COLOR pink]Fashion Channel[/COLOR]
+https://bozztv.com/36bay2/gin/giniko_modelinc_2000kb_36bay2/tracks-v1a1/mono.m3u8

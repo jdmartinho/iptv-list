@@ -31,36 +31,19 @@
   <channel update="i" site="rpt.pt" site_id="4" xmltv_id="RtpMadeira.pt">RTP Madeira</channel>
   <channel update="i" site="rpt.pt" site_id="3" xmltv_id="RtpAcores.pt">RTP Açores</channel>
   <channel update="i" site="nos.pt" site_id="105" xmltv_id="Porto.pt">Porto Canal</channel>  
-  <channel update="i" site="nos.pt" site_id="382" xmltv_id="TVIReality.pt">TVI Reality</channel>
-  <channel update="i" site="nos.pt" site_id="129" xmltv_id="CacaPesca.pt">Caca e Pesca</channel>
-  <channel update="i" site="nos.pt" site_id="58" xmltv_id="Canal180.pt">Canal 180</channel>
-  <channel update="i" site="nos.pt" site_id="50" xmltv_id="Mezzo.pt">Mezzo</channel>
+  <channel update="i" site="nos.pt" site_id="129" xmltv_id="CacaPesca.pt">Caca e Pesca</channel>  
 
-  <!-- ESPANHA
-  <channel update="i" site="movistarplus.es" site_id="TVE" xmltv_id="LA1.es">La 1</channel>
-  <channel update="i" site="movistarplus.es" site_id="LA2" xmltv_id="LA2.es">La 2</channel>
-  <channel update="i" site="movistarplus.es" site_id="A3" xmltv_id="Antena3.es">Antena 3</channel>
-  <channel update="i" site="movistarplus.es" site_id="C4" xmltv_id="Cuatro.es">Cuatro</channel>
-  <channel update="i" site="movistarplus.es" site_id="T5" xmltv_id="Telecinco.es">Telecinco</channel>
-  <channel update="i" site="movistarplus.es" site_id="SEXTA" xmltv_id="LaSexta.es">La Sexta</channel>
-  <channel update="i" site="movistarplus.es" site_id="BEMAD" xmltv_id="BeMad.es">BE MAD</channel>
-  <channel update="i" site="movistarplus.es" site_id="3_24" xmltv_id="3/24.es">3/24</channel>
-  <channel update="i" site="movistarplus.es" site_id="13TV" xmltv_id="Trece.es">Trece</channel>  
-  <channel update="i" site="movistarplus.es" site_id="EXTRE" xmltv_id="CanalExtremadura.es">Canal Extremadura</channel>-->
+  <!-- ESPANHA -->
   <channel update="i" site="nos.pt" site_id="172" xmltv_id="RTVE24.es">RTVE 24</channel>
   <channel update="i" site="nos.pt" site_id="54" xmltv_id="TVGalicia.es">TV Galicia</channel>
 
 
   <!-- DESPORTO -->
-  <!--<channel update="i" site="nos.pt" site_id="17" xmltv_id="SportTV1.pt">Sport TV 1</channel>
-  <channel update="i" site="nos.pt" site_id="95" xmltv_id="SportTV2.pt">Sport TV 2</channel>
-  <channel update="i" site="nos.pt" site_id="136" xmltv_id="SportTV3.pt">Sport TV 3</channel>-->
   <channel update="i" site="nos.pt" site_id="10" xmltv_id="Eurosport1.uk">Eurosport 1</channel>
   <channel update="i" site="nos.pt" site_id="563" xmltv_id="Eurosport2.uk">Eurosport 2</channel>
   
   <!-- NOTICIAS -->  
   <channel update="i" site="nos.pt" site_id="44" xmltv_id="BloombergEurope.uk">Bloomberg Europe</channel>
-  <channel update="i" site="nos.pt" site_id="26" xmltv_id="CNN.us">CNN</channel>
   <channel update="i" site="nos.pt" site_id="108" xmltv_id="AlJazeeraEnglish.qa">Al Jazeera</channel>
   <channel update="i" site="nos.pt" site_id="165" xmltv_id="RT.us">RT</channel>
   <channel update="i" site="filmon.com" site_id="1981" xmltv_id="RTDoc.us">RT Documentary</channel>
