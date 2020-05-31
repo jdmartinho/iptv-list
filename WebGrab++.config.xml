@@ -17,10 +17,6 @@
   <channel update="i" site="horizon.tv" site_id="IE/eng_753737255257__https://wp13-images-ie-dynamic.horizon.tv/ChannelLogos/02/be3_HD.png" xmltv_id="VirginMediaThree.ie">Virgin Media 3</channel>
   <channel update="i" site="horizon.tv" site_id="IE/eng_753737255354__https://wp3-images-ie-dynamic.horizon.tv/ChannelLogos/02/RTE_News_Now.png" xmltv_id="RTENewsNow.ie">RTE News Now</channel>
 
-  <!-- REINO UNIDO -->
-  <channel update="i" site="horizon.tv" site_id="IE/eng_753737255288__https://wp20-images-ie-dynamic.horizon.tv/ChannelLogos/02/BBC_World.png" xmltv_id="BBCWorldNews.uk">BBC World News</channel>
-  <channel update="i" site="horizon.tv" site_id="IE/eng_753737255280__https://wp10-images-ie-dynamic.horizon.tv/ChannelLogos/02/Sky_News.png" xmltv_id="SkyNews.uk">Sky News</channel>  
-
   <!-- PORTUGAL -->
   <channel update="i" site="rpt.pt" site_id="1" xmltv_id="Rtp1.pt">RTP 1</channel>
   <channel update="i" site="rpt.pt" site_id="8" xmltv_id="Rtp2.pt">RTP 2</channel>  
@@ -37,12 +33,13 @@
   <channel update="i" site="nos.pt" site_id="172" xmltv_id="RTVE24.es">RTVE 24</channel>
   <channel update="i" site="nos.pt" site_id="54" xmltv_id="TVGalicia.es">TV Galicia</channel>
 
-
   <!-- DESPORTO -->
   <channel update="i" site="nos.pt" site_id="10" xmltv_id="Eurosport1.uk">Eurosport 1</channel>
   <channel update="i" site="nos.pt" site_id="563" xmltv_id="Eurosport2.uk">Eurosport 2</channel>
   
-  <!-- NOTICIAS -->  
+  <!-- NOTICIAS -->
+  <channel update="i" site="horizon.tv" site_id="IE/eng_753737255288__https://wp20-images-ie-dynamic.horizon.tv/ChannelLogos/02/BBC_World.png" xmltv_id="BBCWorldNews.uk">BBC World News</channel>
+  <channel update="i" site="horizon.tv" site_id="IE/eng_753737255280__https://wp10-images-ie-dynamic.horizon.tv/ChannelLogos/02/Sky_News.png" xmltv_id="SkyNews.uk">Sky News</channel>  
   <channel update="i" site="nos.pt" site_id="44" xmltv_id="BloombergEurope.uk">Bloomberg Europe</channel>
   <channel update="i" site="nos.pt" site_id="108" xmltv_id="AlJazeeraEnglish.qa">Al Jazeera</channel>
   <channel update="i" site="nos.pt" site_id="165" xmltv_id="RT.us">RT</channel>
