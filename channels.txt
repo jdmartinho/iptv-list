@@ -72,8 +72,6 @@ https://cdnlive.shooowit.net/canalextremaduralive/smil:channel1DVR.smil/playlist
 http://europa-crtvg.flumotion.com/playlist.m3u8
 #EXTINF:-1 tvg-id="TVAsturias.es" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2a/RTPA_logo.svg/200px-RTPA_logo.svg.png" group-title="ESPANHA",[COLOR yellow]TV Asturias[/COLOR]
 https://cdnlive.shooowit.net/rtpalive/smil:directo.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="AndaluciaTV.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Andaluc%C3%ADa_TV_2018_logo.svg/1200px-Andaluc%C3%ADa_TV_2018_logo.svg.png" group-title="ESPANHA",[COLOR yellow]Andalucia TV[/COLOR]
-http://disfruta.net/live/user23/user23/1794.m3u8
 #EXTINF:-1 tvg-id="CanalSurTurismo.es" tvg-logo="http://vod.streamingconnect.tv/csturismo/admin/Uploads/medias/logo.png" group-title="ESPANHA",[COLOR yellow]Canal Sur Turismo[/COLOR]
 https://593fa17dec176.streamlock.net/csturismo/csturismo.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="AndorraTV.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/RTVA_logotip.png" group-title="ESPANHA",[COLOR yellow]Andorra TV[/COLOR]

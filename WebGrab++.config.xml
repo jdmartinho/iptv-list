@@ -45,6 +45,7 @@
   <channel update="i" site="nos.pt" site_id="165" xmltv_id="RT.us">RT</channel>
   <channel update="i" site="filmon.com" site_id="1981" xmltv_id="RTDoc.us">RT Documentary</channel>
   <channel update="i" site="nos.pt" site_id="53" xmltv_id="TV5Monde.fr">TV5 Monde</channel>
+  <channel update="i" site="nos.pt" site_id="41" xmltv_id="Arte.fr">Arte</channel>
   <channel update="i" site="nos.pt" site_id="109" xmltv_id="France24.uk">France 24</channel>  
   <channel update="i" site="nos.pt" site_id="115" xmltv_id="DeutscheWelle.de">DW</channel>
   <channel update="i" site="nos.pt" site_id="46" xmltv_id="NHKWorld.jp">NHK World</channel>
