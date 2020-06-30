@@ -17,7 +17,7 @@ https://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
 #EXTINF:-1 tvg-id="NHKWorld.jp" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/41M2TiBsEnL._SY355_.png" group-title="NOTICIAS",[COLOR yellowgreen]NHK World[/COLOR]
 https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_1M.m3u8
 #EXTINF:-1 tvg-id="TV5Monde.fr" tvg-logo="https://europe.tv5monde.com/sites/tv5_locaux/files/2019-07/europe.png" group-title="NOTICIAS",[COLOR yellowgreen]TV5 Monde[/COLOR]
-https://tv5monde-europe-live.akamaized.net/live/fs/crw02/ch11/fs-crw02-11/8757fafc-0f27-0c0c-d135-8980d3fccd1d/live.isml/live.m3u8
+https://tv5europe-i.akamaihd.net/hls/live/729480/tv5europehls/master.m3u8
 #EXTINF:-1 tvg-id="Arte.fr" tvg-logo="https://www.arte.tv/sites/en/corporate/wp-content/themes/arte-entreprise/img/arte_logo.png" group-title="NOTICIAS",[COLOR yellowgreen]Arte[/COLOR]
 https://edge-1192-ch-gv.filmon.com/live/1729.high.stream/playlist.m3u8
 
@@ -122,10 +122,11 @@ https://a.jsrdn.com/broadcast/22723/+0000/hi/c.m3u8
 #EXTINF:-1 tvg-id="OlympicChannel.us" tvg-logo="https://static.iptv-epg.com/us/OlympicChannel.us.png" group-title="DESPORTO",[COLOR orange]Olympic Channel[/COLOR]
 https://ott-live.olympicchannel.com/out/u/OC1_1.m3u8
 #EXTINF:-1 tvg-id="Eurosport1.uk" tvg-logo="https://i.imgur.com/8H7zWLH.jpg" group-title="DESPORTO",[COLOR orange]Eurosport 1[/COLOR]
-https://tv.si/ts/EUROSPORT/stream_multi.m3u8|User-Agent=AppleCoreMedia/1.0.0.8C148 (iPad; U; CPU OS 4_2_1 like Mac OS X; en_us)&mode=12"
+#https://tv.si/ts/EUROSPORT/stream_multi.m3u8|User-Agent=AppleCoreMedia/1.0.0.8C148 (iPad; U; CPU OS 4_2_1 like Mac OS X; en_us)&mode=12"
 #http://ott.artmott.com/eurosport1/playlist.m3u8
 #http://telesfor.kartoshkaka.ru/iptv/GLDUAPK7AMTDMX/141/index.m3u8
 #https://cdn1.mobiletv.bg/T8/eurosport/es_794613_850k.m3u8
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8
 #EXTINF:-1 tvg-id="Eurosport2.uk" tvg-logo="https://i.imgur.com/DMJ9Epc.png" group-title="DESPORTO",[COLOR orange]Eurosport 2[/COLOR]
 #http://ott.artmott.com/eurosport2/playlist.m3u8
 #https://rt-cache1.peers.tv/streaming/eurosport2/16/tvrecw/playlist.m3u8
