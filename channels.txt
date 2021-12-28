@@ -15,7 +15,7 @@ http://ott-cdn.ucom.am/s24/04.m3u8
 #EXTINF:-1 tvg-id="France24.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/1200px-FRANCE_24_logo.svg.png" group-title="NOTICIAS",[COLOR yellowgreen]France 24[/COLOR]
 https://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
 #EXTINF:-1 tvg-id="NHKWorld.jp" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/41M2TiBsEnL._SY355_.png" group-title="NOTICIAS",[COLOR yellowgreen]NHK World[/COLOR]
-https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_1M.m3u8
+https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
 #EXTINF:-1 tvg-id="TV5Monde.fr" tvg-logo="https://europe.tv5monde.com/sites/tv5_locaux/files/2019-07/europe.png" group-title="NOTICIAS",[COLOR yellowgreen]TV5 Monde[/COLOR]
 https://tv5europe-i.akamaihd.net/hls/live/729480/tv5europehls/master.m3u8
 #EXTINF:-1 tvg-id="Arte.fr" tvg-logo="https://www.arte.tv/sites/en/corporate/wp-content/themes/arte-entreprise/img/arte_logo.png" group-title="NOTICIAS",[COLOR yellowgreen]Arte[/COLOR]
@@ -161,3 +161,18 @@ http://95.67.47.114/hls/hdfashion_ua_hi/index.m3u8
 https://idfashion.cdn-02.cosmonova.net.ua/hls/idfashion_ua_hi/index.m3u8
 #EXTINF:-1 tvg-id="FashionChannel.it" tvg-logo="http://www.fashionchannel.it/images/logo.png" group-title="FASHION",[COLOR pink]Fashion Channel[/COLOR]
 https://bozztv.com/36bay2/gin/giniko_modelinc_2000kb_36bay2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="BBC Food" tvg-logo="https://i.imgur.com/N3xiz4m.png" group-title="USA",BBC Food
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fb5844bf5514d0007945bda/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 tvg-name="CNN" tvg-logo="https://i.imgur.com/vyrc1I1.png" group-title="USA",CNN
+https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-name="ABC News Live" tvg-logo="https://i.imgur.com/7sJLzKi.png" group-title="USA",ABC News Live
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+#EXTINF:-1 tvg-name="CBSN" tvg-logo="https://i.imgur.com/nki2HDQ.png" group-title="USA",CBSN
+https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+#EXTINF:-1 tvg-name="NBC News Now" tvg-logo="https://i.imgur.com/v48mMRT.png" group-title="USA",NBC News Now
+http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/playlist.m3u8
+#EXTINF:-1 tvg-name="Reuters TV" tvg-logo="https://i.imgur.com/AbvCnoH.png" group-title="USA",Reuters TV
+https://reuters-reuters-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-name="PBS America" tvg-logo="https://i.imgur.com/J4zE5z9.jpg" group-title="UK",PBS America
+https://pbs-samsunguk.amagi.tv/playlist.m3u8
